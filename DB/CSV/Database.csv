@@ -1,0 +1,5886 @@
+Day,Word,Mean
+1,resume,"이력서, 재개하다, 다시 시작하다"
+1,opening,"공석, 개시"
+1,applicant,지원자
+1,complete an application,지원서를 작성하다
+1,submit an application,지원서를 제출하다
+1,receive an application,지원서를 받다
+1,application,"신청, 지원서, 적용"
+1,requirement,"필요조건, 요구"
+1,require,요구하다
+1,a requirement of,~의 필요조건
+1,a requirement for,~의 필요조건
+1,meet,"만족시키다, 만나다"
+1,fulfil,"충족시키다, 만족시키다, 지키다, 이행하다"
+1,meet one's needs,~의 욕구를 만족시키다
+1,meet requirements,필요조건을 만족시키다
+1,meet customer demand,소비자의 요구를 만족시키다
+1,meet expectations,기대를 충족시키다
+1,qualified,"자격있는, 적격의"
+1,be qualified for,~에 자격이 있다
+1,qualifications for,~에 대한 자격
+1,qualify,"~에게 자격을 주다, ~의 자격을 얻다"
+1,qualification,자격
+1,qualifier,"예선 통과자, 예선전"
+1,certified,증명된
+1,confidence,확신
+1,show confidence in,~에 대한 신임을 보이다
+1,express confidence in,~에 대한 신임을 보이다
+1,confidence in,~에 대한 확신
+1,in confidence,비밀로
+1,highly,매우
+1,competent,"경쟁력 있는, 유능한, 능숙한"
+1,recommended,권장되는
+1,competitve,경쟁이 심한
+1,profitable,수익성 있는
+1,professional,"전문적인, 직업의"
+1,profession,직업
+1,professionally,전문적으로
+1,interview,"면접, 면접을 보다"
+1,hire,고용하다
+1,training,"교육, 훈련"
+1,reference,"추천서, 참고"
+1,position,"일자리, 직책, 두다"
+1,accept a position,일자리를 수락하다
+1,apply for a position,일자리에 지원하다
+1,achievement,"성취, 달성"
+1,achiever,"크게 성공한 사람, 달성자, 우수자"
+1,impressed,"인상깊게 생각하는, 감명을 받은"
+1,impressive,인상적인
+1,excellent,"훌륭한, 탁월한"
+1,eligible,"자격이 있는, 적격의"
+1,be eligible for membership,회원이 될 자격이 있다
+1,be eligible for compensation,보상을 받을 자격이 있다
+1,be eligible for position,직위에 오를 자격이 있다
+1,be eligible to do,~할 자격이 있다.
+1,identify,"알아보다, 확인하다"
+1,identification,"신원 확인, 신분증"
+1,associate,관련시키다
+1,be associated with,~와 관련되다
+1,in association with,~와 제휴하여
+1,condition,조건
+1,employment,고용
+1,employee,직원
+1,employer,고용인
+1,unemployment,실업
+1,lack,~이 없다. 부족
+1,managerial,관리의
+1,manage,"경영하다, 관리하다"
+1,supervisory,"관리의, 감독하는"
+1,managerial staff,"관리 직원, 경영진"
+1,managerial experience,관리직 경력
+1,diligent,성실한
+1,familiar,친숙한
+1,be familiar with,~에 익숙하다
+1,proficiency,숙달
+1,prospective,미래의
+1,prospect,"전망, 예상"
+1,appeal,"관심을 끌다, 매력적이다"
+1,appeal to + N,"~의 흥미를 끌다, ~에게 호소하다"
+1,specialize,~을 전공하다
+1,apprehensive,걱정하는
+1,consultant,컨설턴트
+1,consult + 전문가,~와 상담하다.
+1,consult with + 대등한 상대,~와 상의하다
+1,consult + 서적,"~을 찾아보다, ~을 참고하다"
+1,entitle,자격을 주다
+1,be entitled to + N,N에 대한 자격이 주어지다
+1,be entitled to do,~할 자격이 주어지다
+1,degree,학위
+1,payroll,"임금 대장, 급료 명부"
+1,on the payroll,고용되어
+1,recruit,모집하다
+1,recruitment,신규 모집
+1,recruiter,신입 모집자
+1,certification,"증명서, 증명, 보증"
+1,occupation,"직업, 점유"
+1,occupant,"임차인, 점유자"
+1,wage,"임금 (시급, 월급)"
+1,salary,"봉급 (연봉), 급여"
+1,conpensation,보상
+1,application form,신청서
+1,career,"직업, 경력"
+1,completion,완료
+1,fair,"공정한, 타당한"
+1,graduation,졸업
+1,in fact,사실은
+1,job fair,취업 박람회
+1,job offer,일자리 제안
+1,newcomer,신입
+1,previous job,이전 직업
+1,secretary,비서
+1,send in,~을 제출하다
+1,tidy,"단정한, 깔끔한"
+1,trainee,훈련받는 사람
+1,apply for,~에 지원하다
+1,aptitude,재능
+1,be admitted to,~에 입장이 허용되다
+1,be advised to do,~할 것을 권유받다
+1,criteria,기준
+1,decade,10년
+1,insufficient,불충분한
+1,minimum,최소한의
+1,plentiful,풍부한
+1,achieve one's goal,목표를 달성하다
+1,apprentice,견습생
+1,dress formally,정장을 입다
+1,dressed in suit,정장을 입은
+1,figure out,~을 알아내다
+1,full time work,정규직
+1,job opportunity,취업 기회
+1,job search,구직
+1,job seeker,구직자
+1,lay out,펼치다
+1,letter of recommendation,추천서
+1,pay raise,임금 인상
+1,practical experience,실무 경험
+1,proof of employment,재직 증명서
+1,reapply,재신청하다
+1,recommendation letter,추천서
+1,reference letter,추천서
+1,send off to,~로 보내다
+1,set up an interview,면접 약속을 잡다
+1,take an examination,시험을 치르다
+1,zealous,"열심인, 열광적인"
+1,cover letter,자기소개서
+1,devoted,헌신적인
+1,energetic,활동적인
+1,enthusiastic,열렬한
+1,excel,"능가하다, ~보다 낫다"
+1,exclude,제외하다
+1,fluently,유창하게
+1,get through,"합격하다, 통과하다, 해내다"
+1,match,"~에 어울리다, 조화되다, 일치하다"
+1,necessity,"필요, 필요성, 필수품"
+1,relevant,관련된
+1,sigh up for,"~에 등록하다, 신청하다"
+1,talented,유능한
+1,visiting,"방문, 방문하는"
+1,workforce,"노동인구, 직원 수"
+1,address the audience,청중에게 연설하다
+1,be influenced by appearance,겉모습에 영향을 받다
+1,bilingual,2개 국어하는
+1,curriculum vitae,이력서
+1,diploma,졸업 증서
+1,endurance,인내력
+1,fluency,유창함
+1,fluent in,~에 능숙한
+1,go with,받아들이다
+1,human resources,"인적 자원, 인사관리"
+1,improperly,부적절하게
+1,in a positive manner,긍정적으로
+1,in the field of,~의 분야에서
+1,make A a regular habit,A하는 습관을 들이다
+1,make a commitment to,"~에 헌신하다, 전념하다"
+1,make a point of ~ing,반드시 ~하다
+1,manpower,인력
+1,master's degree,석사 학위
+1,novice,초심자
+1,paycheck,급료
+1,send a notification,통지서를 보내다
+1,vacancy,"공석, 결원"
+1,wanted,"~을 구하는, ~을 모집하는"
+1,work history,이력
+1,credential,자격 증명서
+1,firsthand,직접적인
+1,hiring committee,고용 위원회
+1,not to mention,~은 말할 것도 없고
+1,on occasion,때때로
+1,overqualified,필요 이상으로 교육을 받은
+1,screening,"심사, 선발"
+1,lag,"뒤쳐지다, 뒤떨어지다"
+1,on the waiting list,대기자 명단에
+1,oriented,~을 지향하는
+1,pertaining to,~에 관계된
+1,questionably,의심스럽게
+1,reqularity,정기적임
+1,replenish,보충하다
+1,simplicity,간단함
+1,stellar,"뛰어난, 별의"
+1,versatile,다재다능한
+1,adept,"능숙한, 숙달된"
+1,against all odds,모든 역경을 딛고
+1,command,"명령, 지배력"
+1,commensurate,"비례한, 액수가 상응하는"
+1,computer literate,컴퓨터 사용 기술을 가진
+1,eagerness,열의
+1,familiarize oneself with,"~에 정통하다, 익숙하다"
+1,increment,"증가, 인상"
+1,interpersonal skills,대인 관계 능력
+1,mindful,유념하는
+1,preeminent,탁월한
+1,preliminary,예비의
+1,prerequisite,"필수 조건, 필수적인"
+1,probationer,견습생
+1,sternly,"단호하게, 심하게, 엄하게"
+2,attire,복장
+2,code,"관례, 암호"
+2,concern,"걱정, 걱정스럽게 하다, 영향을 미치다, 관련되다"
+2,concern about,~에 대한 걱정
+2,concern over,~에 대한 걱정
+2,questions concerning,~에 관한 질문
+2,policy,규정
+2,comply,준수하다
+2,comply with,준수하다
+2,observe + O,"준수하다, 관찰하다"
+2,obey,"준수하다, 복종하다"
+2,regulation,규정
+2,custom regulations,관세 규정
+2,exception,예외
+2,exceptional,"예외적인, 뛰어난"
+2,exceptionally,"예외적으로, 대단히"
+2,with the exception of,~을 제외하고
+2,with very few exceptions,거의 예외없이
+2,adhere,지키다
+2,do best to,최선을 다하다
+2,adhere to,~를 지키다
+2,severely,엄격하게
+2,refrain,자제하다
+2,permission,"승인, 허락"
+2,refrain from,~을 자제하다
+2,access,"이용 권한, 접근, 도달하다"
+2,have access to,~에 접근 권한을 가지고 있다
+2,access the documents,문서를 열람하다
+2,thoroughly,철저하게
+2,revise,수정하다
+2,approach,"접근법, 처리방법, 다가오다"
+2,approval,승인
+2,obtain approval for,~에 대한 승인을 받다
+2,formal,"공식적인, 형식적인"
+2,a form of identification,신분증 한 가지
+2,immediately,즉시
+2,immediately after,직후
+2,immediately upon arrival,도착 즉시
+2,inspection,"점검, 검사"
+2,arrangement,"준비, 마련, 배열, 정돈"
+2,make arrangements to do,~할 준비하다
+2,make arrangements for,~의 준비를 하다
+2,procedure,"절차, 순서"
+2,proceed,"나아가다, 진행하다"
+2,procedual,절차상의
+2,mandate,"명령하다, 권한"
+2,effect,"효과, 결과로서 ~을 가져오다"
+2,in effect,효력 있는
+2,come into effect,"실시되다, 발효되다"
+2,take effect,"효력이 나타나다, 시행되다"
+2,have on effect on,~에 영향을 미치다
+2,secondary effect,부수적 효과
+2,drastically,"심하게, 과감하게"
+2,according to,~에 따라
+2,enable,가능하게 하다
+2,constant,지속적인
+2,constantly,끊임없이
+2,act,"법령, 결의서, 행동, 결정하다, 판결을 내리다, 행동하다"
+2,compensation for,~에 대한 보상
+2,obligation,"의무, 책임"
+2,authorize,"~을 허가하다, 권한을 부여하다"
+2,reproduction,"복제, 모조품, 재생"
+2,prohibit,금지하다
+2,abolish,폐지하다
+2,abolition,폐지
+2,enforce,"시행하다, 집행하다"
+2,enforce regulations,규정을 시행하다
+2,habit,"습관, 버릇"
+2,convention,"관례, 관습, 회의"
+2,legislation,"법률, 법규"
+2,restrict,제한하다
+2,restrict A to B,A를 B로 한정하다
+2,lift a restriction,제한을 풀다
+2,raise a restriction,제한을 풀다
+2,prohibit A from ~ing,A가 ~ing 하는 것을 금지하다
+2,Keep A form ~ing,A가 ~ing 하는 것을 금지하다
+2,forbid A from ~ ing,A가 ~ing 하는 것을 금지하다
+2,bend over,몸을 앞으로 숙이다
+2,by oneself,혼자 힘으로
+2,get used to,~에 익숙해지다
+2,if it's okay with you,당신만 괜찮다면
+2,in case of,~의 경우에는
+2,in rows,"줄지어, 여러 줄로"
+2,legal,"법률의, 합법적인"
+2,let go,놓아주다
+2,dress,옷을 차려입다
+2,have a problem  ~ing,~하는 데 문제가 있다
+2,seldom,드물게 
+2,theft,절도
+2,witness,"목격자, 증인"
+2,against the law,법에 위배되는
+2,by all means,반드시
+2,by mistake,실수로
+2,come to an end,끝나다
+2,company regulations,회사 규정
+2,give directions,"일을 지시하다, 방향을 알려주다"
+2,hold up,"견디다, 떠받치다"
+2,if I'm not mistaken,제 기억이 옳다면
+2,in progress,진행중인
+2,keep in mind,명심하다
+2,legal counsel,법률 상담
+2,suspect,"용의자, 의심하다"
+2,take one's advice,~의 충고를 따르다
+2,to one's advantage,~에게 유리하다
+2,under control,관리하에 있는
+2,under the supervision of,~의 감독하에
+2,abuse,남용하다
+2,alert,"경고하다, 주의하는"
+2,assessment,평가
+2,at all times,항상
+2,authorization,위임
+2,concerning,~에 관하여
+2,consideration,고려
+2,defensive,방어적인
+2,depiction,"묘사, 서술"
+2,disobedient,반항하는
+2,endure,"견디다, 참다"
+2,exemplary,"모범적인, 대표적인"
+2,ignore,무시하다
+2,illegal,불법의
+2,in accordance with,"~에 따라서, ~과 일치하여"
+2,indecisive,우유부단한
+2,justly,"정당하게, 당연히"
+2,observance,준수
+2,on-site,현장의
+2,penalty,벌금
+2,pointed,"예리한, 날카로운, 적절한"
+2,precious,귀중한
+2,principle,원칙
+2,punishment,처벌
+2,regulate,"규제하다, 조절하다"
+2,restricted area,제한구역
+2,safety inspection,안전 점검
+2,suppress,"억누르다, 금지하다"
+2,tensely,"긴장하여, 딱딱하게"
+2,unauthorized,인가받지 않은
+2,with respect to,~에 관하여
+2,accuse A of B,A를 B로 비난하다
+2,assess,평가하다
+2,attorney,변호사
+2,be absent from,~에 결석하다
+2,be allowed to do,~하도록 허락받다
+2,by way of,"~의 방법으로, ~에 의해서"
+2,distrust,의심하다
+2,from this day onward,오늘부터
+2,have permission to do,~할 허가를 받다
+2,in a strict way,엄격하게
+2,make clear,분명히 하다
+2,ministry,부서
+2,newly established,신설된
+2,put into effect,~을 실행하다
+2,registration confirmation,등록 확인
+2,stand over,옆에서 지켜보다
+2,warn,경고하다
+2,without respect to,~을 무시하고
+2,commonplace,"흔한일, 흔한"
+2,protective smock,보호 작업복
+2,testimony,증언
+2,accordance,"일치, 조화"
+2,crucial,중요한
+2,deviation,"일탈, 탈선"
+2,effortlessly,힘들지 않게
+2,in observance of,~을 기념하여
+2,inadvertently,"무심코, 우연히"
+2,judicial,사법의
+2,justification,정당한 이유
+2,keenly,"날카롭게, 예민하게"
+2,lawsuit,소송
+2,mundane,"일상적인, 재미없는"
+2,off-limits,출입 금지의
+2,ordinance,"법령, 명령"
+2,pulled,"철회된, 철수한"
+2,reprimand,비난하다
+2,resolution,"결정, 해상도"
+2,stiff,"뻣뻣한, 경직된"
+2,substantiate,입증하다
+2,trespass,침입하다
+2,violate,위반하다
+2,at the discretion of,~의 재량으로
+2,bound,"의무가 있는, 꼭 ~하게 되어 있는 "
+2,circumscribe,~을 제한하다
+2,enactment,법령
+2,impeccable,결점없는
+2,infringement,침해
+2,legitimate,합법적인
+2,petition,탄원서
+2,when it comes to,~에 관해서는
+3,accustomed,익숙한
+3,be accustomed to ~ ing,~하는 데 익숙하다
+3,corporation,"주식회사, 법인"
+3,demanding,"요구가 많은, 힘든"
+3,colleague,동료
+3,corporate,품사 구별하기
+3,division,부서
+3,compartment,칸막이
+3,request,"요청, 요청하다"
+3,upon request,요청 시에
+3,request for,~에 대한 요청
+3,request that + S + V,S가 V해 줄 것을 요청하다
+3,be requested to do,"~하도록 요청받다, ~하시길 바랍니다"
+3,efficiently,효율적으로
+3,manage to do,"가까스로 ~하다, 그럭저럭 ~해내다"
+3,management,"경영진, 경영"
+3,handle,"처리하다, 다루다, 취급하다"
+3,under the new management,새로운 경영진 하에
+3,submit,제출하다
+3,submit A to B,A를 B에게 제출하다
+3,directly,곧바로
+3,remind,"~에게 상기시키다, 일깨우다"
+3,instruct,"지시하다, 가르치다"
+3,remind + 사람 + of ~,~에게 ~을 상기시키다
+3,remind + 사람 + that ~,~에게 ~을 상기시키다
+3,remind 사람 to do,~에게 ~하라고 일러주다
+3,be reminded to do,~할 것을 잊지 않도록 주의받다
+3,sample,"표본, 시식하다, 시험하다"
+3,notify,알리다
+3,notify 사람 + of ~,~에게 ~에 대해 통지하다
+3,notify 사람 + that ~,~에게 ~에 대해 통지하다
+3,announce  that ~,(~에게) ~을 발표하다
+3,reveal 내용,(~에게) ~을 누설하다
+3,perform,실행하다
+3,monitor,"감독하다, 검토하다"
+3,deserve,~할 가치가 있다
+3,well-deserved advancement,응당한 승진
+3,deserved,응당한
+3,release,"발표하다, 공개하다, 출시, 발매"
+3,press release,보도 자료
+3,extension,연장
+3,electronically,컴퓨터로
+3,attendance,"참석, 출석"
+3,a certificate of attendance,수료증
+3,absolutely,완전히
+3,delegate,"위임하다, 대표(단수)"
+3,delegation,"위임, 대표단(복수)"
+3,attentively,"주의 깊게, 조심스럽게"
+3,supervision,감독
+3,supervisor,감독관
+3,workshop,"워크숍, 연수"
+3,draw,"끌다, 끌어당기다"
+3,draw praise from 사람,~로부터 칭찬을 이끌어내다
+3,draw inspiration from 사람,~로부터 격려를 이끌어내다
+3,revision,"수정, 개정"
+3,make a revision,수정하다
+3,revised edition,개정판
+3,revised policy,개정된 정책
+3,reluctantly,마지못해
+3,acquaint,~에게 숙지시키다
+3,acquaint A with B,A에게 B를 숙지시키다
+3,familiarize A with B,A에게 B를 숙지시키다
+3,convey,(용건 등) 전달하다
+3,check A for B,A를 검사하다 B의 유무를 확인하기 위해서
+3,headquarters,본부
+3,file,"정리하다, 제기하다, 제출하다"
+3,file a claim,청구하다
+3,oversee,감독하다
+3,involved,"관여하는, 관계된, 연루된"
+3,involve,"관계시키다, 수반하다, 포함하다, 참여시키다"
+3,involvement,"관련, 연루, 참여"
+3,be involved in,~에 관여하다
+3,concentrate on,~에 집중하다
+3,concentrate A on B,A를 B에 집중시키다
+3,a sheet of,~한 장
+3,business card,명함
+3,cartridge,잉크 카트리지
+3,hand,건네주다
+3,in order to,~하기 위해서
+3,paper jam,복사기에 종이 걸림
+3,paperwork,문서작업
+3,partition,"칸막이, 분할"
+3,rush hour,교통 혼잡 시간
+3,section,"부분, 구역"
+3,sheet,"시트, 종이"
+3,trash bin,쓰레기 통
+3,upstairs,위층의
+3,as if,마치 ~처럼
+3,as well as,게다가
+3,be aware of,~을 알고있다
+3,be known as,~으로 알려져있다
+3,be likely to,~할 가능성이 있다
+3,offering,제공된 것
+3,on one's own,혼자서
+3,adjust the mirror,거울을 똑바로 맞추다
+3,advance reservation,사전 예약
+3,arrange an appointment,약속을 잡다
+3,bulletin board,게시판
+3,call back,회신하다
+3,confused,혼란스러운
+3,errand,심부름
+3,extend an invitation,초대하다
+3,get a permit,허가를 받다
+3,hand in,제출하다
+3,have a day off,하루 쉬다
+3,have a long day,힘든 하루를 보내다
+3,head up,"이끌다, 책임지다"
+3,in a hurry,"서둘러, 급히"
+3,in alphabetical order,알파벳 순으로
+3,in luck,운이 좋은
+3,leave A up to B,A를 B에게 맡기다
+3,leave A with B,A를 B에게 맡기다
+3,listing,목록
+3,make a call,전화를 걸다
+3,make a correction,정정하다
+3,make a final change,최종 수정을 하다
+3,make a note of,~을 적어 두다
+3,make an inpression,"인상을 주다, 감동시키다"
+3,move ahead with,~을 순조롭게 진행시키다
+3,on a business trip,출장 중인
+3,on a weekly basis,주 단위로
+3,on business,업무차
+3,on duty,근무중인
+3,pick up the phone,전화를 받다
+3,scrub,문질러 씻다
+3,seal,"봉함, 밀봉하다"
+3,speak into the microphone,마이크에 대고 말하다
+3,speak on the phone,통화하다
+3,stand in a line,줄을 서 있다
+3,take a message,메시지를 남겨 주다
+3,take apart,"분해하다, 해체하다"
+3,utility provider,공공 설비 공급자
+3,accuired,획득한
+3,adapt,적응하다
+3,administer,관리하다
+3,clerical,사무원의 
+3,conclusive,"결정적인, 단호한"
+3,delete,삭제하다
+3,editorial,"편집자의, 사설의"
+3,endless,끝이 없는
+3,furthermore,게다가
+3,in one's absence,~의 부재 시에
+3,on purpose,일부러
+3,overseas,"해외의, 해외로"
+3,perceive,인지하다
+3,reminder,"생각나게 하는 것, 메모"
+3,roughly,"대략, 거의"
+3,strive,분투하다
+3,boardroom,회의실
+3,in person,"몸소, 직접"
+3,including,~을 포함하여
+3,on time,정각에
+3,past due,미납된
+3,put forward,앞당기다
+3,regard A as B,A를 B로 간주하다
+3,return one's call,~에게 답신 전화를 하다
+3,secretarial,비서의
+3,take charge of,~을 담당하다
+3,take on responsibility,책임을 지다
+3,throw one's effort into,~에 온 힘을 쏟다
+3,arrnage items on the shelf,선반에 상품을 배열하다
+3,call in sick,전화로 병가를 알리다
+3,cover one's shift,~대신 근무하다
+3,day-to-day operation,일상 업무
+3,in line with,"~과 일치하여, ~에 따라"
+3,officiate,식을 진행하다
+3,on hold,보류중인
+3,set down to work,일에 착수하다
+3,stay awake,깨어 있다
+3,strew,흩뿌리다
+3,take the place of,~을 대신하다
+3,take turns,교대로 하다
+3,behind schedule,"일정이 늦은, ~예정보다 늦게"
+3,condense,"간추리다, 요약하다"
+3,follow up on,~에 대해 후속 조치하다
+3,in writing,서면으로
+3,popularize,대중화하다
+3,productively,생산적으로
+3,sincerity,"성실, 정직"
+3,utilization,"이용, 활용"
+3,administrative,"관리의, 행정상의"
+3,be affiliated with,~과 제휴하고 있다
+3,conglomerate,거대 복합 기업
+3,default,"태만, 불이행"
+3,impending,"임박한, 절박한"
+3,proponent,지지자
+3,proprietor,소유자
+3,site inspection,현지 시찰
+3,subordinate,"부하 직원, 하급자"
+3,subsidiary,자회사
+3,take initiative,"솔선해서 하다, 주도권을 잡다"
+3,telecommute,재택근무하다
+4,lax,"느슨한, 규율에 못 미치는"
+4,procrastinate,"미루다, 꾸물거리다"
+4,combined,"결합된, 합동의"
+4,combined experience,종합 경력
+4,combined efforts,결합된 노력
+4,accomplish,성취하다
+4,accomplishment,성취
+4,accomplished,"기량이 뛰어난, 숙련된, 노련한"
+4,accomplished author,유명한 작가
+4,voluntarily,자발적으로
+4,voluntary,자발적인
+4,volunteer,자원자
+4,grudgingly,"마지못해, 억지로"
+4,undertake,떠맡다
+4,assume,"추정하다, 책임 역할을 맡다"
+4,assumption,"추정, 산정"
+4,presume,가정하다
+4,take on,떠맡다
+4,occasionally,가끔
+4,assist,돕다
+4,assistant,보조자
+4,assistance,보조 
+4,assist with,~을 돕다
+4,satisfied,"만족하는, 만족스러워하는"
+4,be satisfied with,~에 만족하다
+4,manner,"방식, 태도"
+4,responsible,"책임이 있는, 책임져야 할"
+4,be responsible for,~에 대해 책임이 있다
+4,hold A responsible for B,A에게 B의 책임을 지우다
+4,responsive,반응이 빠른
+4,conduct an inspection,검사하다
+4,conduct a semiar,세미나를 열다
+4,conduct a research study,조사 연구를 하다
+4,adjust to,~에 적응하다
+4,adjust A to B,A를 B에 적응시키다
+4,personnel,"직원, 인사과"
+4,sales personnel,영업 사원
+4,agree,동의하다
+4,agree on + 의견,~에 동의하다
+4,agree to + 제안/조건,~에 찬성하다
+4,agree + to V,to V 하는데 동의하다
+4,agree with + 사람,~에 동의하다
+4,supervise,감독하다
+4,coworker,동료
+4,direct,"가르쳐주다, 안내하다"
+4,direction,"방향, 지시, 감독"
+4,director,지도자
+4,direct A to B,A를 B로 안내하다
+4,confidential,기밀의
+4,assign,할당하다
+4,leading,"일류의, 가장 중요한, 선두적인"
+4,leading company,선두 기업
+4,remove,"제거하다, 해임하다"
+4,remove A from B,A를 해임하다/제거하다 B에서 말이다
+4,collect,"수집하다, 모으다"
+4,coordinate,조정하다
+4,hardly,거의 ~하지 않다
+4,hardly ever,좀처럼 ~하지 않다
+4,abstract,추상적인
+4,directory,주소록
+4,accountable,책임이 있는
+4,be accountable for A,A에 대해 책임이 있다
+4,hold A accountable for B,B에 대한 책임을 A에게 지우다
+4,be accountable to A,A에게 설명할 의무가 있다
+4,skillfully,능숙하게
+4,exclusive,독점적인
+4,intention,"의지, 의향"
+4,have every intention of ~ing,꼭 ~하고자 하다
+4,intent,"의지, 의향, 목적, 열심인"
+4,transform,바꾸다
+4,respectful,"정중한, 존중하는"
+4,respect for,~에 대한 존경
+4,with respect,존중하여
+4,respectfully,정중하게
+4,respectable,whsrudgkf aksgks
+4,duplicate,사본
+4,in duplicate,두 통으로
+4,make duplicates of ~,~의 사본을 만들다
+4,contrary,반대
+4,evidence to the ocntrary,그렇지 않다는 증거
+4,on the contrary,이에 반하여
+4,disturbing,"충격적인, 방해하는, 불안감을 주는"
+4,engage,"관여하다, 종사하다"
+4,engagement,약속
+4,engaging,매력있는
+4,appointment,"약속, 임명"
+4,engage in,"~에 관여하다, ~에 종사하다 (Vi Case)"
+4,be engaged in,"~에 관여하다, ~에 종사하다 (Vt Case)"
+4,foster,"촉진하다, 육성하다"
+4,neutrality,중립
+4,enlarge,확대하다
+4,neutral,중립의
+4,widely,널리
+4,be widely advertised,널리 광고되다
+4,widely admired,널리 존경받는
+4,wide,넓은
+4,widen,넓히다
+4,widening,확대
+4,a wode range of,폭넓은
+4,externally,외부에서
+4,external,외부의 
+4,internally,내부의 
+4,bookcase,책장
+4,bookshelf,책꽂이
+4,central office,중앙 사무실
+4,greet,"~에게 인사하다, ~를 환영하다"
+4,handwriting,"글씨, 필체"
+4,log on to,~에 로그인 하다
+4,photocopier,복사기
+4,print out,출력하다
+4,right away,즉시
+4,spell,철자를 쓰다
+4,wrap,감싸다
+4,least,"가장 작은, 가장 적은"
+4,papers,"서류, 논문"
+4,planning,계획
+4,post,"붙이다, 공고하다"
+4,press the button,버튼을 누르다
+4,store opening,개장
+4,be satusfied with,~에 만족하다
+4,be seated,앉다
+4,be surrounded by,~에 둘러싸이다
+4,business contacts,사업 상 아는 사람 또는 회사
+4,chairperson,의장
+4,copy editor,원고 정리 편집자
+4,deep end,수심이 깊은 쪽
+4,double-sided,양면의
+4,drawer,서랍
+4,get one's approval,~의 승인을 받다
+4,halfway,"중간에, 중간의"
+4,hand over,건네주다
+4,in a plie,수북이 쌓인
+4,It could have been worse,이만하니 다행이다
+4,just in time,겨우 시간에 맞춰
+4,literacy,읽고 쓰는 능력
+4,litter,"쓰레기, 어지르다"
+4,make a selection,선정하다
+4,make room for,~을 위해 공간을 마련하다
+4,out of paper,종이가 다 떨어진
+4,raise one's hand,손을 들다
+4,report a problem,문제점을 보고하다
+4,sort,"종류, 분류하다"
+4,stationery,문구류
+4,take another look,다시 한번 보다
+4,take A out,A를 꺼내다
+4,typewriter,타자기
+4,work in groups,여러 명이 작업하다
+4,writing pad,노트
+4,anticipation,"예상, 기대"
+4,automobile,자동차
+4,be asked to do,~하도록 요청받다
+4,be paid for,~에 대해 보수를 받다
+4,be qulified for,~을 위한 자격을 갖추다
+4,casual,평상복의
+4,draft,"초안을 작성하다, 초안"
+4,draw on,"~을 이용하다, ~에 의지하다"
+4,excuse,"변명, 이유, 용서하다"
+4,head office,본사
+4,in anticipation of,~을 예상하고
+4,in light of,"~을 고려하여, ~에 비추어"
+4,instrument,"도구, 기계, 악기"
+4,popularly,일반적으로
+4,standing,"고정적인, 상설의"
+4,supplementary,보충의
+4,work overtime,초과근무를 하다
+4,workplace,작업장
+4,acting,"직무 대행의, 연기"
+4,be full of,~으로 가득하다
+4,convert A with B,A를 B로 바꾸다
+4,count on,"~을 믿다, ~에 의지하다"
+4,fill with,~으로 가득차다
+4,get along with,~와 사이 좋게 지내다
+4,go down the steps,계단을 내려가다
+4,key to success,성공의 길
+4,lose one's temper,화를 내다
+4,make a copy,복사하다
+4,obsess about,~에 대해 강박 관념을 갖다
+4,overtime hours,초과 근무 시간
+4,perosonal effects,"개인 소지품, 개인 소유물"
+4,reunion,친목회
+4,sales representative,판매 직원
+4,seamless,"매끄러운, 문제없는"
+4,succeed in ~ing,~에 성공하다
+4,time-consuming,시간이 많이 걸리는
+4,bookkeeping,부기
+4,have one's hands full,몹시 바쁘다
+4,make an outside call,외부로 전화를 걸다
+4,motivation,"이유, 동기"
+4,newly listed,새로 목록에 오른
+4,prioritize,우선적으로 처리하다
+4,sit in alternate seats,한 자리씩 건너 앉다
+4,written authorization,서면 결재
+4,written consent,서면 동의
+4,acquaintance,아는 사람
+4,dimension,"규모, 차원, 관점"
+4,directive,"지시하는, 지배적인"
+4,discerning,통찰력 있는
+4,elegantly,"우아하게, 고상하게"
+4,expectant,기대하고 있는
+4,invaluable,"매우 유용한, 귀중한"
+4,propel,"나아가게 하다, 몰아가다"
+4,realization,"깨달음, 자각, 인식"
+4,recline,"기대다, 눕다, 젖혀지다"
+4,respective,"각각의, 저마다의"
+4,spontaneously,"자발적으로, 자연발생적으로"
+4,trivial,"사소한, 하찮은"
+4,turn in,"올리다, 제출하다"
+4,ambiance,분위기
+4,aspiration,"포부, 열망"
+4,creditable,훌륭한
+4,eminent,"저명한, 탁월한"
+4,endeavor,"노력하다, 애쓰다"
+4,entrust A with B,A에게 B의 책임을 맡기다
+4,on edge,"흥분하여, 안절부절 못하여"
+4,reach one's full potential,능력을 최대한 발휘하다
+5,sophisticated,"정교한, 복잡한, 세련된"
+5,timely,시기적절한
+5,in a timely manner,때맞춰
+5,realistically,현실적으로
+5,cannot realistically expect to V,현실적으로 ~을 기대하기 어렵다
+5,cannot realistically expect that ~,현실적으로 ~을 기대하기 어렵다
+5,promptly,"즉시, 정각에"
+5,prompt,"신속한, 즉각적인, 촉발하다, 유도하다"
+5,instantly,즉시
+5,abruptly,갑자기
+5,accessible,"출입 가능한, 이용할 수 있는"
+5,make A accessible to B,A를 이용할 수 있게 하다. B에게 말이다
+5,accessible by bus,버스로 갈 수 있는
+5,implement,"실시하다, 시행하다"
+5,implement a plan,계획을 실행하다
+5,implement measures,조취를 취하다
+5,feedback,"의견, 반응"
+5,outstanding,"우수한, 미납된"
+5,inform,알리다
+5,inform + 사람 + of ~,~에게 ~을 알리다
+5,inform + 사람 + that ~,~에게 ~을 알리다
+5,explain  that ~,(~에게) ~을 설명하다
+5,replacement,"교체, 대체, 후임자"
+5,announcement,"공고, 발표"
+5,department,부서
+5,permanently,"영구적으로, 불변으로"
+5,outline,"개요, 설명하다"
+5,explain,설명하다
+5,contain,"포함하다, 억누르다, 방지하다"
+5,explanation,"설명, 해명, 이유"
+5,compile,"편집하다, 모으다"
+5,subsequent,차후의
+5,subsequent to,~이후에
+5,overview,개요
+5,provider,공급자
+5,matter,"문제, 중요하다"
+5,expertise,전문 지식
+5,have expertise in A,A에 전문성이 있다
+5,area of expertise,전문 분야
+5,demonstrate,"증명하다, 설명하다"
+5,remainder,"나머지, 잔여, 잔고"
+5,demonstration,"증명, 설명, 시연"
+5,remain,"남다, 여전히 ~이다"
+5,remaining,남아있는
+5,balance,"잔액, ~의 균형을 잡다"
+5,throughout the remainder of + 기간,~기간의 나머지 내내
+5,essential,"필수적인, 본질적인"
+5,be essential to,~에 있어서 필수적이다
+5,divide,"분배하다, 나누다"
+5,devide A into B,A를 B로 나누다
+5,cut,"자르다, 삭감하다"
+5,major,"주요한, 중대한, 대다수의, 전공과목"
+5,compliance,준수
+5,in compliance with,~을 준수하여
+5,out of compliance with,~을 준수하지 않는
+5,clarify,명확하게 하다
+5,face,"직면하다, 향하다"
+5,follow,"~따라가다, 주시하다, 이해하다"
+5,following,"~의 후에, 다음에"
+5,pat attention to,"~에 집중하다, 주의하다"
+5,precede,"~에 선행하다, ~보다 앞서다, ~보다 중요하다"
+5,aspect,관점
+5,apparently,외관상으로는
+5,seemingly,겉으로는
+5,awareness,"자각, 인식"
+5,be aware of ~,~을 알고있다.
+5,be aware that ~,~을 알고있다.
+5,extended,"연장한, 장기간에 걸친"
+5,work extended hours,연장 근무하다
+5,accidentally,"뜻하지 않게, 우연히"
+5,accidental,우연한
+5,deilberately,고의로
+5,advisable,"바람직한, 합당한"
+5,concerned,"염려하는, 관련된"
+5,be concerned about,~에 대해 걱정하다
+5,be concerned with,"~와 관계가 있다, ~에 관심이 있다"
+5,speak to 사람 about ~,~에게 ~에 대해 이야기하다
+5,tell 사람 that ~,~에게 ~을 말하다
+5,say  that ~,(~에게) ~을 이야기하다
+5,briefcase,서류가방
+5,business trip,출장
+5,come over,"방문하다, 오다"
+5,counter,"계산대, 반대의"
+5,filing cabinet,서류 정리 캐비넷
+5,redo,다시 하다
+5,chief,"주된, 최고권위자"
+5,conceal,감추다
+5,correct,"맞는, 정정하다"
+5,embrace,"받아들이다, 포용하다"
+5,forum,토론회
+5,instead of,~대신에
+5,rush,서두르다
+5,unfortunately,"불행하게도, 유감스럽게도"
+5,archive,기록 보관소
+5,be unwilling to do,~하기를 꺼리다
+5,be up late,늦게까지 깨어있다
+5,blackout,정전
+5,board meeting,임원 회의
+5,board of directors,이사회
+5,cross one's arms,팔짱 끼다
+5,depressing,우울한
+5,drag,~을 끌다
+5,fold in half,반으로 접다
+5,fold up,접어 개다
+5,frighten,놀라게 하다
+5,keep going,"계속 살아가다, 계속 견디다"
+5,look up to,~를 존경하다
+5,make a presentation,발표하다
+5,make an error,실수하다
+5,meet the deadline,마감일을 맞추다
+5,meet the requirements,요구조건을 충족시키다
+5,mess up,(계획을) 망치다
+5,My schedule doesn't permit it,일정 상 불가능하다
+5,obvious,"명백한, 뻔한"
+5,office supplies,사무용품
+5,overlook,간과하다
+5,overnight,"밤새, 하룻밤 동안"
+5,proofread,검수하다
+5,rearrange,"조정하다, 재배열하다"
+5,recondition,수리하다
+5,rest one's chin on one's hand,손으로 턱을 괴다
+5,stool,(등받이 없는) 의자
+5,timecard,근무 시간 기록표
+5,wipe,"닦다, 훔쳐내다"
+5,work additional hours,추가 근무하다
+5,work shift,근무 교대
+5,burdensome,"부담스로운, 힘든"
+5,circulate,"순환하다, 순환시키다"
+5,commend,칭찬하다
+5,company,"동료, 일행, 회사"
+5,discourage,~를 낙담시키다
+5,distraction,집중을 방해하는 것
+5,failure,"고장, 파손"
+5,followed by,"뒤이어, 잇달아"
+5,interruption,"중단, 방해"
+5,make sure,확인하다
+5,mislabeled,라벨이 잘못붙여진
+5,observant,"관찰력 있는, 준수하는"
+5,persuade,설득하다
+5,proposed,제안된
+5,rephrase,바꾸어 말하다
+5,scarcely,"거의 ~하지 않다, 겨우"
+5,concisely,간결하게
+5,disapproval,반대
+5,disapprove,반대하다
+5,do A a favor,A를 도와주다
+5,do a good job,일을 잘 해내다
+5,draw a distinction between,~사이에 구별을 짓다
+5,exposed,"노출된, 드러난"
+5,intensive,집중적인
+5,problematic,"문제가 있는, 확실치 않은"
+5,project coordinator,프로젝트 책임자
+5,project management,프로젝트 관리
+5,seating capacity,좌석 수
+5,take care of,"~를 돌보다, 책임지다, 처리하다"
+5,tremendous,거대한
+5,astute,기민한
+5,bring along,"~를 데리고 가다, ~을 갖고 가다"
+5,give way to,~에게 양보하다
+5,overwork,"과로, 과로하다"
+5,put down,"~을 내려놓다, ~을 적다"
+5,reach the solution,해결하다
+5,recharge,재충전하다
+5,smock,"작업복, 기다란 셔츠"
+5,accessibility,접근 가능성
+5,coordinator,"조정자, 진행자"
+5,customary,통상적인
+5,disrupt,"방해하다, 중단시키다"
+5,elevate,승진시키다
+5,formality,"형식 상 절차, 형식적인 일"
+5,restraint,"억제, 금지"
+5,sign out,서명하여 외출을 기록하다
+5,undeniable,부인할 수 없는
+5,violation,"위반, 위배 "
+5,aggravate,악화시키다
+5,contingency,"불의의 사태, 뜻밖의 일"
+5,draw the line at,"~에 선긋다, ~이상은 하지 않다"
+5,draw up,작성하다
+5,evacuate,대피하다
+5,in commemoration of,~을 기념하여
+5,on probation,견습으로
+5,overestimate,과대평가하다
+5,privilege,특권
+5,restructure,구조조정하다
+5,segregate A from B,A를 B로부터 분리하다
+5,trigger,야기하다
+5,wary of,~을 조심하는
+6,rest,"쉬다, 휴식, 나머지"
+6,exhibition,전시회
+6,celebrity,유명인사
+6,living,"살아있는,  현재 사용되는"
+6,alive,살아 있는
+6,improvise,"즉흥적으로 하다, 즉석에서 만들다"
+6,improvisation,즉흥 연주
+6,popularity,인기
+6,likeable,호감가는
+6,donation,기부
+6,donor,기증자
+6,contribution,기부
+6,alumni,"동창생들, 졸업생들"
+6,present,"제시하다, 현재의, 참석한"
+6,presentation,"발표, 공연"
+6,presenter,발표자
+6,presently,현재
+6,present A with B,A에게 B를 제공하다
+6,present B to A,B를 제공하다 A에게 
+6,admission,입장
+6,banquet,"연회, 만찬"
+6,anniversary,기념일
+6,required,"필수의, 의무적인"
+6,be required for,"~에 필수적이다, ~을 위해 요구되다"
+6,be required to do,"~하는 데 필수적이다, ~하도록 요구되다"
+6,succeed,"성공하다, 뒤를 잇다"
+6,successful,성공적인
+6,successive,"연속의, 상속의"
+6,successively,연속하여
+6,collection,"소장품, 징수"
+6,collectable,"수집 대상물, 모을 수 있는"
+6,ceramic tiles collection,도자기 타일 모음
+6,collect A from B,A를 수집하다 B로부터
+6,fund raising,모금
+6,address an issue,쟁점을 거론하다
+6,subscription,구독
+6,appear,나타나다
+6,it appears that ~,~인 것 같다
+6,appear in court,법정에 출두하다
+6,accompany,동반하다
+6,specifically,"명확하게, 특히"
+6,anonymous,익명의
+6,commit,"헌신하다, 전념하다"
+6,be committed to ~ing,~하는 데 헌신하다
+6,commitment,"전념, 헌신"
+6,dedicate,"전념하다, 헌신하다"
+6,devote,"~에 바치다, 쏟다"
+6,informative,"유익한, 정보를 주는"
+6,informed,정보에 근거한
+6,audience,청중
+6,author,저자
+6,note,"주목하다, 언급하다"
+6,state,"진술하다, 상태"
+6,notable,"뛰어난, 중요한"
+6,antique,골동품
+6,manuscript,원고
+6,beneficial,유익한
+6,be beneficial for 사람,~에게 이익이 되다
+6,be beneficial to,~에 이익이 되다
+6,upcoming,"곧 있을, 다가오는"
+6,upcoming mayoral election,곧 있을 시장 선거
+6,lend,빌려주다
+6,rent,"임차하다, 임대하다, 임대료"
+6,current,"현재의, 통용되는"
+6,currently,현재
+6,contemporary,현대의
+6,locality,"장소, 소재"
+6,locally,"국지적으로, 장소상으로"
+6,localized,국지적인
+6,variety,"다양성, 변화, 종류"
+6,vary,"다르다, 바뀌다, 다양하다"
+6,range,"다양성, 범위, 구역, 늘어놓다, 배치하다"
+6,a variety of ~ N,다양한~
+6,advocate,옹호자
+6,contributor to ~,~의 공헌가
+6,defy,"저항하다, 거의 불가능하다"
+6,defy description,형언할 수 없다
+6,fascinating,매혹적인
+6,fascinate,매혹하다
+6,showing,"상영, 전시"
+6,cabin,"조종실, 통나무집"
+6,climb a mountain,산에 오르다
+6,film festival,영화제
+6,gallery,미술관
+6,invitation,초대 
+6,lawn,"잔디, 잔디밭"
+6,paint,"물감, 그림을 그리다"
+6,painting,그림
+6,bring,가져오다
+6,care for,"~를 돌보다, ~를 좋아하다"
+6,leisure,여가
+6,librarian,사서
+6,sightseeing,관광
+6,amusement park,놀이동산
+6,artifact,공예품
+6,auditorium,강당
+6,be booked up,매진되다
+6,box office,매표소
+6,cheerful,명량한
+6,choir,합창단
+6,entertain,"즐겁게하다, 대접하다"
+6,flower arrangement,꽃꽂이
+6,flower bed,화단
+6,go to a film,영화보러가다
+6,have a race,경주하다
+6,jog along the street,길을 따라 조깅하다
+6,oar,"노, 노를 젓다"
+6,oil painting,유화
+6,outdoor,야외의
+6,paddle,노를 젓다
+6,premiere,특별 개봉
+6,rake leaves,낙엽을 긁어모으다
+6,recreational activity,오락 활동
+6,right,"권리, 바른"
+6,running time,상영 시간
+6,sail a boat,보트를 타고 항해하다
+6,splash,(물을) 튀기다
+6,sport tournament,운동 경기
+6,stadium,경기장
+6,stay up,일어나 있다
+6,stroll,산책하다
+6,take a break,잠깐 휴식을 취하다
+6,take A for a walk,A를 산택에 데려가다
+6,take a photograph,사진을 찍다
+6,take a walk,산책하다
+6,take great pleasure,큰 즐거움을 찾다
+6,touch up a photograph,사진을 조금 수정하다
+6,wait for seats,자리를 기다리다
+6,wain in line,줄을 서서 기다리다
+6,water the plants,화초에 물을 주다
+6,amuse,즐겁게하다
+6,artistic,예술적인
+6,even though,비록 ~일지라도
+6,exhibit,"전시회, 전시하다"
+6,make oneself at home,편히 쉬다
+6,municipal,시립의
+6,owed,빚지고 있는
+6,several,몇몇의
+6,spectator,관중
+6,usher,좌석 안내원
+6,win a contest,대회에서 이기다
+6,admission to,~로 입장
+6,contestant,"경기자, 경쟁자"
+6,delight,기쁜
+6,do one's hair,머리 손질하다
+6,enjoyable,재미있는
+6,group rate,단체 요금
+6,head for,~로 향하다
+6,out of order,고장 난
+6,periodical,주기적인
+6,playing field,경기장
+6,register for,~에 등록하다
+6,show up,"나타나다, 돋보이게 하다"
+6,take a tour,"여행하다, 둘러보다"
+6,be in line,줄 서다
+6,for a change,기분 전환으로
+6,pass the time,시간 때우다
+6,pose,"자세, 자세를 취하다"
+6,stay tuned,채널을 고정시키다
+6,vacate,"집을 비우다, 방을 비우다"
+6,appreciative,"감사하는, 감탄하는"
+6,casually,약식으로
+6,enlightening,깨우치는
+6,enthusiastically,"열광적으로, 매우 열심히"
+6,excursion,소풍
+6,flock,"모이다, 떼 "
+6,intriguingly,"흥미를 자아내어, 호기심을 자극하여"
+6,leg room,다리를 뻗을 수 있는 공간
+6,mural,벽화
+6,portrait,초상화
+6,publication,"출판, 출판물"
+6,sculpture,조각상
+6,transferable,"양도 가능한, 이동 가능한"
+6,unsanitary,비위생적인
+6,be in the mood for ~ing,~하고 싶은 기분이다
+6,botanical garden,식물원
+6,censorship,검열
+6,have yet to do,"아직 ~해야 한다, 아직 ~하고 있지 않다"
+6,intermission,"휴식시간, 막간"
+6,memoirs,"회고록, 전기"
+6,rally,"랠리, 집회"
+6,ridiculous,터무니없는
+6,roam around,배회하다
+7,survey,"설문조사, 설문하다"
+7,analysis,분석
+7,analyze,분석하다
+7,reliable analysis,신뢰할 만한 분석
+7,market analysis,시장 분석
+7,respondent,응답자
+7,monopoly,"독점, 판매"
+7,monopolize,독점하다
+7,have a monopoly on,~에 대한 독점권을 가지다
+7,competition,경쟁
+7,compete,경쟁하다
+7,com[etotove,"경쟁적인, 경쟁력 있는"
+7,competitor,경쟁자
+7,compete for,~을 두고 경쟁하다
+7,consistently,"항상, 일관되게, 지속적으로"
+7,consistently produce,항상 생산하다
+7,demand,"수요, 요구하다"
+7,demand for,"~에 대한 수요, 요구"
+7,demand that S +  + V,S가 V하기를 요구하다
+7,do one's utmost,전력을 다하다
+7,do one's best,최선을 다하다
+7,expand,"확장하다, 확대하다"
+7,expansion,"확장, 팽창"
+7,expansive,"광범위한, 포괄적인"
+7,expand the market,시장을 확장하다
+7,expand the division,부서를 확장하다
+7,advanced,"고급의, 앞선"
+7,advance,"증진되다, 진전을 보이다"
+7,advancement,"발전, 진보, 승진"
+7,postpone,연기하다
+7,additional,추가의
+7,additive,첨가물
+7,additional information,추가 정보
+7,additional detail,추가 정보
+7,appreciate,"감사하다, 감상하다, 높이 평가하다"
+7,appreciation,"감사, 감상"
+7,examine,조사하다
+7,examination,"조사, 시험, 진찰"
+7,investigate,조사하다
+7,check out,"살펴보다, 대출하다, 빌리다"
+7,effective,"효과적인, (법률 등) 발효되는, 시행되는"
+7,effectively,효과적으로
+7,efficient,"효과적인, 능률적인"
+7,valid,유효한
+7,run effectively,효과적으로 작동하다
+7,likeness,유사성
+7,expecially,특히
+7,closely,엄밀히
+7,close,"가까운, 끝내다"
+7,closely watch,면밀히 관찰하다
+7,closely examine,면밀히 조사하다
+7,reserve,"예약하다, 지정하다, 보존하다"
+7,reservation,"예약, 지정, 보호구역"
+7,reserved,"내성적인, 예약된, 지정된"
+7,cooperate,"협력하다, 협동하다"
+7,very,"매우, 대단히"
+7,cooperate with,~와 협력하다
+7,cooperate on ~,~에 대해 협력하다
+7,consecutive,연속적인
+7,consecutively,연속적으로
+7,for the third consecutive year,3년 연속으로 
+7,for three consecutive years,3년 연속으로
+7,expectation,"예상, 기대"
+7,expect,"예상하다, 기대하다"
+7,surpass expectations,기대를 넘어서다
+7,above one's expectations,기대 이상으로
+7,beyond one's expectations,기대 이상으로
+7,publicize,"공표하다, 광고하다, 선전하다"
+7,raise,"높이다, 올리다, 의문을 제기하다"
+7,volce,"(감정, 의견) 말로 나타내다"
+7,extremely,"극도로, 대단히"
+7,extreme,"극도의, 과격한"
+7,affect,"~에 영향을 미치다, 불리하게 작용하다"
+7,campaign,캠페인
+7,probable,"개연성 높은, 유망한"
+7,convincing,설득력 있는
+7,probably,아마도
+7,focus,"집중시키다, 집중하다"
+7,focus A on B,A를 B에 집중시키다
+7,be focused on,~에 중점을 두다
+7,seasonal,"계절의, 계절적인"
+7,seasoned,숙련된
+7,seasonally,"계절따라, 정기적으로"
+7,seasonal variations,계절에 따른 차이
+7,seasonal demands,계절에 따른 수요
+7,seasonal changes,계절에 따른 변화
+7,seasoned traveler,숙련된 여행가
+7,impact,"영향, 충격"
+7,have an impact on,~에 영향을 주다
+7,comparison,비교
+7,comparable,필적하는
+7,in comparison with,~와 비교해 볼 때 
+7,gap between A and B,A 와 B 간의 격차
+7,generation gap,세대 차이
+7,mounting,"증가하는, 오르는"
+7,mounting pressure,증가하는 압력
+7,mounting tension,늘어가는 긴장
+7,reflective,반영하는
+7,be reflective of,~을 반영하다
+7,after all,결국
+7,answer the phone,전화를 받다
+7,as it is,있는 그대로
+7,be based on,~에 근거하다
+7,concrete,구체적인
+7,conflict with,"~과 상충되다, 충돌하다"
+7,on display,"전시된, 진열된"
+7,around the world,전 세계에
+7,attempt,"시도하다, 시도"
+7,audiovisual,시청각의
+7,avoid,"피하다, 방지하다"
+7,find out,찾아내다
+7,public relations  department,홍보부
+7,strict,엄격한
+7,typical,"전형적인, 대표적인"
+7,a piece of equipment,장비 하나
+7,all the way,"내내, 멀리서"
+7,appealing,"호소하는, 매력적인"
+7,at once,"즉시, 동시에 "
+7,definite,"분명한, 명확한"
+7,distinguish,구별하다
+7,extraordinary,"이례적인, 훌륭한"
+7,good for,"~에 유용한, 좋은"
+7,in bloom,(꽃이) 핀
+7,in reference to,~에 관하여
+7,market stal,시장 가판대
+7,metropolitan,대도시 지역
+7,national holiday,국경일
+7,on schedule,예정대로
+7,over the internet,인터넷을 통해
+7,preview,"예고편, 시사회"
+7,public display,공개전시
+7,run a campaign,캠페인을 벌이다
+7,serve a customer,손님을 상대하다
+7,spouse,배우자
+7,upside down,"거꾸로, 뒤집혀"
+7,vending machine,자동 판매기
+7,visible,"보이는, 알아볼 수 있는"
+7,as opposed to,~과는 대조적으로
+7,boldly,대담하게
+7,call on,"~를 방문하다, 부르다"
+7,excluding,~을 제외하고
+7,expectancy,"기대, 예상"
+7,forgetfully,"깜빡 잊어서, 소홀하게도"
+7,noteworthy,주목할 만한
+7,perception,"인식, 자각"
+7,potentially,"가능성 있게, 잠재적으로"
+7,randomly,"임의로, 무작위로"
+7,suitable,"적합한, 알맞은"
+7,a complete lien of,~의 전 제품
+7,accpet the offer,제안을 수락하다
+7,astonishingly,놀랍게도
+7,be noted for,~으로 유명하다
+7,claim,"주장, 요구, 청구"
+7,classified ad,짧은 신문 광고
+7,compilation,"편집, 편집물"
+7,comprehensible,"이해할 수 있는, 알기 쉬운"
+7,ciricize,"비평하다, 비난하다"
+7,dumping,"폐기, 처분"
+7,first priority,최우선 사항
+7,fixed price,정가
+7,have control over,~을 제어하다
+7,have little chance of ~ing,~할 확률이 적다
+7,in favor of,"~에 찬성하여, ~에 이익이 되도록"
+7,keep A informed of B,A에게 B에 대해 알려주다
+7,make an assessment,평가를 내리다
+7,mediate,중재하다
+7,minimize the risk of,~의 위험을 최소화하다
+7,modestly,겸손하게
+7,persistent,"끊임없는, 계속되는, 집요한"
+7,publicity,"선전, 관심"
+7,release date,발표일시
+7,stay competitive,경쟁력을 유지하다
+7,striking difference,두드러지는 차이점
+7,take a long time,오래 걸리다
+7,take action,조치를 취하다
+7,trademark,상표
+7,turn to,"~쪽으로 향하다, ~에 의지하다"
+7,unacceptable,받아들일 수 없는
+7,verify,증명하다
+7,without notice,예고 없이
+7,all out,총력을 다한
+7,all walks of life,모든 계층
+7,at a stretch,계속해서
+7,back up,"지지하다, 입증하다, 정체되다"
+7,focus group,표적 집단
+7,misleading,"오도하는, 그릇된 인상을 주는"
+7,capture,"담아내다, 포착하다"
+7,consolidate,강화하다
+7,contend,"대처하다, 싸우다"
+7,gauge,측정하다
+7,momentum,"추진력, 탄성"
+7,recognizable,"알아볼 수 있는, 인식할 수 있는"
+7,segment,"부분, 조각"
+7,telling,"효과적인, 감정을 드러내는"
+7,confiscation,"몰수, 압수"
+7,constitute,~을 구성하다
+7,drive up,(값을) 올리다
+7,feasibility study,"예비 조사, 타당성 조사"
+7,intervention,간섭
+7,irretrievable,"회복할 수 없는, 돌이킬 수 없는"
+7,jeopardize,"위태롭게 하다, 위험에 빠뜨리다"
+7,legible,읽기 쉬운
+7,lose ground,"약세를 보이다, 세력을 잃다"
+7,public profile,"인지도, 대중의 관심"
+7,reputable,평판이 좋은
+7,set forth,"(여행에) 나서다, 설명하다"
+7,set out,"(여행에) 나서다, 시작하다"
+7,setback,"방해, 퇴보, 실패"
+7,take a stand against,"~에 반대하다, 맞서다"
+7,underlying,근본적인
+7,vanish,사라지다
+7,wind up,"~으로 끝내다, 끝맺다"
+8,advertisement,광고
+8,marginal,"약간의, 주변의"
+8,margin,"여백, 여유, 판매 수익"
+8,approximate,"대략의, 근사한"
+8,customer,고객
+8,influence,"~에 영향을 주다, 영향"
+8,patron,"단골손님, 고객"
+8,influential,영향력 있는
+8,have an influence on,~에 영향을 끼치다
+8,instance,"사례, 경우"
+8,instant,즉각적인
+8,urgently,긴급히
+8,hastily,성급히
+8,creative,"독창적인, 창조적인"
+8,creativity,"창조성, 창조력"
+8,aggressively,적극적으로 
+8,aggressive,적극적인
+8,passively,수동적으로
+8,aim,"겨누다, 목표"
+8,aim to do,~할 작정이다
+8,제품 + aimed at,~을 겨냥한 제품
+8,strategy,전략
+8,strategic,전략적인
+8,strategically,전략적으로
+8,indicate,"보여주다, 나타내다"
+8,indicative,나타내는
+8,indication,"암시, 조짐"
+8,indicator,"지표, 지수"
+8,attract,"끌다, 유인하다"
+8,experience,"경험, 체험, 체험하다"
+8,introduce,"발표하다, 소개하다"
+8,advise,조언하다
+8,advisory,조언하는
+8,advise A to do,A에게 ~하라고 조언하다
+8,advise A on B,A에게 B에 관해 조언하다
+8,subscribe,구독하다
+8,absence,"부재, 결석"
+8,during one's absence,~의 부재 중에
+8,means,"방법, 수단"
+8,by means of,"~에 의하여, ~으로"
+8,means of,~에 대한 수단 / 방법
+8,instrument for,~을 위한 도구
+8,prefer,선호하다
+8,preference,선호
+8,advantageous,유리한
+8,take advantage of,~을 이용하다
+8,forward,"앞으로, 보내다"
+8,a huge step forward,한 단계의 큰 진전
+8,look forward to ~ing,~을 고대하다
+8,discussion,토론
+8,discuss,"상의하다, 토론하다"
+8,initial,"처음의, 최초의"
+8,initiate,"시작하다, 처음 접하게 되다"
+8,initially,처음에
+8,steadily,"착실하게, 꾸준히"
+8,steady,"꾸준한, 변함없는, 안정된"
+8,necessarily,반드시
+8,necessary,필요한
+8,necessitate,~을 필요로 하다
+8,not necessarily + V,반드시 V하는 것은 아니다
+8,resolve,해결하다
+8,detect,"간파하다, 탐지하다"
+8,intensify,"강화하다, 증대하다"
+8,intense,"극심한, 강렬한"
+8,favorably,"호의적으로, 순조롭게"
+8,favor,"친절, 호의"
+8,favorable,호의적인
+8,favored,호감을 사고 있는
+8,cover,"포함하다, 지불하다, 덮다, 보도하다"
+8,coverage,"범위, 보도, 취재범위"
+8,report on,보도하다
+8,lesser,~보다 중요치 않은
+8,majority,"대부분, 대다수"
+8,a majority of,~의 대다수는
+8,the majority of,~의 대다수는
+8,most of the,~의 대다수는
+8,adopt,채택하다
+8,largely,"주로, 대부분"
+8,disregard,"소홀히하다, 무시하다, 무시"
+8,effort,노력
+8,in an effort to do,~해보려는 노력으로
+8,make an effort,노력하다
+8,incentive,"혜택, 장려금"
+8,financial incentives,금전적 혜택
+8,extra incentives,추가 장려금
+8,earning,"수입, 소득"
+8,need,"필요, 요구, ~할 필요가 있다"
+8,needly,매우 가난한
+8,mastermind,지도자
+8,celebration,축하
+8,curious,호기심 많은
+8,drop by,잠깐 들르다
+8,for now,"우선은, 당분간은"
+8,gather,모으다
+8,get together,조직하다
+8,in total,총
+8,in use,사용되는
+8,practical,실용적인
+8,shovel,"치우다, 삽질하다, 삽"
+8,show,"보여주다, 전시회"
+8,space,"공간, ~의 공간을 정하다"
+8,belief,"믿음, 신념"
+8,belong to,"~에 속하다, ~의 소유물이다"
+8,be open for business,영업 중이다
+8,best selling author,베스트셀러 작가
+8,consumer,소비자
+8,entry fee,참가 비용
+8,experiment,실험
+8,findings,조사 결과
+8,obviously,명백하게
+8,photographer,사진가
+8,primarily,"주로, 원래, 처음으로"
+8,sales target,"판매 대상, 판매 목표"
+8,advertising campagin,광고 캠페인
+8,be anxious to do,몹시 ~하고 싶다
+8,bring on,~을 초래하다
+8,chase,"뒤쫓다, 추구하다"
+8,come along,"함께 가다, 함께 오다"
+8,come loose,"풀리다, 느슨해지다"
+8,conditional,조건부의
+8,customer survey,고객 설문 조사
+8,date back to,~까지 거슬러 올라가다
+8,depict,묘사하다
+8,destruction,파괴
+8,enter into,"~에 들어가다, 참가하다"
+8,get back to,~에게 답변 전화를 하다
+8,gradual,"점차적인, 단계적인"
+8,inactive,"활동하지 않는, 활발하지 않은"
+8,in the meantime,그동안에
+8,invalid,"실효성이 없는, 무효인"
+8,look over,"~을 훑어보다, 조사하다"
+8,make up one's mind,결정을 내리다
+8,meaningful,"의미 있는, 중요한"
+8,put a rush,서두르다
+8,put a strain on,~에 부담을 주다
+8,put up with,"~을 참다, 견디다"
+8,reach for,~을 잡으려고 손을 뻗다
+8,stay ahead of,~보다 앞서있다
+8,A as well as B,A도. B 뿐만 아니라 
+8,ample,"충분한, 풍부한"
+8,a range of,일련의
+8,attend to a client,고객을 상대하다
+8,confront,"직면하다, 맞서다"
+8,context,"문맥, 정황, 배경"
+8,despair,절망
+8,disconnected,연결이 끊긴
+8,dissatisfied,불만인
+8,driven,의욕이 넘치는
+8,dynamic,동적인
+8,eagerly wait,간절히 기다리다
+8,enormous,거대한
+8,fall behind,뒤처지다
+8,feasible,실행 가능한
+8,forwarding address,전송 주소
+8,get over,극복하다
+8,impress,"감동시키다, ~에게 깊은 인상을 주다"
+8,inadequate,"부적절한, 불충분한"
+8,in a timely fashion,적시에
+8,irreplaceable,바꿀 수 없는
+8,limitation,"제한, 한계"
+8,massive,"대량의, 대규모의"
+8,point out,~을 지적하다
+8,rave review,"호평, 극찬하는 기사"
+8,repeatedly,"되풀이하여, 여러 차례"
+8,unveil,밝히다
+8,a greate deal,"다량, 상당량"
+8,be sensitive to,~에 민감하다
+8,bother to do,~하느라 애쓰다
+8,call off,취소하다
+8,carry out market studies,시장 조사를 수행하다
+8,come across,우연히 만나다
+8,contrive to do,용케 ~해내다
+8,deliberate,"고의적인, 신중한, 생각이 깊은"
+8,discounted rate,할인율
+8,have a tendency to do,~하는 경향이 있다
+8,have an opportunity to do,~할 기회를 갖다
+8,have something to do with,~과 연관이 있다
+8,in turn,"차례로, 번갈아, 결과적으로"
+8,make no exception,예외를 두지 않다
+8,televise,방송하다
+8,disciplline,훈련
+8,jingle,시엠송
+8,mobility,이동성
+8,absorbing,흥미진진한
+8,admiringly,감탄하여
+8,at large,대체로
+8,boast about,"~을 자랑하다, 뽐내다"
+8,coincide with,"~와 동시에 일어나다, 일치하다"
+8,correspondent,"특파원, 동시원"
+8,counterpart,"상대방, 대응물"
+8,defeat,"패배시키다, 실패"
+8,dominant,"지배적인, 우세한"
+8,fabulous,굉장히 좋은
+8,fortify,강화하다
+8,fundamental,"기본적인, 필수적인"
+8,mingle,"섞다, 혼합하다"
+8,nuisnace,"성가신 존재, 골칫거리"
+8,preciously,"까달보게, 매우"
+8,stark,"극명한, 황량한"
+8,steadiness,"착실함, 끈기"
+8,alluring,유혹하는
+8,assimilate,~을 일치시키다
+8,at all costs,"무슨 일이 있어도, 기어코"
+8,await,기다리다
+8,captivate,"~의 마음을 사로잡다, 매혹하다"
+8,culminate in,결국 ~이 되다
+8,dissipate,"낭비하다, 흩뜨리다"
+8,driving force,추진력
+8,overwhelming,압도적인
+8,voiced,말로 표명한
+9,stagnant,"침체된, 불경기의"
+9,dramatically,극적으로
+9,dramatic,극적인
+9,substantially,"상당히, 충분히"
+9,brisk,"활발한, 호황의"
+9,strong,"활발한, 호황의"
+9,lively,"활발한, 호황의"
+9,unstable,"불안정한, 변하기 쉬운"
+9,rapidly,"급속히, 빨리"
+9,soar,"폭등하다, 높이 치솟다"
+9,plument,폭락하다
+9,assert,"단언하다, 주장하다"
+9,boost,"부양시키다, 상승시키다"
+9,analyst,분석가
+9,potential,"잠재적인, 가능성"
+9,pleased,"만족하는, 기쁜"
+9,be pleased to,~하게 되어 기쁘다
+9,remain steady,안정된 상태를 유지하다
+9,remain harmonious,조화로운 상태를 유지하다 
+9,remain the same,동일한 상태를 유지하다
+9,limited,"제한된, 한정된"
+9,limited offer,한정 판매
+9,for a limited time,한시적으로
+9,costly,"비용이 많이 드는, 손실이 큰"
+9,particular,특정한
+9,in particular,특히
+9,drastic,"과격한, 급격한"
+9,evenly,"고르게, 균등하게"
+9,evidence,증거
+9,lead,"이끌다, 지휘하다, 이르다"
+9,lead to,이어지다
+9,leading brand,선도하는 브랜드
+9,leadign figure,선도하는 인물
+9,fall,하락하다
+9,period,"기간, 시기"
+9,industry,산업
+9,likely,~할 것 같은
+9,boom,호황
+9,substitute,"대용품, 대신하다"
+9,substitute A with B,A를 B로 대체하다
+9,substitute B for A,A를 B로 대체하다
+9,be substituted for A,A를 대신하다
+9,be substituted with B,B로 대신하다
+9,consequence,결과
+9,consequential,결과로서 일어나는
+9,fairly,"상당히, 꽤"
+9,economical,"경제적인, 절약되는"
+9,extravagant,낭비하는
+9,economics,경제학 -> 학문이므로 단수취급
+9,thirve,"번영하다, 성공하다"
+9,implication,"영향, 밀접한 관계"
+9,implicate,"연루시키다, 포함하다"
+9,wane,"감소, 쇠퇴"
+9,prosperity,번영
+9,prosper,번영하다
+9,prosperous,번영하는
+9,depression,불황
+9,dwindle,"줄이다, 감소되다"
+9,diminish,감소되다
+9,impede,"저해하다, 방해하다"
+9,impediment,"방해, 방해물"
+9,facilitate,"촉진하다, 가능하게 하다"
+9,promising,"유망한, 전망이 좋은"
+9,adversity,"역경, 불운"
+9,adverse,"불리한, 불운의"
+9,business hours,영업 시간
+9,cast,던지다
+9,enterprise,"기업, 사업"
+9,firm,회사
+9,franchise,"가맹 사업, 독점 판매권"
+9,nice looking,깔끔한
+9,plenty,"풍부한, 충분한"
+9,session,(특정활동) 시간
+9,trading,거래
+9,beginning,"시작, 초기의"
+9,contribution to,~에 대한 기여
+9,convenient,편리한
+9,differently,"다르게, 별도로"
+9,formally,"정식적으로, 공식적으로"
+9,industrial,산업의
+9,lightly,"가볍게, 부드럽게"
+9,not A but B,A가 아니라 B다
+9,optimistic,낙관적인
+9,overall,"전반적인, 총체적인"
+9,possibility,가능성
+9,private,개인적인
+9,strengthen,강화하다
+9,up and down,"오르내리는, 기복이 있는"
+9,blueprint,"청사진, 계획"
+9,business deal,사업 거래
+9,family-run,가족이 운영하는
+9,fluctuation,"변동, 오르내림"
+9,for business,사업 상 
+9,foreign trade,해외 무역
+9,go into business,사업을 시작하다 
+9,go out of business,폐업하다
+9,mutual,상호의
+9,nationwide,전국적인
+9,need monitoring,관찰이 필요하다
+9,neighboring,"이웃의, 인접한"
+9,real estate sale,부동산 매매
+9,recession,경기 후퇴
+9,relieve pain,고통을 덜어주다
+9,unplug,플러그를 뽑다
+9,worsen,악화되다
+9,accumulation,누적
+9,ascend,오르다
+9,commerce,교역
+9,indifferent,"무관심한, 중요하지 않은"
+9,prolong,연장시키다
+9,relevantly,관련되어
+9,stimulate,"자극하다, 격려하다"
+9,supplement,"보완하다, 보충하다"
+9,tedious,"지루한, 싫증나는"
+9,unavoidable,불가피한
+9,be related to,~에 관련되다
+9,bring in,"(시스템) 도입하다, (돈) 벌다"
+9,brokerage,"중개, 중개업소"
+9,business management,경영
+9,business practice,사업 관행
+9,collapse,붕괴
+9,cope with,~에 대처하다
+9,cost-effective,비용 효율적인
+9,descending,"내려가는, 하향의"
+9,dominate,"지배하다, 우위를 차지하다"
+9,downturn,침체
+9,entail,"수반하다, 유발하다"
+9,exchange rate,환율
+9,flourish,"번창하다, 융성하다"
+9,for large purchases,대량 구매에 대해서
+9,for the benefit of,~의 이익을 위해
+9,foremost,선두의
+9,from around the globe,전 세계에서
+9,infrastructure,"사회 기반 시설, 경제 기반 시설"
+9,marketable,시장성이 높은
+9,momentary,"순간적인, 잠깐의"
+9,multinational corporation,다국적 기업
+9,multi regional,다지역의
+9,nationality,국적
+9,net income,순수입
+9,penalize,벌하다
+9,put forth,"~을 내밀다, 내뿜다, 제안하다"
+9,set up,"~을 세우다, 시작하다"
+9,skyrocket,(가격 등 ) 치솟다
+9,so for,지금가지
+9,surge,(물가 등) 급등하다
+9,synergy,상승효과
+9,synthesis,"종합, 통합"
+9,tactics,전략
+9,variable,"변하기 쉬운, 변덕스러운"
+9,vicious cycle,악순환
+9,without a doubt,의심할 바 없이
+9,billing address,청구서 주소
+9,government grant,정부 보조금
+9,market value,"시가, 시세"
+9,pull down,"~을 끌어내리다, ~을 하락시키다"
+9,stationary,"움직이지 않는, 정지된"
+9,abate,"누그러지다, 약해지다, 감소하다"
+9,cease,"중지하다, 그치다"
+9,conspicuously,"눈에 띄게, 두드러지게"
+9,deteriorate,"악화되다, 나빠지다"
+9,implicitly,"암암리에, 절대적으로"
+9,leisurely,"느긋한, 여유있는, 천천히"
+9,menace,위협하다
+9,perceptible,"상당한 정도의, 인지할 수 있는"
+9,placement,배치
+9,remark,"주의하다, 말하다"
+9,retrival,복구
+9,slowdown,경기 후퇴
+9,solitary,"혼자의, 외로운"
+9,ailing,"병든, 괴로워하는"
+9,financial statement,재무제표
+9,in demand,수요가 있는
+9,multilateral,다국간의
+9,nontransferable,양도할 수 없는
+9,parent company,모회사
+9,privatization,민영화
+9,rebound,"회복, 다시 일어서다"
+9,runner-up,2위의 경기자
+9,sluggish,불경기의
+9,stagnation,"침체, 불경기"
+9,volatile,"휘발성의, 심하게 변동하는"
+10,within ~ days of purchase,구입일로부터 ~일 이내에 
+10,a reduced price,할인가
+10,a retail price,소매가
+10,affordable,"알맞은, 감당할 수 있는"
+10,afford,~할 여유가 있다. 
+10,affordability,감당할 수 있는 비용
+10,affordably,"알맞게, 감당할 수 있게"
+10,reasonable,"합리적인, 적당한"
+10,expensive,값 비싼
+10,at an affordable rate,적당한 가격에
+10,at an affordable price,적당한 가격에
+10,exactly,정확히
+10,exact,정확한
+10,precisely,"정확히, 엄밀하게"
+10,installment,할부
+10,notice,"통지, 주의하다, 알아채다"
+10,notification,통지서
+10,noticeable,눈에 띄는
+10,until further notice,추후 통지가 있을 때까지
+10,give two week's notice,2주 전에 통보하다
+10,charge,"요금, 청구 금액, 책임, 의무, 청구하다, 외상으로 달아놓다"
+10,expense,"지출, 비용"
+10,free of charge,무료로
+10,in charge of,"~을 맡고 있는, 담당의"
+10,additional charge,추가 요금
+10,charge A to B,A를 B 앞으로 달아 놓다
+10,experienced,"경험이 있는, 노련한"
+10,instruction,"설명, 지시"
+10,expert,"전문가, 전문가의, 전문적인"
+10,expertly,"훌륭하게, 전문적으로"
+10,warranty,"보증, 보증서"
+10,under warranty,보증 기간 중인
+10,refund,"환불, 환불금, 환불하다"
+10,a full refund,전액환불
+10,refundable,환불 가능한
+10,provide a refund,환불해주다
+10,delivery,배달
+10,receipt,영수증
+10,original receipt,원본 영수증
+10,valid receipt,유효한 영수증
+10,upon receipt of,~을 수령 / 접수하는 즉시
+10,carefully,"주의 깊게, 신중히"
+10,care,"주의, 걱정, 걱정하다"
+10,careful,주의 깊은
+10,carelessly,부주의하게
+10,offer,"제공하다, 제공, 표현하다"
+10,promotional offers,판촉 상품
+10,offer A B,A에게 B를 제공하다
+10,offer B to A,A에게 B를 제공하다
+10,benefit,"혜택, 이익"
+10,exclusively,"오로지, 독점적으로"
+10,available exclusively online,온라인으로만 이용 가능한
+10,sell exclusively,독점판매하다
+10,exclusively supply,독점으로 제공하다
+10,soley,"단독으로, 오로지"
+10,description,"설명, 해설"
+10,job description,직무 내용
+10,secification,"설명서, 사양"
+10,account,"계좌, 설명, 밝히다, 설명하다, 차지하다"
+10,relatively,상대적으로
+10,relative,상대적인
+10,relate,"관련시키다, 들려주다"
+10,relatively lenient,상대적으로 관대한
+10,relatively low,상대적으로 낮은
+10,preparation,"준비, 대비"
+10,spare,"아끼다, 할애하다, 예비의, 여분의"
+10,area,"지역, 구역"
+10,site,"부지, 대지"
+10,clearance,"정리, 허가"
+10,clearance sale,재고 정리 할인 판매
+10,alter,"고치다, 바꾸다"
+10,alteration,"변경, 개조"
+10,apply,"적용하다, 지원하다"
+10,applicable,"적용할 수 있는, 해당하는"
+10,put to use,사용하다
+10,mutually,"서로, 상호간에"
+10,method,"방식, 방법"
+10,a method of payment,지불 방식
+10,acceptable,"용인되는, 훌륭한, 만족스러운"
+10,fine,"괜찮은, 만족할 만한, 벌금, ~에 벌금을 가하다, 훌륭한, 맑은"
+10,desire,"욕구, 갈망, 원하다, 바라다"
+10,redeemable,"교환할 수 있는, 환급할 수 있는"
+10,redeem,"되찾다, 상품으로 바꾸다"
+10,officially,공식적으로
+10,official,"공무원, 관리, 공식적인"
+10,officially open,공식적으로 개점하다
+10,consumption,"소비, 소모"
+10,qualify for A,A의 자격을 얻다
+10,fabric,"섬유, 천"
+10,auction,경매
+10,authentic,"진정한, 진짜의, 진품의"
+10,genuine,"진짜의, 진품의, 진실의"
+10,be valid for + 기간,~동안 유효하다
+10,valid receipts,유효한 영수증
+10,vendor,"노점상, 판매업체"
+10,cashier,출납원
+10,costume,"복장, 의상"
+10,free,"자유로이 할 수 있는, 마음대로의, 무료의"
+10,label,"라벨, 라벨을 붙이다"
+10,necklace,목걸이
+10,photography equipment,사진 장비
+10,shelf,선반
+10,unwanted,"원치않는, 반갑지 않은"
+10,department store,백화점
+10,discount store,할인 점포
+10,fit,"~에 꼭 맞다, ~에 적합하다"
+10,fully,"완전히, 충분히"
+10,grocery,식료품점
+10,keep,"보유하다, 계속하다"
+10,at the moment,지금
+10,celebrate,축하하다
+10,decorative item,장식품
+10,for sale,팔려고 내놓은
+10,have A strapped to one's shoulder,~의 어깨에 A를 메고 있다
+10,make a purchase,구입하다
+10,make payment,지불하다
+10,Not that I'm aware of,내가 아는 한 아니다
+10,out of town,"시내에 없는, 다른 곳으로 떠난"
+10,overcoat,외투
+10,pay in cash,현찰로 지불하다
+10,put out for display,"~을 전시해놓다, 진열해 놓다"
+10,shoelace,신발 끈
+10,shopkeeper,가게 주인
+10,showroom,진열실
+10,sleeve,소매
+10,souvenir,기념품
+10,stack,"더미, 쌓아올리다"
+10,stand in line,줄을 서다
+10,storefront,가게 앞 공간
+10,stylish,"패션 감각이 있는, 멋진"
+10,tag,꼬리표
+10,take the order,주문을 받다
+10,try on,입어 보다
+10,underline,"밑줄을 긋다, 강조하다"
+10,watch band,시곗줄
+10,window-shopping,아이쇼핑
+10,afford to do,"~할 수 있다, ~할 여유가 있다"
+10,apparel,"의복, 의류"
+10,dairy products,유제품
+10,elsewhere,"다른 장소에서는, 다른 경우에"
+10,gift certificate,상품권
+10,glassware,유리 제품
+10,inexpensive,비싸지 않은
+10,lately,최근에
+10,latest,최신의
+10,luxury,"사치, 값비싼"
+10,outerwear,"겉옷, 외투"
+10,outlet,"판매 대리점, 소매점, 콘센트"
+10,portable,휴대용의
+10,readership,독자의 수
+10,readily,"즉시, 손쉽게"
+10,a selection of,~의 모음
+10,a variety of,다양한
+10,at a discounted price,할인가로
+10,by check,수표로 
+10,by credit card,신용카드로
+10,by no means,결코 ~이 아닌
+10,get in line,줄에 들어가 서다
+10,give a discount,할인하다
+10,in cash,현금으로
+10,merchandise,"상품, 제품"
+10,no later than,늦어도 ~까지
+10,showcase,"유리진열장, 공개 행사"
+10,textile,직무르 섬유
+10,thrifty,검소한
+10,valid for,"~에 유효한, ~동안 유효한"
+10,voucher,상품권
+10,wholesale,"도매의, 다량의"
+10,wrap a present,선물을 포장하다
+10,automotive repair shop,자동차 수리점
+10,awning,"차양, 덮개"
+10,cash register,"금전 등록기, 계산대 "
+10,cooking utensil,조리 기구
+10,display case,"진열상자, 진열함"
+10,garment,의류
+10,look different,다르게 보이다
+10,tailor,"맞춤 제작하다, 재단사"
+10,wind a watch,시계태엽을 감다
+10,conversely,"거꾸로, 반대로"
+10,dilute,희석하다
+10,exposition,"박람회, 전시회"
+10,generic,일반적인
+10,high-end,최고급의
+10,merchant,"상인, 무역의"
+10,observably,눈에 띄게
+10,predictably,예상대로
+10,secondhand,"중고의, 간접의"
+10,stylishly,"현대식으로, 유행에 따르게"
+10,at a substantial discount,엄청난 할인가에
+10,bargain over prices,가격을 흥정하다
+10,embellish,"장식하다, 꾸미다"
+10,embroider,수놓다
+10,equivalent,"~에 상당하는, 맞먹는"
+10,exhilarating,아주 신나는
+10,exorbitant price,터무니 없이 비싼 가격
+10,exquisite,"정교한, 우아한"
+10,extravagance,"사치품, 낭비"
+10,lavish,사치스러운
+10,undercharge,너무 낮은 가격에 팔다
+11,research,"연구, 조사, 연구하다, 조사하다"
+11,research on,~에 대한 연구
+11,devise,"고안하다, 발명하다"
+11,contrive,고안하다
+11,invent,발명하다
+11,revolutionary,혁명적인
+11,innovative,혁신적인
+11,innovate,혁신하다
+11,feather,"특징, 특징으로 삼다"
+11,characteristic,특징
+11,inpiration,영감
+11,inspire,영감을 주다
+11,inspirational,영감을 주는
+11,sufficiently,충분히
+11,sufficient,충분한
+11,sufficiency,충분
+11,deficiently,"불충분하게, 불완전하게"
+11,patent,"특허, 특허권, ~의 특허를 얻다"
+11,envision,"계획하다, 상상하다"
+11,extend,"연장하다, 늘리다, 말하다, 베풀다"
+11,extent,"범위, 한도"
+11,extensive,"광범위한, 폭 넓은"
+11,lengthen,길게하다
+11,intend,"~할 작정이다, 의도하다"
+11,grant,"수여하다, 주다, 보조금"
+11,allowance,"보조금, 허용치, 수당, 용돈"
+11,take ~ for granted,~을 당연하게 여기다
+11,allow,"~하게 하다, 허락하다"
+11,allowable,허용 가능한
+11,allowed,"허가 받은, 허용된"
+11,inspect,"~을 검사하다, 조사하다"
+11,inspector,"검사자, 검사관"
+11,improve,"향상시키다, 개선하다"
+11,improvement,"향상, 개선"
+11,increasingly,"점점, 더욱 더"
+11,increasing,증가하는
+11,invest,"투자하다, 운용하다"
+11,various,"여러 가지의, 가지각색의"
+11,manual,"설명서, 수동의, 손으로 하는"
+11,explore,"조사하다, 탐구하다"
+11,response,"응답, 대답"
+11,in response to,~에 응하여
+11,appearance,"외관, 외모"
+11,outlook,"외관, 전망"
+11,hold,"~을 수용하다, ~을 담다, 개최하다, 열다"
+11,in advance,미리
+11,in advance of,~이전에
+11,advance in,"~의 진보, 발전"
+11,reliable,"믿을만한, 신뢰할 수 있는"
+11,reliant,"의존하는, 의지하는"
+11,rely,"의지하다, 신뢰하다"
+11,reliability,신뢰성
+11,trustworthy,신뢰할 수 있는
+11,dependable,신뢰할 수 있는
+11,quality,"품질, 우수한"
+11,domestic,국내의
+11,development,"개발, 발전"
+11,be under development,개발 중이다
+11,development in,~의 발전
+11,developed,"선진의, 발달한"
+11,developing,개발 도상의
+11,availability,"가능성, 유효성, 유용성"
+11,available,이용할 수 있는
+11,update,"갱긴, 갱신하다"
+11,updated,최신의
+11,accurate,정확한
+11,accuracy,정확성
+11,accurately,정확하게
+11,inaccurate,부정확한
+11,complicated,복잡한
+11,complicate,복잡하게 하다
+11,inquiry,"문의, 질문"
+11,inquire,"문의하다, 질문하다"
+11,manufacturer,"제조회사, 제조업자"
+11,manufacture,"제조, 제조하다"
+11,compatible,"호환되는, 양립할 수 있는"
+11,compatibility,호환성
+11,be compatible with,"~과 호환되다, ~과 양립할 수 있다"
+11,superior,"우수한, 상급의"
+11,superiority,"우월, 우위"
+11,inferior,열등한
+11,be superior to,~보다 우수하다
+11,incomparable,비할 데 없는
+11,absolute,"완전한, 완전무결한"
+11,utter,완전한
+11,to an absolute minimum,완전 최소로
+11,broaden,넓히다
+11,multiply,증가시키다
+11,corrosion,부식
+11,corrode,부식하다
+11,erosion,침식
+11,remotely,"원격으로, 멀리서"
+11,remote,"원격의, 외진"
+11,brand new,최신의
+11,break down,고장나다
+11,handmade,수공의
+11,in a row,"한 줄로, 연이어"
+11,late,"늦은, 늦게"
+11,lid,뚜껑
+11,shape,"~모양으로 만들다, 형체"
+11,sketch,스케치하다
+11,switch off,스위치를 끄다
+11,turn off,끄다
+11,be known for,~으로 알려져있다
+11,be made of,~으로 만들어지다
+11,catalog,목록
+11,chemist,화학자
+11,close down,"폐쇄하다, 폐업하다"
+11,control,"관리하다, 통제하다"
+11,historic,역사적으로 중요한
+11,invention,"발명, 발명품"
+11,original,"최초의 , 독창적인, 원형"
+11,pure,순수한
+11,request form,요청 양식
+11,a series of,일련의
+11,check the manual,사용 설명서를 참조하다
+11,come up with,"생각해 내다, 떠올리다"
+11,enter a contest,대회에 참가하다
+11,give a demonstration of,~을 보여주다
+11,go straight to,~으로 직행하다
+11,laboratory,실험실
+11,latest work,최신 작품
+11,lighweight,가벼운
+11,out of date,"시대에 뒤떨어진, 구식의"
+11,product display,제품 진열
+11,redesign,"재설계, 새 디자인"
+11,trial period,시범 사용 기간
+11,try out,시험해 보다
+11,unplug the equipment,장비의 플러그를 뽑다
+11,up to date,최신의
+11,user's quide,사용자 설명서
+11,waterproof,방수의
+11,well-prepared,잘 준비된
+11,with the lights on,불을 켠 채로
+11,appliance,전기 제품
+11,aside from,"~을 제외하고, ~에 더하여"
+11,complementary,상호 보완적인
+11,composition,구성
+11,consist of,~로 구성되다
+11,cooperative,"협력적인, 협동의"
+11,delighted,"기뻐하는, 즐거워 하는 "
+11,designed,"계획적인, 고의의"
+11,durable,"내구성 있는, 튼튼한"
+11,electronics,"전자 공학, 전자 기술"
+11,except for,~을 제외하고
+11,exploration,"탐사, 탐구"
+11,imaginable,상상할 수 있는
+11,interpretation,"해석, 설명"
+11,licensed,"인가된, 자격증을 소지한"
+11,mechanical,기계상의
+11,prediction,예측
+11,prototype,"모델, 본보기"
+11,quantity,수량
+11,remnant,나머지
+11,screen,"스크린, 심사하다"
+11,suspend,중지하다
+11,technical,기술적인
+11,unfavorable,"불리한, 호의적이지 않은"
+11,vulnerable to,~에 취약한
+11,be carried out,수행되다
+11,be designed to do,~하도록 고안되다
+11,breakthrough,비약적 발전
+11,by the time,그때까지
+11,collaboration,공동 작업
+11,copyright,저작권
+11,custom-built,주문 제작된
+11,disruption,"중단, 혼란"
+11,expand into,~으로 확장하다
+11,fuel consumption,연료 소비
+11,guidance,"안내, 지도"
+11,keep one's eye on,"~에서 눈을 떼지 않다, ~을 감사하다"
+11,limited edition,한정판
+11,long lasting,오래 지속되는
+11,plenty of,많은
+11,smoke detector,화재 탐지기
+11,be stacked on top of each other,차곡차곡 쌓이다
+11,hectic,몹시 바쁜
+11,intently,주의 깊게
+11,ornamental,장식적인
+11,reassign,"다시 맡기다, 새로 발령내다"
+11,specimen,견본
+11,achievable,"성취할 수 있는, 달성할 수 있는"
+11,apparatus,"장치, 기구"
+11,concession,"양보, 면허"
+11,concurrently,동시에
+11,configuration,배치
+11,detectable,발견할 수 있는
+11,distill,증류하다
+11,dysfunction,"기능 장애, 역기능"
+11,embedded,"삽입된, 포함된"
+11,evolve,"서서히 발달하다, 진화하다"
+11,flammable,타기 쉬운
+11,implant,"이식하다, 심어주다"
+11,patronize,"~을 단골로 삼다, 거래하다"
+11,staple,기본 식료품
+11,steer,조종하다
+11,sturdily,"튼튼하게, 완강하게"
+11,transparent,투명한
+11,be geared to,~에 맞춰져 있다
+11,bewildering,당혹하게 하는
+11,bring out,"출시하다, 끌어내다"
+11,cutting edge,최첨단의
+11,obsolete,"쓸모없게 된, 안쓰이는"
+11,quality control standards,품질 관리 기준
+11,state of the art,최신식의
+11,streamline,"능률적으로 하다, 합리화하다"
+11,top of the line,최고급의
+12,equipment,"장비, 설비"
+12,equip,"~을 갖추다, 설비하다"
+12,office equipment,사무용 비품
+12,automate,자동화하다
+12,automation,자동화
+12,automatic,자동의
+12,specification,"명세서, 설명서, 사양"
+12,specify,~을 명확히 말하다
+12,specific,"구체적인, 명확한, 세부 사항"
+12,properly,"제대로, 정확하게"
+12,proper,"적당한, 적절한"
+12,operate properly,제대로 작동하다
+12,safety,안전
+12,safely,안전하게
+12,safety precautions,안전 예방 조치
+12,safety regulations,안전 수칙
+12,precaution,"예방 조치, 예방책"
+12,precautious,조심하는
+12,safegaurd,예방책
+12,operate,"작동하다, 경영하다"
+12,operation,"작동, 수술"
+12,operational,작동하는
+12,operable,"사용할 수 있는, 수술 가능한"
+12,processing,"가공, 처리"
+12,process,"과정, 처리하다"
+12,capacity,"용량, 역할 "
+12,capacious,용량이 큰
+12,be filled to capacity,가득 차 있다
+12,expand the capacity,용량을 늘리다
+12,limited capacity,용량 제한
+12,storage capacity,저장 용량
+12,assemble,"조립하다, 모으다"
+12,assembly,"조립, 조립품"
+12,build,"조립하다, 건축하다"
+12,call together,소집하다
+12,disassemble,분해하다
+12,assembly line,조립 라인
+12,assembly plant,조립 공장
+12,utilize,"이용하다, 활용하다"
+12,place,"~을 ~한 상태에 두다, ~ 하다"
+12,leave,"~한 상태로 놓아두다, 휴가, 떠나다, 남기다"
+12,place A on standby,A를 대기 상태로 두다
+12,fill,"~을 채우다, 이행하다"
+12,fill A with B,A를 B로 채우다
+12,fill an order,주문에 응하다
+12,fill the position,공석을 채우다
+12,manufacturing,"제조의, 제조"
+12,renovate,"개조하다, 수리하다, 보수하다"
+12,decision,"결정, 판단"
+12,make a decision about,~에 대해 결정을 내리다
+12,material,"재료, 물질"
+12,ingredient,"재료, 성분"
+12,attribute,~의 덕분으로 돌리다
+12,attribute A to B,A를 B 덕분으로 돌리다
+12,A is attributed to B,A는 B 덕분이다
+12,ascribe,(원인을) ~에 돌리다
+12,efficiency,"효율, 능률"
+12,effiecient,능률적인
+12,office efficiency,사무 효율성
+12,tailored,"맞춤의, 주문에 따라 맞춘"
+12,component,"부품, 구성요소"
+12,capable,"~을 할 수 있는, ~할 능력이 있는"
+12,capability,"능력, 역량"
+12,capably,"유능하게, 훌륭하게"
+12,incapable,"~을 할 수 없는, 무는앟ㄴ"
+12,be capable of ~ing,"~을 할 수 있다, ~할 능력이 있다"
+12,be able to do,~을 할 수 있다
+12,economize,"절약하다, 아끼다"
+12,flexible,"융통성 있는, 유연한"
+12,flexibility,"융통성, 유연성"
+12,be comparable to,"~에 필적하다, ~에 비길 만하다"
+12,produce,생산하다
+12,production,"생산, 생산량"
+12,productivity,생산성
+12,turn out,"생산하다, 제조하다, ~으로 판명되다"
+12,respectively,"각각, 따로"
+12,gadget,장치
+12,trim,"다듬다, 없애다, 삭감하다"
+12,launch,출시하다
+12,separately,"별도로, 각자"
+12,expiration,"만료, 만기"
+12,maneuver,"이동시키다, 움직이다"
+12,coming,"다가오는, 도착"
+12,be made separately,개별적으로 제작되다
+12,be ordered separately,따로따로 주문되다
+12,damaged,"손상된, 손해를 입은"
+12,impaired,장애가 있는
+12,injured,부상당한
+12,prevent,"~을 막다, 예방하다"
+12,prevention,예방
+12,preventive,예방의
+12,preventively,"예방용으로, 방지하여"
+12,prevent A from ~ing,A가 ~하는 것을 막다
+12,hinder,"저지하다, 방해하다"
+12,power supply,전력 공급
+12,power plant,발전소
+12,a powerful engine,강력한 엔진
+12,chemical,화학 제품
+12,clothing line,의류 상품
+12,craft,기술
+12,crop,"농작물, 산출량"
+12,curved,"구부러진, 곡선 모양의"
+12,cyclist,자전거 타는 사람
+12,firewood,장작
+12,iron,"철, 다림질 하다"
+12,look up,"~을 찾다, 쳐다보다"
+12,machinery,"기계류, 기계장치"
+12,not at all,"전혀 ~아니다, 천만에"
+12,not far from,~에서 멀지 않은
+12,plant,"식물, 공장, 심다"
+12,publication company,출판 회사
+12,scratch,긁다
+12,tool belt,공구 벨트
+12,watering can,물뿌리개
+12,a number of,많은
+12,be composed of,~으로 구성되다
+12,be filled with,~으로 채워지다
+12,be made up of,~으로 구성되다
+12,facility,시설
+12,fasten,"단단히 고정시키다, 잠그다"
+12,incredible,"놀라운, 믿기 어려운"
+12,modification,"변경, 수정"
+12,raw material,원자재
+12,shortage,부족
+12,underground,"지하의, 비밀의"
+12,fasten the strap,끈을 조이다
+12,give a hand,돕다
+12,go out of production,생산을 중단하다
+12,in a moment,"순식간에, 곧"
+12,maintenance cost,유지비
+12,makeup,"조립, 구성"
+12,much to one's surprise,매우 놀랍게도
+12,not only A but also B,A뿐만 아니라 B도 
+12,pack away,"모아두다, 저장하다"
+12,remarkably,두드러지게
+12,scale model,축소 모형
+12,squeaking sound,끽끽거리는 소리
+12,wearable,착용할 수 있는
+12,workbench,작업대
+12,adapted,"적당한, 알맞은, 개조된"
+12,automatically,자동적으로
+12,combustible,"타기 쉬운, 흥분하기 쉬운"
+12,fitted,"꼭 맞게 만들어진, 갖추어진"
+12,priced,값이 붙은
+12,reform,"개혁, 개혁하다"
+12,representation,"묘사, 표현, 대표"
+12,technically,"기술적으로, 엄밀히 말하면"
+12,technician,"기술자, 기사"
+12,utterly,"완전히, 철저히"
+12,adversely,불리하게
+12,agricultural,농업의
+12,artificial,인공적인
+12,be irrelevant to,~과 무관하다
+12,crude,"천연 그대로의, 미숙한"
+12,crude oil,원유
+12,custom made,주문 제작한
+12,downsize,줄이다
+12,gem,보석
+12,generator,발전기
+12,grease,윤활유
+12,identically,똑같이
+12,in the event of,~의 경우에는
+12,in the process of,~이 진행 중인
+12,individually tailored,개인 맞춤의
+12,integration,통합
+12,line worker,작업 라인 노동자
+12,made to order,맞춤 제작된
+12,make an arrangement,준비하다
+12,make an exception,예외로 하다
+12,make public,발표하다
+12,market awareness,시장 인지도
+12,neatly,"깔끔하게, 단정하게"
+12,on call,"언제든지 사용할 수 있는, 대기하고 있는"
+12,on the edge of,막 ~하려는 찰나에
+12,on the  spot,"현장에, 즉시"
+12,outlast,~보다 오래가다
+12,put in place,제자리에 두다
+12,query,질문
+12,ready made,기성품의 
+12,reassemble,"재조립하다, 다시 모이다"
+12,refine,"정제하다, 개선하다"
+12,sector,"부문, 구역"
+12,settle on,~을 결정하다
+12,sort out,~을 정리하다
+12,synthetic,합성의
+12,tailor-made,맞춤의
+12,upon ~ing,~하자마자
+12,wear and tear,"마모, 손상"
+12,come apart,부서지다
+12,flow chart,설계도
+12,production quota,생산량 할당
+12,tie up,"단단히 묶다, 마무리 짓다"
+12,discontinue,중단하다
+12,halt,중단
+12,occurrence,"사건, 발생"
+12,operating,"조작상의, 운영상의"
+12,predicted,예상되는
+12,welding,용접
+12,arable,경작에 알맞은
+12,broadly,대략
+12,continuity,"지속성, 연속성"
+12,excavation,발굴
+12,fabricate,제작하다
+12,involuntarily,본의 아니게
+12,liquidity,유동성
+12,nimble,"민첩한, 재빠른"
+12,obfuscate,"당황하게 하다, 혼란스럽게 만들다"
+12,pertinent,관련된
+12,perturbed,동요하는
+12,pragmatic,실용적인
+12,prevail,"널리 퍼지다, 이기다, 우세하다"
+12,procurement,조달
+12,provoke,"화나게 하다, 유발하다"
+12,recede,"(가치, 품질 등) 떨어지다"
+12,tolerance,관용
+12,infailingly,"변함없이, 영락없이"
+12,unmet,채워지지 않은
+13,complaint,불평
+13,complain,불평하다
+13,grumble,불평
+13,compliment,칭찬
+13,make complaints against,"~에 대해 불평하다, 트집을 잡다"
+13,file a complaint with,~에 불만을 제기하다
+13,deal,"처리하다, 거래하다, 분배하다, 거래"
+13,deal with,처리하다
+13,a good deal,유리한 거래
+13,a great deal of,"다량의, 많은"
+13,argumentative,"논쟁적인, 논쟁을 좋아하는"
+13,argue,논쟁하다
+13,argument,논쟁
+13,arguably,"단언컨대, 거의 틀림없이"
+13,arguable,논쟁의 여지가 있는
+13,appropriately,적절하게
+13,appropriate,적절한
+13,suitably,"적절하게, 알맞게"
+13,inappropriately,부적절하게
+13,respond,응답하다
+13,respond to,~에 응답하다
+13,infuriate,"화나게 하다, 격분시키다"
+13,infuriating,격분하게 하는
+13,courteous,예의바른
+13,courtesy,예의 바름
+13,courteously,예의 바르게
+13,satisfaction,만족
+13,satisfactory,만족스러운
+13,content,"만족, 내용물, 만족시키다, 만족하는"
+13,to one's satisfaction,"~가 만족하도록, 만족스럽게"
+13,customer satisfaction,고객 만족
+13,satisfaction survey,만족도 조사
+13,inconvenience,"불편, ~에게 불편을 느끼게 하다"
+13,inconvenient,불편한
+13,in convenience + 사람,~에게 불편을 느끼게 하다
+13,complete,"완료하다, 완료된"
+13,completely,"완전히, 전적으로"
+13,incomplete,미완성의
+13,complete a survey,설문지를 작성하다
+13,return,"반환하다, 반송하다, 돌아오다, 반환"
+13,replace,"~을 교체하다, 대체하다"
+13,replaceable,"대신할 수 있는, 교체 가능한"
+13,replace A with B,A를 B로 교체하다
+13,evaluation,평가
+13,evaluator,평가자
+13,evaluate,평가하다
+13,performance evaluation,"실적 평가, 성능 평가"
+13,course evaluation,강의 평가
+13,confident,"확신하는, 자신 있는"
+13,confidently,자신 있게
+13,cause,"~을 야기하다, ~의 원인이 되다, 원인"
+13,cause damage,피해를 야기하다
+13,cause malfunction,고장을 야기하다
+13,cause delay,지연을 야기하다
+13,commentary,"해설, 설명"
+13,commentate,해설하다
+13,notification of,~에 대한 통지
+13,apologize,사과하다
+13,apologize for 원인,~에 대해 사과하다
+13,apologize to 사람,~에게 사과하다
+13,interact,"소통하다, 교류하다, 상호 작용을 하다"
+13,interactive,상호작용하는
+13,certain,"확신하는, 확실한, 특정한"
+13,committed,전념하는
+13,dedication,헌신
+13,commitment to,"~에 대한 헌신, 전념"
+13,be committed to,~에 전념하다
+13,applaud,"~에게 박수를 보내다, 칭찬하다"
+13,biography,"약력, 전기"
+13,critical,"비판적인, 중요한, 위기의"
+13,criticize,비판하다
+13,critic,비평가
+13,critique,"평론, 비평하다"
+13,critically,"비판적으로, 위태롭게"
+13,important,중요한
+13,be critical of,~에 대해 비판적이다
+13,depend on,"~에 달려있다, ~에 의존하다"
+13,dependent,의존하는
+13,combine,결합시키다
+13,combination,"결합, 조합"
+13,priority,"우선 사항, 우선권"
+13,prior,"우선하는, 먼저의"
+13,observe,"관찰하다, 주시하다, 준수하다, 지키다"
+13,observation,관찰
+13,observe safety regulations,안전수칙을 준수하다
+13,observe guidelines,지침을 지키다
+13,defective,결함이 있는
+13,defect,"결점, 결함"
+13,defectively,불오나전하게
+13,faulty,결점이 있는
+13,reflect,"반영하다, 나타내다"
+13,attitude,"태도, 마음가지"
+13,disappoint,실망시키다
+13,disappointed,실망한
+13,disappointing,실망시키는
+13,disappointment,실망
+13,insert,삽입하다
+13,insert A into B,A를 B에 삽입하다
+13,disclose,"공개하다, 드러내다"
+13,disclosure,"폭로, 발각"
+13,reveal,밝히다
+13,expose,드러내다
+13,guarantee,"보장하다, 보장"
+13,guarantee of,~에 대한 보장
+13,politely,"공손하게, 예의바르게"
+13,polite,"공손한, 예의바른"
+13,politeness,공손함
+13,impolitely,무례하게
+13,seriously,진지하게
+13,take A seriously,A를 진지하게 받아들이다
+13,a couple of,"두 개의, 몇 개의"
+13,athlete,운동선수
+13,call for,"~을 요구하다, ~을 가지러 들르다, ~을 필요로 하다"
+13,customer service representative,고객 서비스 담당 직원
+13,get a phone call,전화를 받다
+13,give a call,전화를 하다
+13,have one's hair cut,머리카락을 자르다
+13,just for a minute,잠시만 기다려 주세요
+13,laundry service,세탁 서비스
+13,leave a message,메시지를 남기다
+13,product logo,제품 상표
+13,rinse,헹구다
+13,voice mail,음성메일
+13,as soon as possible,가능한 빨리
+13,counselor,상담원
+13,for free,무료로
+13,grocery store,"식품점, 슈퍼마켓"
+13,invite,초대하다
+13,often,"자주, 흔히"
+13,positive,"긍정적인, 확신하는"
+13,relationship,관계
+13,unlike,~과 달리
+13,vivid,"생생한, 선명한"
+13,a loaf of,한 덩어리의
+13,affair,"일, 사건"
+13,aisle,통로
+13,annoy,짜증나게 하다
+13,at no charge,무료로
+13,at no cost,무료로
+13,at no extra charge,추가 비용 없이
+13,be on another call,다른 전화를 받고 있다
+13,ceremonial,의식의
+13,for your own safety,여러분 자신의 안전을 위해
+13,follow up,"후속의, 추가의"
+13,get a replacement,교환 받다
+13,handheld,휴대용의
+13,head toward,~쪽으로 향하다
+13,hold the line,(전화를) 끊지 않고 기다리다
+13,just to make sure,확실히 해두기 위해
+13,leftover,남은
+13,look through the manual,사용 설명서를 읽다
+13,on delivery,배달 시에
+13,pharmacist,약사
+13,potential customer,잠재적 고객
+13,prepaid,"선불된, 선납된"
+13,questionnaire,설문지
+13,recall,"회수하다, 회수"
+13,return a phone call,회답전화를 하다
+13,ridiculously,터무니 없이
+13,take back,반품하다
+13,troubleshoot,"해결하다, 검사하다"
+13,tune,조율하다
+13,water resistant,내수성의
+13,as requested,요청한 대로
+13,discouraging,낙담시키는
+13,excort,"호위하다, 호위대"
+13,exterior,"외부의, 외관"
+13,further,"더 먼, 그 이상의, 게다가, 더 나아가"
+13,go on,계속 되다
+13,graciously,"상냥하게, 고맙게도"
+13,loyalty,"충실, 충성"
+13,refer to,"~을 나타내다, ~에게 문의하다"
+13,smoothly,순조롭게
+13,trait,특성
+13,user friendly,사용하기 쉬운
+13,willing,"기꺼이 하는, 자발적인"
+13,at one's request,~의 요청으로
+13,breakage,"파손, 파손물"
+13,cut back,"줄이다, 삭감하다"
+13,even now,"아직까지도, 지금도"
+13,general population,일반 대중
+13,make a request,요청하다
+13,make a response,응답하다
+13,make an appointment,예약을 하다
+13,meet the standards,기준을 충족시키다
+13,mistakenly,실수로
+13,people of all ages,전 연령대의 사람들
+13,post a notice on,~에 공지 사항을 게시하다
+13,service depot,서비스 센터
+13,stain,얼룩
+13,trace,"기술하다, 극소량"
+13,wear out,"닳다, 닳게 하다"
+13,work properly,제대로 작동하다
+13,bare,"벌거벗은, 텅 빈"
+13,button up,단추를 채워 잠그다
+13,casualty,"사상자, 부상자"
+13,deputy,대리인
+13,mend,수선하다
+13,testimonial,"추천장, 감사장"
+13,adaptability,적응성
+13,aggression,공격성
+13,censure,"비난, 비난하다"
+13,claims department,보험 보상 부서
+13,compelling,설득력 있는
+13,decisive,"결정적인, 확고한"
+13,distress,"근심, 근심하게 하다"
+13,factually,사실 상
+13,fleetingly,아주 잠깐
+13,frankly,솔직히
+13,nourish,"~에 영양분을 주다, 장려하다"
+13,reinforcement,"보강, 강화"
+13,sparsely,드문드문하게
+13,unwavering,"확고한, 동요하지 않는"
+13,vibrant,활기에 넘치는
+13,wonder,"~을 알고싶다, 놀라운 것"
+13,blemish,"흠, 결점"
+13,hazard,위험
+13,intercept,도중에 가로막다
+13,rebate,"환불해주다, 환불"
+13,retrospective,회고적인
+13,slip one's mind,잊어버리다
+13,soak up,빨아들이다
+13,swiftly,"신속히, 빨리"
+14,international,국제적인
+14,attraction,관광 명소
+14,attractive,매력적인
+14,itinerary,여행 일정
+14,exotic,"이국적인, 매혹적인"
+14,diverse,다양한
+14,diversify,다양화하다
+14,diversity,다양성
+14,varied,다양한
+14,a diverse selection of + 복수명사,다양한 ~
+14,a diverse range of + 복수명사,다양한 ~
+14,superb,"최고의, 뛰어난"
+14,superbly,"최상으로, 아주 훌륭하게"
+14,baggage,수하물
+14,luggage,수하물
+14,baggage claim,수하물 찾는 곳
+14,destination,목적지
+14,destine,예정해두다
+14,missing,"분실된, 없어진"
+14,locate,"찾아내다, 위치시키다"
+14,location,"장소, 위치"
+14,be located in,~에 위치하다
+14,be located at,~에 위치하다
+14,be located on,~에 위치하다
+14,approximately,대략
+14,duty,"관세, 세금, 직무, 의무"
+14,board,"탑승하다, 이사회"
+14,a board member,이사
+14,a board of directors,이사회
+14,comfortable,편안한
+14,comfort,"편안, 위안, 편하게 하다, 위안하다"
+14,comfortably,편안하게
+14,declare,"신고하다, 선언하다"
+14,declaration,"신고, 선언"
+14,depart,출발하다
+14,departure,출발
+14,take off,"출발하다, 이륙하다"
+14,emergency,비상사태
+14,passenger,승객
+14,outgoing,"출발하는, 떠나는"
+14,tightly,"단단히, 꽉"
+14,tour,"견학, 짧은 여행"
+14,tourist,관광객
+14,on tour,여행 중에
+14,tour 관광지,~를 관광하다
+14,tour 여행지,~를 여행하다
+14,carrier,"항공사, 수송기"
+14,customarily,"관례상, 습관적으로"
+14,custom,"관습, 풍습"
+14,customs,세관
+14,confuse,혼란시키다
+14,arrive,도착하다
+14,brochure,소책자
+14,ship,"운송하다, 수송하다, 선박"
+14,shipment,"선박, 발송, 수송품"
+14,suitcase,여행 가방
+14,unavailable,"이용할 수 없는, 구할 수 없는"
+14,fill out,"기입하다, 적어넣다"
+14,fill in,"기입하다, 적어넣다"
+14,fill up,기름을 가득 채우다
+14,customs regulations,세관 규정
+14,cusoms clearance,통관 수속
+14,go through customs,세관을 통과하다
+14,away,떨어져서
+14,dramatic scenery,멋진 경치
+14,dramatic increase,급격한 증가
+14,dramatic rise,급격한 상승
+14,dramatic fall,급격한 저하
+14,hospitality,"환대, 친절"
+14,hospitable,환대하는
+14,hospitality extended to,~에게 베푼 환대
+14,hospitality industry,서비스업
+14,indulge,"빠지다, 탐닉하다"
+14,indulge in,"~에 빠지다, 탐닉하다"
+14,be addicted to,"~에 빠지다, 중독되다"
+14,indulgence,"탐닉, 중독"
+14,proximity,"가까움, 근접함"
+14,in close proximity to,~에 아주 근접하여
+14,in the proximity of,~의 부근에
+14,seating,"좌석 설비, 좌석 배열"
+14,unlimited mileage,무제한 마일리지
+14,have unlimited access to the file,파일을 무제한으로 이용할 수 있다
+14,simply,"그저, 단지, 간단히"
+14,besides,"게다가, 뿐만 아니라, ~외에"
+14,traditionally,전통적으로
+14,agent,대리인
+14,business class,비즈니스석
+14,duty free shop,면세점
+14,flight,"비행, 항공편, 여행"
+14,go on vacation,휴가를 떠나다
+14,nonstop flight,직항
+14,pack,"짐, 짐을 꾸리다"
+14,passport,여권
+14,salon,"(의상, 미용실 등) 가게"
+14,span,"걸리다, 놓이다"
+14,border,"국경, 가장자리"
+14,sudden,갑작스러운
+14,underwater,"수중의, 물속의"
+14,aboard,~에 타고
+14,airfare,항공 요금
+14,aisle seat,통로 쪽 좌석
+14,be on a trip,여행을 하다
+14,board a flight,비행기에 탑승하다
+14,boarding gate,탑승구
+14,boarding pass,탑승권
+14,boarding time,탑승 시간
+14,by air,비행기로
+14,carry on baggage,기내 휴대 수하물
+14,connecting flight,연결 항공편
+14,crew,승무원
+14,cruise,유람선 여행
+14,currency exchange,환전
+14,drift,떠다니다
+14,ferry,여객선
+14,flight attendant,승무원
+14,fluid,"액체, 마실 것"
+14,guest pass,손님용 입장권
+14,guided tour,가이드 동반 여행
+14,immigration,"입국 심사, 이민"
+14,in flight,기내의
+14,landing,착륙
+14,layover,"도중 하차, 경유지"
+14,leave for,~로 떠나다
+14,line up,"한 줄로 늘어서다, 줄을 이루다"
+14,luggage tag,수하물 표
+14,mainland,본토
+14,missing luggage,분실 수하물
+14,native,지방 고유의
+14,observation tower,"관측탑, 전망탑"
+14,overbook,예약을 정원 이상으로 받다
+14,overhead rack,선반
+14,port,항구
+14,porter,"운반인, 짐꾼"
+14,reclaim,되찾다
+14,row the boat,배를 젓다
+14,stop over,~에 잠깐 들르다
+14,take one's bag off,가방을 내려놓다
+14,train conductor,기차 차장
+14,travel agency,여행사
+14,unload,짐을 내리다
+14,walking tour,도보 여행
+14,distant,멀리 떨어진
+14,overhead,머리 위의
+14,remains,유물
+14,rightly,당연히
+14,tastefully,"고상하게, 우아하게"
+14,travel arrangement,여행 준비
+14,accumulate,축적하다
+14,geographic,지리상의
+14,jet lag,시차증
+14,memorable,"기억할 만한, 잊혀지지 않는"
+14,memorial,"기념물, 기념의"
+14,preciesly,정확히
+14,round trip,왕복 여행
+14,runway,활주로
+14,seasickness,뱃멀미
+14,sensation,"느낌, 감각"
+14,suburban train line,교외로 나가는 열차선
+14,voyage,항해
+14,wildlife,야생동물
+14,airsickness,비행기 멀미
+14,barge,화물선
+14,be left unattended,방치되다
+14,buckle up,안전벨트를 매다
+14,fasten seatbelt,안전벨트를 매다
+14,carousel,회전식 수화물 컨베이어
+14,channel,수로
+14,deck,갑판
+14,dock,부두
+14,harbor,"항구, 항구에 정박시키다"
+14,life preesrver,구명 기구
+14,meet one's flight,마중 나가다
+14,stall,"상품 진열대, 꼼짝 못하다"
+14,tie the boat to,배를 ~에 정박시키다
+14,turbulence,난기류
+14,concourse,"중앙 홀, 중앙 광장"
+14,lodging,"임시 숙소, 하숙"
+14,presumable,"가정할 수 있는, 있음직한"
+14,touch down,착륙하다
+14,aviation,비행
+14,charter plane,전세 비행기
+14,confer,"협의하다, 의논하다"
+14,disembark,내리다
+14,get off,"내리다, 떠나다, 출발하다"
+14,dispense,나누어주다
+14,impound,압수하다
+14,motion sickness,멀미
+14,prestigious,명성 있는
+14,quarantine desk,검역대
+14,remittance,송금
+14,turn up,"나타나다, 찾게 되다"
+14,vessel,대형 선박
+15,proposal,"제안, 계획, 기획안"
+15,propose,제안하다
+15,proposition,"제안, 건의"
+15,submit a proposal,제안서를 제출하다
+15,alliance,"동맹, 제휴"
+15,ally,동맹시키다
+15,union,"동맹, 연합"
+15,coalition,"동맹, 연합"
+15,stipulation,계약 조건
+15,stipulate,규정하다
+15,term,"조건, 임기, 기한, 용어"
+15,terms and conditions,조건
+15,in terms of,~의 면에서
+15,terminology,전문 용어
+15,jargon,전문 용어
+15,compromise,"타협, 화해"
+15,compromising,명예를 손상시키는
+15,negotiation,"협상, 교섭"
+15,negotiate,협상하다
+15,negotiator,협상자
+15,negotiable,교섭할 여지가 있는
+15,agreement,"계약, 협정, 합의, 일치"
+15,disagreement,불일치
+15,come to an agreement,합의에 도달하다
+15,reach an agreement,합의에 도달하다
+15,deadlock,교착 상태
+15,review,"검토하다, 재조사하다"
+15,contract,"계약, 계약하다, 수축하다"
+15,contractor,"계약자, 하청업자"
+15,contraction,수축
+15,retain,"고용하다, 유지하다"
+15,contract out A to B,A를 B에게 하청을 주다
+15,signature,서명
+15,originally,"원래, 처음에는"
+15,originate,시작하다
+15,expire,만료되다
+15,expiry,"만료, 만기"
+15,obesrve expiration date,만기일을 준수하다
+15,invalidate,무효화하다
+15,collaborate,"협력하다, 공동으로 일하다"
+15,collaborator,협력자
+15,collaborate on,~에 대해 협력하다
+15,collaborate with,~와 협력하다
+15,be dedicated to,~에 전념하다
+15,revised,"수정된, 개정된"
+15,imperative,필수적인
+15,compulsory,의무적인
+15,cooperatively,"협력하여, 협조적으로"
+15,cooperation,협동
+15,in cooperation with,~와 협력하여
+15,commission,"수수료, 위원회, 의뢰하다, 주문하다"
+15,omit,"빠트리다, 생략하다"
+15,omission,"생략, 누락"
+15,conflict,"대립, 충돌, 갈등"
+15,renew,"갱신하다, 재개하다"
+15,renwal,갱신
+15,renewable,갱신할 수 있는
+15,refresh,새롭게 하다
+15,renew contract,계약을 갱신하다
+15,renew license,면허를 갱신하다
+15,renew subscription,구독을 갱신하다
+15,proficient,능숙한
+15,confidentiality,"기밀, 비밀"
+15,dispute,"분쟁, 논쟁"
+15,dispute over,~에 관한 분쟁
+15,objection,"반대, 이의"
+15,define,"규정하다, 정의하다"
+15,impression,인상
+15,optionally,마음대로
+15,proceeds,수입
+15,progress,"진척되다, 진행되다"
+15,proceed with,~을 계속하다
+15,modify,수정하다
+15,narrow,좁히다
+15,narrow down A to B,A를 B의 범위로 좁히다
+15,bid,입찰
+15,put in a bid for,~에 입찰하다
+15,bid for,~에 입찰하다
+15,settle,"해결하다, 처리하다, 정착하다"
+15,settlement,해결
+15,settled,"확립된, 정착한"
+15,terminate,"끝내다, 종결시키다"
+15,termination,조욜
+15,terminal,"끝의, 종말의"
+15,initate,시작하다
+15,challenging,"도전적인, 힘든"
+15,challenging project,어려운 프로젝트
+15,foundation,"토대, 기초"
+15,serve as the ofundation,토대로 작용하다
+15,lay the foundation,기반을 쌓다
+15,founder,설립자
+15,pending,"미결인, 미정인, 임박한, ~동안에, ~까지"
+15,undecided,미정인
+15,backseat,뒷자리
+15,look after,~를 보살피다
+15,pair,"한 쌍이 되다, 한 쌍"
+15,per day,하루에
+15,professor,교수
+15,proof,증거
+15,put on,~을 입다
+15,spray,뿌리다
+15,think of,~을 생각하다
+15,climb,"오르다, 상승하다"
+15,generally,일반적으로
+15,loose,헐거워진
+15,meaning,"뜻, 의미"
+15,off season,비수기
+15,once,"하자마자, 이전에, 한 번"
+15,sight,"시야, 풍경, 전망"
+15,volume,"크기, 양, 책"
+15,close a deal,계약을 체결하다
+15,dial a number,전화를 걸다
+15,disadvantage,불이익
+15,for ages,오랫동안
+15,lock up,보관하다
+15,make a deposit,계약금을 치르다
+15,peak,절정
+15,rain check,우천 교환권
+15,rent out,~을 임대하다
+15,rental agreement,임대 계약서
+15,rough,"힘든, 거친"
+15,royalty,저작권 사용료
+15,run in several directiosn,여러 방향으로 뻗어있다
+15,scare,겁주다
+15,sign a contract,계약에 서명하다
+15,under a contract,계약 하에
+15,win a contract,계약을 따내다
+15,agreeable,"기꺼이 동의하는, 기분이 좋은"
+15,call out,~를 부르다
+15,diplomatic,외교상의
+15,equality,"평등, 대등"
+15,ethical,윤리적인
+15,hesitate,"망설이다, 머뭇거리다"
+15,in contrast,반대로
+15,instrumental,중요한
+15,make a move,행동을 취하다
+15,offend,위반하다
+15,opposing,"대립하는, 반대하는"
+15,rational,합리적인
+15,recognition,인정
+15,refusal,"거절, 거부"
+15,sarcastic,"풍자적인, 빈정거리는"
+15,selected,"선택된, 선발된"
+15,sort of,"다소, 얼마간,  말하자면"
+15,surely,"틀림없이, 꼭"
+15,surprise,"놀라게 하다, 놀라운 일"
+15,uninterested,"흥미 없는, 무관심한"
+15,verbal,말의
+15,virtual,사실상의
+15,within reason,합당한 범위 내에서
+15,be in agreement,동의하다
+15,draw up a new agreement,새 계약서를 작성하다
+15,enclosure,동봉
+15,have difficulty  ~ing,~하는 데 어려움을 겪다
+15,in an attempt to,~하려는 시도로
+15,in appreciation of,~에 감사하여
+15,in print,인쇄된
+15,in summary,요약하면
+15,lifetime employment,종신 고용
+15,low income resident,저소득 주인
+15,make a bid,입찰하다
+15,make a contract with,~와 계약을 맺다
+15,on hand,가까이에
+15,replica,복제품
+15,regid,"엄격한, 완고한"
+15,security deposit,보증금
+15,sequential,순차적인
+15,successful candidate,합격자
+15,It is no wonder,~은 당연하다
+15,portray,"(인물, 풍경) 그리다, 묘사하다"
+15,reinstall,재설치하다
+15,repave,재포장하다
+15,run the risk of,~의 위험을 무릅쓰다
+15,think over,숙고하다
+15,affliation,"제휴, 합병, 소속"
+15,arbitration,중재
+15,beside the point,요점을 벗어난
+15,foil,"좌절시키다, 뒤엎다"
+15,impartially,치우치지 않게
+15,inconclusively,"결론 없이, 요점 없이"
+15,originate in,~에서 시작되다
+15,preferential treatment,우대
+15,recollection,회상
+15,relinquish,포기하다
+15,remembrance,추억
+15,solicit,"요청하다, 간청하다"
+15,subcontract,"하청 계약, 하청을 주다"
+15,annotated,주석이 달린
+15,commercial relations,통상 관계
+15,credit limit,신용대출 한도액
+15,down payment,"계약금, 첫 할부금"
+15,embark,"착수하다, 나서다"
+15,mediation,"조정, 중재"
+15,moderator,"사회자, 중재자"
+15,provision,조항
+15,rocky,장애가 많은
+16,partially,부분적으로
+16,refuse,거절하다
+16,reject,거절하다
+16,turn down,거절하다
+16,temporarily,일시적으로
+16,dealer,"판매업자, 상인"
+16,dealership,판매 대리점
+16,bulk,대량의
+16,in bulk,대량으로
+16,inventory,"재고품, 재고 목록"
+16,short,부족한
+16,deficiency,부족
+16,shorten,"단축하다, 짧게하다"
+16,shortly,곧
+16,run short,"~이 부족하다, 떨어지다"
+16,be short of,~이 부족하다
+16,cost,"비용, 비용으로 들게하다"
+16,selection,선택된 것
+16,a wide selection of,다양하게 선택된
+16,commercial,"상업의, 상업적인, 광고"
+16,order,"주문하다, 주문"
+16,provide,"제공하다, 공급하다"
+16,provide A with B,A에게 B를 공급하다
+16,be provided with,~이 갖추어져 있다
+16,contact,~와 연락하다
+16,network of business contact,거래처
+16,invoice,송장
+16,move,"옮기다, 움직이다, 조치, 수단"
+16,supply,"공급하다, 공급"
+16,supplier,공급자
+16,furnish,"공급하다, 제공하다, (가구를) 비치하다"
+16,supply A with B,A에게 B를 공급하다
+16,discount,할인
+16,distribute,"배포하다, 배급하다"
+16,distribute A to B,A를 B에게 배포하다
+16,acquisition,"인수, 매수, 획득"
+16,assure,"~에게 보장하다, ~을 안심시키다, 장담하다"
+16,assurance,"보장, 확신"
+16,convince,"확신시키다, 납득시키다"
+16,assure A of B,A에게 B를 보장하다
+16,assure A that ~,A에게 ~을 보장하다
+16,subject,"~의 영향을 받기 쉬운, 조건으로 하는, 주제, 문제, ~에게 받게하다"
+16,be subject to change,변하기 쉬운
+16,be subject to damage,손해를 보기 쉬운
+16,be subject to approval,승인을 받아야 하는
+16,subject A to B,A에게 B를 당하게 하다
+16,seek,"구하다, 찾다"
+16,confirmation,"확인, 확증"
+16,confirmation of,~에 대한 확인
+16,unable,~할 수 없는
+16,payment,"지불, 납입"
+16,measure,"대책, 조치, 수단, 측정하다"
+16,measurably,"측정할 수 있게, 어느정도"
+16,bargain,"특가품, 흥정"
+16,stock,"재고, 주식"
+16,in stock,"비축되어, 재고로"
+16,out of stock,품절되어
+16,clientele,"고객들, 모든 의뢰인"
+16,acclaim,"호평,찬사"
+16,acclaimed,호평을 받은
+16,represent,~을 대표하다
+16,representative,"대표자, 직원"
+16,speak for,대변하다
+16,rating,"등급, 평가"
+16,encompass,"포함하다, 둘러싸다"
+16,finalize,"마무리 짓다, 완결하다"
+16,retail,소매
+16,retailer,소매상인
+16,commodity,"상품, 산물"
+16,quote,"견적, 견적을 내다"
+16,price quote,견적서
+16,custom quote,주문 견적
+16,consignment,위탁 판매
+16,consign,위탁하다
+16,film studio,영화 제작사
+16,journal,"신문, 잡지"
+16,journalist,기자
+16,magazine,잡지
+16,newspaper,신문
+16,newsstand,신문 가판대
+16,parade,"퍼레이드, 행렬"
+16,publisher,"출판사, 발행자"
+16,reporter,보도기자
+16,sales trend,판매 추세
+16,comforting,위로가 되는
+16,excellently,뛰어나게
+16,export,"수출하다, 수출"
+16,former,예전의
+16,govern,"통치하다, 지배하다"
+16,government,정부
+16,import,"수입하다, 수입"
+16,politician,정치인
+16,politics,"정치, 정치학"
+16,unlikely,~일 것 같지 않은
+16,back away from,"~에서 뒷걸음 치다, 물러나다"
+16,be closed for the day,문을 닫다
+16,be determined to do,~하기로 결심하다
+16,business day,영업일
+16,commercial space,상업 공간
+16,day after tomorrow,모레
+16,front page stroy,1면 기사
+16,give a good price,좋은 가격에 주다
+16,headline,기사 제목
+16,lead up to,"~로 이어지다, ~로 통하다"
+16,lead down to,"~로 이어지다, ~로 통하다"
+16,make a recording,녹음하다
+16,normal operating hours,정상 엽업 시간
+16,on sale,판매되고 있는
+16,on the market,시판 중인
+16,out of print,절판된
+16,overcharge,"바가지 씌우다, 부당한 값을 요구하다"
+16,payment option,결제 방법
+16,place an order,주문하다
+16,put A out for sale,A를 판매하기 위해 내놓다
+16,retail store,소매점
+16,run uot of,"~을 다 써버리다, ~이 바닥나다"
+16,sales presentation,제품 소개
+16,salesperson,판매원
+16,sold out,매진된
+16,stay open late,늦게까지 영업하다
+16,stockroom,물품 보관소
+16,storage facility,창고 시설
+16,storeroom,저장실
+16,take inventory,재고 목록을 만들다
+16,accordingly,"그에 알맞게, 따라서"
+16,adaptable,적응할 수 있는
+16,along with,~와 함께
+16,at the lastest,늦어도
+16,compliant,준수하는
+16,correspond,"일치하다, 부합하다, 교신하다"
+16,cultivation,"재배, 경작"
+16,do business with,~와 거래하다
+16,had better do,"~와 하는 편이 낫다, ~해야 한다"
+16,honorable,"고결한, 정직한"
+16,perceptive,통찰력 있는
+16,reasonably,"합리적으로, 적당하게"
+16,transformation,"변화, 변신"
+16,attain,달성하다
+16,barter,"물물 교환하다, 물물교환"
+16,boycott,"불매하다, 불매운동"
+16,capitalize on,"~을 이용하다, 기회로 삼다"
+16,council,이사회
+16,Department of Commerce,상무부
+16,depot,"창고, 저장소"
+16,duty free,면세의
+16,election,선거
+16,exerecise one's right,권리를 행사하다
+16,federal,연방의
+16,hold power,권력을 쥐다
+16,inclination,"의향, 뜻"
+16,inevitable,불가피한
+16,loyal customer,단골 고객
+16,outside provider,외부 공급자
+16,poll,여론 조사
+16,possession,소유물
+16,scarce,부족한
+16,switch A to B,A를 B로 바꾸다
+16,withstand,"견디다, 이겨내다"
+16,be closed to the public,일반인의 출입이 금지되다
+16,breaking news,속보
+16,run an article,기사를 게재하다
+16,step down,물러나다
+16,write up,기록하다
+16,diversified,"다양한, 여러 가지의"
+16,engrave,~에 새기다
+16,facilitator,"조력자, 협력자"
+16,itemized,항목별로 구분한
+16,keep track of,"~을 계속 알고 있다, ~을 기록하다"
+16,predominantly,"대개, 대부분"
+16,profoundly,깊이
+16,barring,~이 없다면
+16,bureaucracy,고나료제도
+16,cast a ballot,투표하다
+16,come to power,권력을 잡다
+16,constituency,"단골, 고객층, 유권자"
+16,contend with,~와 다투다
+16,drawback,"약점, 문제점"
+16,in place of,~을 대신하여
+16,in the prepaid envelope,우편 요금이 선납된 봉투에
+16,nationalize,국영화하다
+16,parliament,"의회, 국회"
+16,peddler,행상인
+16,protocol,"의정서, 규약"
+16,scarcity,부족
+16,summit,정상 회담
+16,surrender,"양도하다, 항복하다"
+16,take an action against,~를 고소하다
+16,third party,제삼자
+16,unsuccessful candidate,불합격자
+17,fragile,부서지기 쉬운
+17,perishable,부패하기 쉬운
+17,perish,부패하다
+17,perishing,죽는
+17,imperishable,부패하지 않는
+17,perishable goods,부패하기 쉬운 제품
+17,perishable items,부패하기 쉬운 제품
+17,deliver,"배달하다, (연설) 하다"
+17,ensure,"확실하게 하다, 보장하다"
+17,sure,"확실한, 틀림없는"
+17,make certain,확실히 하다
+17,courier,급속 택배
+17,carton,판지 상자
+17,address,"주소, 처리하다, 다루다, 연설하다"
+17,freight,화물
+17,cargo,화물
+17,particularly,특히
+17,adequately,"충분히, 적절히"
+17,adequate,"충분한, 적절한"
+17,inadequately,부적당하게
+17,article,"물품, 기사"
+17,efficient processing,효율적인 처리
+17,efficient administration,효율적인 경영
+17,agency,"대행 회사, 대리점"
+17,enclose,"~을 동봉하다, ~을 둘러싸다, 에워싸다"
+17,encase,~을 넣다
+17,encircle,에워싸다
+17,pick up,"~을 찾다, 도중에서 태우다"
+17,carry,"지나다, 팔다"
+17,attach,"붙이다, 접착하다, 첨부하다"
+17,attached,첨두된
+17,attachment,부착
+17,affix,붙이다
+17,detach,떼어내다
+17,attach A to B,A를 B에 붙이다
+17,attached schedule,첨부된 일정표
+17,attached document,첨부된 문서
+17,attached file,첨부된 파일
+17,formerly,이전에
+17,package,"소포, 꾸러미"
+17,react,"반응하다, 대응하다"
+17,convenience,"편의, 편리"
+17,for your convenience,귀하의 편의를 위해
+17,at your earliest convenience,형편 닿는 대로 빨리
+17,acknowledge,인정하다
+17,acknowledgement,인정
+17,caution,"주의, 조심"
+17,cautious,"조심성 있는, 신중한"
+17,carelessness,부주의
+17,with caution,"조심하여, 신중히"
+17,correspondence,"편지, 통신문"
+17,separate,"분리하다, 분류하다, 분리된, 독립된"
+17,separation,"분리, 구분"
+17,remarkable,"두드러진, 뛰어난"
+17,handling,"처리, 조작, 취급의"
+17,warehouse,"창고, 저장소"
+17,impose,부과하다
+17,imposition,부과
+17,levy,부과하다
+17,impose A on B,A를 B에 부과하다
+17,envelope,봉투
+17,envelop,"봉하다, 감싸다"
+17,exclusion,"제외, 배제"
+17,recipient,수신자
+17,sender,발신자
+17,affix A to B,A를 B에 붙이다
+17,incorrect,부정확한
+17,incorrectly,부정확하게
+17,oblige,"어쩔 수 없이, ~하게 하다, ~에게 강요하다"
+17,obligatory,의무적인
+17,oblige A to do,A로 하여금 어쩔 수 없이 ~하게하다
+17,be obliged to do,어쩔 수 없이 ~해야 하다
+17,step,"단계, 조치, 수단"
+17,take steps,조치를 취하다
+17,distinctive,독특한
+17,distinction,"뛰어남, 우수성"
+17,distinctively,"특징적으로, 독특하게"
+17,discreet,"신중한, 조심스러운, 분별력 있는"
+17,discreetly,"신중하게, 사려깊게"
+17,butcher's shop,정육점
+17,clinic,"진료소, 상담소"
+17,crate,나무 상자
+17,flow,"흐름, 이동, 흐르다"
+17,following week,다음 주
+17,get a ticket,표를 구하다
+17,in storage,보관중인
+17,load,"올리다, 짐, 작업량"
+17,parcel,소포
+17,pick up packages,소포를 찾아가다
+17,pottery,도자기
+17,public park,공원
+17,stamp,"도장을 찍다, 우표"
+17,venue,장소
+17,barrier,"장애, 장벽"
+17,base,기반
+17,due date,만기일
+17,fashion,"방법, 방식, 패션"
+17,instructor,강사
+17,offload,짐을 내리다
+17,parking pass,주차권
+17,shipping,"배송, 운송"
+17,trade,무역
+17,as of now,현재로서는
+17,canal,"운하, 수로"
+17,carry a large parcel,큰 짐을 운반하다
+17,closing,"폐쇄, 마감하는"
+17,courier service,택배 회사
+17,door to door delivery,택배
+17,drive off,"출발시키다, 몰아내다"
+17,drop off,"갖다 주다, 내려놓다"
+17,drycleaner,세탁소
+17,floor manager,매장 감독
+17,hold onto the handrail,난간을 붙잡다
+17,in transit,운송 중에
+17,inn,여관
+17,lab report,실험 보고서
+17,lab technician,연구실 기술자
+17,lace,"끈, 끈을 묶다"
+17,legal department,법률 부서
+17,load A onto B,A를 B에 싣다
+17,load a truck,트럭에 짐을 싣다
+17,loaded with,짐을 실은
+17,loading,적재
+17,lost in delivery,배송 중에 분실된
+17,mailing list,우편물 수취인 명부
+17,make a delivery,배달하다
+17,packing tape,포장 테이프
+17,pass over,~의 위를 지나가다
+17,pavement,"포장 도로, 인도"
+17,people on foot,보행자들
+17,pick up passengers,승객을 태우다
+17,pier,"부두, 방파제"
+17,pile up,~을 쌓다
+17,postal,우편의
+17,strap,"끈으로 묶다, 끈"
+17,time limit,기한
+17,waterway,"수로, 항로"
+17,weight limit,중량 제한
+17,wrap up,"~을 싸다, ~을 포장하다"
+17,correction,"정정, 수정"
+17,delivery option,배송 선택 사항
+17,discard,버리다
+17,express mail,급행 우편
+17,fortunately,"다행스럽게도, 운 좋게도"
+17,ideally,"이상적으로, 완벽하게"
+17,load size,적재 수하물 크기
+17,marginally,"아주 조금, 미미하게"
+17,ordered,"정돈된, 질서정연한"
+17,ordering,"정리, 배치"
+17,ordinarily,"보통은, 정상적으로는"
+17,packaging,"포장, 포장재"
+17,provided that,만약 ~라면
+17,sizable,"상당한 크기의, 꽤 큰"
+17,accelerate,"촉진하다, 가속화하다"
+17,ahead of schedule,예정보다 일찍
+17,by hand,"인편으로, 손으로"
+17,car maintenance,자동차 정비
+17,city official,시 공무원
+17,postage,우편 요금
+17,trade negotiation,무역 협상
+17,trade show,무역 박람회
+17,without delay,"지체 없이, 곧바로"
+17,heritage,"전통, 유산"
+17,janitor,관리인
+17,loading dock,하역장
+17,logistics,"물류, 실행 계획"
+17,realtor,부동산 중개업자
+17,real estate agent,부동산 중개업자
+17,wheelbarrow,손수레
+17,classified,기밀의
+17,consulate,영사관
+17,decidedly,"확실히, 명백히, 단호히"
+17,inaugurate,정식으로 ~을 개시하다
+17,institute,"협회, 연구소"
+17,institution,"기관, 시설"
+17,openly,"터놓고, 솔직하게"
+17,oversight,"부주의, 감독"
+17,province,지방
+17,selective,"선택적인, 까다로운"
+17,transportable,"수송 가능한, 운반 가능한"
+17,alumni association,동창회
+17,bilateral,쌍방의
+17,diplomat,외교관
+17,embargo,"무역 금지, 통상 금지"
+17,expatriate,"국정을 상실한 사람, 고국을 떠나다"
+17,expedite,"신속히 처리하다, 진척시키다"
+17,import license,수입 허가
+17,intended recipient,해당 수취인
+17,progression,"진행, 진전"
+17,reciprocal,"상호의, 서로의"
+17,stow,"짐을 넣다, 싣다"
+17,surplus,"잉여, 흑자"
+18,check in,체크인하다
+18,compensate,보상하다
+18,compensation,"보상, 보상금"
+18,compensatory,보상의
+18,compensate A for B,A에게 B에 대해 보상하다
+18,complimentary,"무료의, 우대의"
+18,complimentary breakfast,무료 아침 식사
+18,complimentary service,무료 서비스
+18,chef,주방장
+18,container,"용기, 그릇"
+18,elegant,"우아한, 고상한"
+18,flavor,"맛, 풍미"
+18,accommodate,"~을 수용하다, 숙박시키다, 만족시키다"
+18,accommodwation,숙박 시설
+18,lodge,~을 숙박시키다
+18,reception,"환영회, 접수처"
+18,receptionist,접수원
+18,refreshments,"다과, 원기회복"
+18,make a decision,결정하다
+18,make a reservation,예약하다
+18,make a telephone call,전화하다
+18,make progress,진보하다
+18,cater,음식물을 공급하다
+18,booking,예약
+18,beverage,음료
+18,confirm,확인하다
+18,confirmative,확인의
+18,confirm a reservation,예약을 확인하다
+18,cancel,취소하다
+18,rate,"요금, 비율, 평가하다, 여기다"
+18,conveniently located,편리하게 위치한
+18,conveniently placed,편리하게 위치한
+18,decorate,장식하다
+18,decorative,"장식의, 장식적인"
+18,further information,자세한 정보
+18,retention,"유지, 보유"
+18,maintain,"유지하다, 지속하다"
+18,atmosphere,"분위기, 환경"
+18,cuisine,요리
+18,sequence,"순서, 차례, 차례로 배열하다"
+18,extensively,널리
+18,comprehensive,"넓은, 종합적인, 포괄적인"
+18,prior to,"~에 앞서, 먼저"
+18,book,"예약하다, 책"
+18,amenity,편의 시설
+18,belongings,"소지품, 소유물"
+18,entirely,오나전히
+18,ease,"완화시키다, 쉬움"
+18,easily,"쉽게, 용이하게"
+18,sip,"음미하며 마시다, 홀짝거리다"
+18,stir,"휘젓다, 뒤섞다"
+18,choice,선택
+18,choose,선택하다
+18,complication,복잡한 문제
+18,freshness,신선함
+18,occupancy,이용률
+18,occupy,점유하다
+18,spot,"발견하다, 찾다, 알아채다, 장소"
+18,bite,"물다, 한 입"
+18,buffet,뷔페 
+18,cafeteria,구내식당
+18,cereal,시리얼
+18,cookbook,요리책
+18,delicious,맛있는
+18,dessert,후식
+18,dine,식사를 하다
+18,dining room,식당
+18,dishwasher,식기세척기
+18,dry dishes,접시를 닦다
+18,garlic,마늘
+18,meal,식사
+18,plate,"접시, 그릇"
+18,pot,냄비
+18,prepare a meal,식사 준비를 하다
+18,seafood,해산물
+18,spicy,매운
+18,spill,엎지르다
+18,tasty,맛있는
+18,whipped cream,휘핑크림
+18,blend,"섞다, 혼합하다"
+18,spice,"양념, 향신료"
+18,a glass of,~한 잔
+18,appetizer,애피타이저
+18,bottle,병에 담다
+18,chop,잘게 썰다
+18,countertop,"계산대, 조리대"
+18,diner,식사하는 사람
+18,dining area,식당
+18,dining supplies,주방용품
+18,dust off,먼지를 털다
+18,food supplier,음식 공급업체
+18,frosting,설탕을 입힘
+18,frozen food product,냉동 식품
+18,gather up,주워모으다
+18,get the food ready,음식을 준비하다
+18,grain,곡물
+18,gusty,(바람이) 세찬
+18,have a light dinner,저녁을 가볍게 먹다
+18,have a meal,식사하다
+18,kettle,주전자
+18,kitchen appliance,주방용품
+18,lost and found,분실물 보관소
+18,order a meal,식사를 주문하다
+18,patio,"테라스, 베란다"
+18,peel off,~의 껍질을 벗기다
+18,pour,"~을 붓다, ~을 따르다"
+18,set the table,식탁을 차리다
+18,specialty,"전공, 전문"
+18,spoil,"상하다, 못쓰게 되다"
+18,starving,배고픈
+18,stove,"가스레인지, 버너"
+18,tablecloth,식탁보
+18,take an order,주문을 받다
+18,teapot,찻주전자
+18,trial,"재판, 공판"
+18,unpack,짐을 풀다
+18,valuables,귀중품
+18,wait for a table,테이블에 자리가 나기를 기다리다
+18,agreeably,"쾌적하게, 기분 좋게"
+18,amazed,놀란
+18,competitiveness,경쟁력
+18,explain to,~에게 설명하다
+18,orgainzer,"조직자, 창시자"
+18,progressively,계속해서
+18,recognized,"인정된, 알려진"
+18,refer,"참조하게 하다, 조회하다"
+18,thickly,"두껍게, 두툼하게"
+18,accommodation,"숙소, 시설"
+18,brew,끓이다
+18,caterer,요리 조달자
+18,catering service,출장 요리 서비스
+18,eat up,다 먹다
+18,gently,"다정하게, 부드럽게"
+18,overnight stay,1박
+18,parking facility,주차 시설
+18,polish,~을 닦다
+18,squeeze,짜다
+18,suite,"스위트룸, 정장"
+18,utensil,"도구, 기구"
+18,vegetarian,채식주의자
+18,vinegar,식초
+18,wake up call,모닝콜
+18,cloakroom,휴대품 보관소
+18,gourmet,미식가
+18,grab a bite,간단히 먹다
+18,help oneself to the food,"자유로이 먹다, 가져다 먹다"
+18,meal pass,식권
+18,pick up the check,돈을 내다
+18,preheat,예열하다
+18,scoop,"퍼내다, 퍼올리다"
+18,slurp,소리내어 마시다
+18,wait on,시중을 들다
+18,as a courtesy,"호의를 담아, 무료로"
+18,as a favor,호의를 담아
+18,forfeit,"몰수당하다, 벌금"
+18,garner,"얻다, 모으다"
+18,themed,특정한 테마의 분위기를 살린
+18,thriving,"번성하는, 잘 자라는"
+18,assorted,"여러가지 종류의, 다채로운"
+18,atrium,중앙 홀
+18,batch,"무리, 집단"
+18,batter,반죽
+18,concierge,안내인
+18,corridor,복도
+18,culinary,요리의
+18,decaffeinated,카페인을 제거한
+18,couble occupancy,2인실 사용
+18,garnish,(음식을) 장식하다
+18,indigenous,지역 고유의
+18,palate,미각
+18,parlor,가게
+18,room attendant,객실 청소부
+18,sanitary,위생의
+18,shut down,폐점하다
+18,sift,체로 치다
+19,decline,"감소, 하락"
+19,the rate of decline,감소율
+19,decline in,~의 감소
+19,markedly,"현저하게, 눈에 띄게"
+19,marked,"현저한, 두드러진"
+19,revenue,수입
+19,expenditure,"지출, 경비"
+19,projection,예상치
+19,project,추정하다
+19,spending and income projections,지출 및 수입 예상치
+19,substantial,상당한
+19,considerable,상당한
+19,substantial amount,상당한 양
+19,substantial increase,상당한 증가
+19,anticipate,"예상하다, 기대하다"
+19,hope for,~을 바라다
+19,significantly,"상당히, 두드러지게"
+19,estimate,"추정하다, 추산하다, 추정치, 평가하다"
+19,shift,"옮기다, 이동하다, 변화, 교대근무"
+19,fee,"요금, 수수료"
+19,sale,"매출액, 판매"
+19,retail sales figures,소매 매출애
+19,recent,최근의
+19,recently,최근에
+19,exceed,~을 초과하다
+19,excess,초과
+19,excessive,"지나친, 과도한"
+19,exceedingly,"대단히, 매우"
+19,surpass,"초과하다, 능가하다, 넘어서다"
+19,fall short of,~에 미치지 못하다
+19,regular,"정기적인, 단골의"
+19,regular meeting,정기회의
+19,regular schedule,정기 스케줄
+19,regular assessment,정기 평가
+19,summarize,요약하다
+19,summary,요약
+19,typically,전형적으로
+19,whole,전체의
+19,growth,"성장, 발전"
+19,growing,증대하는
+19,figure,"총액, 합계, ~라고 여기다"
+19,frequent,빈번한
+19,achieve,"달성하다, 성취하다"
+19,reach,"이루다, 도달하다"
+19,share,"공유하다, 몫, 지분"
+19,encouraging,힘을 북돋아주는
+19,encourage,격려하다
+19,encouragement,격려
+19,incur,"(손실을) 입다, (빚을) 지다"
+19,incurrence,(손해를) 입음
+19,slightly,약간
+19,slight,약간의
+19,profit,"수익, 이익"
+19,lucrative,수익성이 좋은
+19,profitability,수익성
+19,reliance,의존
+19,illustrate,"설명하다, 분명히 보여주다"
+19,illustration,"설명, 삽화"
+19,illustrator,삽화가
+19,inaccurate information,부정확한 정보
+19,percentage,비율
+19,reduce,"줄이다, 감소시키다"
+19,reduce cost,비용을 줄이다
+19,reduce budget,예산을 줄이다
+19,dispose of,"~을 처분하다, 치우다"
+19,tend,"~하는 경향이 있다, 하기 쉽다"
+19,tendency,경향
+19,tend to do,~하는 경향이 있다
+19,beyond,"~을 넘어서, ~이상으로"
+19,booklet,소책자
+19,by telephone,전화로
+19,from now,"지금부터, 앞으로"
+19,frying pan,프라이팬
+19,go shopping,쇼핑하다
+19,goods,상품
+19,lesson,"수업, 교훈"
+19,midday,정오
+19,miss,"놓치다, 그리워하다"
+19,save,"구조하다, 모으다, 저축하다"
+19,unbelievable,믿을 수 없는
+19,upset,"당황한, 당황하게 하다"
+19,win,"이기다, 받다"
+19,work on,~을 수행하다
+19,change,"바꾸다, 잔돈"
+19,gain,얻다
+19,income,소득
+19,liquid,액체
+19,model,"원형, 모범, ~의 모형을 만들다"
+19,pace,속도
+19,refrigerator,냉장고
+19,rely on,~에 의존하다
+19,be shaded,"그늘져있다, 가려져있다"
+19,bring about,야기하다
+19,cut consts,비용을 줄이다
+19,figures,"액수, 값"
+19,harsh,"거친, 가혹한"
+19,have the best rates,요금이 가장 저렴하다
+19,harm,"해를 끼치다, 피해, 손상"
+19,link together,연결시키다
+19,make money,돈을 벌다
+19,meet ones' goal,목표를 달성하다
+19,misread,"잘못읽다, 오해하다"
+19,sales report,매출 보고서
+19,situated,위치해있는
+19,slight chance,희박한 가능성
+19,take a course,강의를 듣다
+19,to be honest with you,솔직히 말하자면
+19,allot,할당하다
+19,allotment,"할당, 분배"
+19,charity,자선 단체
+19,continued,지속적인
+19,desperate,"필사적인, 절망적인"
+19,doubtful,"확신이 없는, 의심스러운"
+19,downfall,몰락
+19,enhancement,"상승, 향상"
+19,factor,"요소, 원인"
+19,fortune,운
+19,gross income,총 소득
+19,impossible,불가능한
+19,linguistics,언어학
+19,loosely,대략
+19,make up for,"~을 만회하다, 보상하다"
+19,moderate,"적당한, 완화하다"
+19,optimal,"최적의, 최선의"
+19,possess,"소유하다, 갖고 있다"
+19,put A in jeopardy,A를 위험에 빠뜨리다
+19,quite,"꽤, 상당히"
+19,sales figure,매출액
+19,seek to do,~하려 애쓰다
+19,split,"쪼개다, 분리시키다, 균역, 분열"
+19,submission,제출
+19,surrounding,"주위의, 주변의"
+19,to that end,그 목적을 위해
+19,transition,"변화, 이행"
+19,unusually,"유난히, 비정상적으로"
+19,added benefits,부가적인 이점
+19,additional fee,추가 비용
+19,at a rapid rate,빠른 속도로
+19,commercial value,상업적 가치
+19,dean,학장
+19,do damage,"손상하다, 손해를 입히다"
+19,engineering,공학
+19,file for bankruptcy,파산 신청을 하다
+19,growth potential,성장 잠재력
+19,highlight,"가장 중요한 부분, 강조하다"
+19,long-term stability,장기 안정
+19,non-profit organization,비영리 조직
+19,on the rise,상승하는
+19,piece by piece,조금씩
+19,proportion,"부분, 몫"
+19,raised,"높인, 높아진"
+19,rising cost,비용 상승
+19,semester,학기
+19,timeline,일정표
+19,undergraduate,대학생
+19,up to,~까지
+19,coil,"똘똘 감다, 고리"
+19,make forecast,예측하다
+19,retrieve,되찾다
+19,uncover,알아내다
+19,distributor,"분배자, 판매자"
+19,estimated,"견적의, 추측의"
+19,financier,재정가
+19,gratified,만족한
+19,hollow,"속이 빈, 오목한, 공허한"
+19,immeasurably,헤아릴 수 없을 정도로
+19,indicated,계기에 표시된
+19,literally,"문자 그대로, 실제로"
+19,minimally,"극히 작게, 최소한으로"
+19,outpace,앞지르다
+19,outsell,~보다 많이 팔다
+19,proportionate,비례하는
+19,rewarding,"가치가 있는, 보답받는"
+19,signify,의미하다
+19,steeply,가파르게
+19,subside,"가라앉다, 진정되다"
+19,swell,부풀다
+19,variably,"변하기 쉽게, 일정치 않게"
+19,vitally,"필수적으로, 지극히"
+19,agile,기민한
+19,deviate,"빗나가다, 일탈하다"
+19,even out,"~을 고르게 하다, ~을 균등하게 나누다"
+19,infusion,"주입, 혼합"
+19,insolvent,"지불 불능의, 파산의"
+19,offset,"상쇄하다, 벌충하다"
+19,profit margin,이윤 차액
+20,audit,"회계 감사, 심사, 회계 감사하다"
+20,auditor,회계 감사원
+20,accounting,회계
+20,budget,예산
+20,financial,"재정의, 금전상의"
+20,finance,"재정, 자금을 조달하다"
+20,financing,자금 조달
+20,curtail,"~을 줄이다, 삭감하다"
+20,curtailment,삭감
+20,deficit,"적자, 부족액"
+20,shortfall,부족액
+20,substance,"물질, 실질"
+20,considerably,상당히
+20,substantially expand,크게 확장하다
+20,substantially exceed,크게 초과하다
+20,committee,위원회
+20,frequently,"자주, 흔히"
+20,reimburse,"변제하다, 상환하다"
+20,reimbursement,"변제, 상환, 배상"
+20,reimburse 사람 for 비용,~에게 ~을 변제하다
+20,reward,"~에 보답하다, 보상하다, 포상"
+20,adequacy,"적절함, 타당함"
+20,total,"총계의, 합계, 합산하다"
+20,allocate,"할당하다, 배분하다"
+20,allocate A for B,A를 할당하다 B를 위해서 말이다
+20,allocate A to B,A를 B에게 배분하다
+20,preferred,"선호되는, 우선의"
+20,preferred means,선호하는 수단
+20,preferred method,선호하는 방법
+20,prefer A to B,A를 선호한다 B보다 말이다
+20,quater,4분의 1
+20,quaterly,"분기별의, 분기별로"
+20,interrupt,"중단시키다, 방해하다"
+20,browse,"훑어보다, 둘러보다"
+20,deduct,"공제하다, 빼다"
+20,deduction,공제
+20,measurement,"측정, 측량, 치수"
+20,amend,수정하다
+20,amendment,"개정, 수정"
+20,amendable,수정할 수 있는
+20,calculate,"계산하다, 산출하다"
+20,exempt,"면제된, ~이 없는"
+20,exemption,면제
+20,be exempt from,~을 면제받다
+20,deficient,"부족한, 불충분한"
+20,compare,비교하다
+20,compared to,~와 비교해서
+20,compare A with B,A를 B와 비교하다
+20,fornunate,운 좋은
+20,expend,지출하다
+20,inaccurately,부정확하게
+20,worth,~의 가치가 있는
+20,worth + 비용,~의 가치가 있는
+20,worth + ~ing,~할 가치가 있는
+20,worthy,가치 있는
+20,worthwhile,~할 가치가 있는
+20,excessively,매우
+20,fiscal,"회계의, 재정상의"
+20,fiscal year,회계 연도
+20,fiscal operations,회계 업무
+20,incidental,부수적인
+20,incident,우발적 사건
+20,incidentally,우연히
+20,incidental expenses,부대비용
+20,inflation,물가 상승
+20,inflate,"팽창하다, 인플레가 일어나다"
+20,inflationary,인플레를 일으키는
+20,lead to inflation,인플레이션을 초래하다
+20,inflation rate,물가 상승률
+20,the cause of inflation,인플레이션의 원인
+20,liable,"책임져야 할, ~하기 쉬운"
+20,liability,"책임, 부채"
+20,be liable for,~에 대한 책임이 있다
+20,be liabele to do,~하기 쉽다
+20,be likely to do,~하기 쉽다
+20,spend A on B,A를 쓰다 B를 위해서 말이다
+20,R&D spending,연구 개발 지출
+20,turnover,"거래액, 이직률, ~을 뒤집다, 방향을 바꾸다"
+20,abundant,풍부한
+20,glass cabinet,유리 장식장
+20,powerful,"영향력 있는, 유력한"
+20,shore,"물가, 강기슭"
+20,tie,묶다
+20,expressive,나타내는
+20,fund,자금
+20,funding,자금 제공
+20,generate,"창출하다, 야기하다"
+20,in the coming year,다가오는 해에
+20,in the direction of,~의 방향으로
+20,overcome,극복하다
+20,rare,드문
+20,senior,"상급자, 상급의"
+20,shortcoming,"결점, 단점"
+20,temporary,"일시적인, 임의의"
+20,a copy of,"(책, 서류) 한 부"
+20,at a fast pace,빠른 속도로
+20,be assigned to,~로 배정되다
+20,be similar to,~과 유사하다
+20,bring together,불러모으다
+20,certainly,확실히
+20,charge for,~에 대한 대금
+20,cut down,~을 줄이다
+20,decide on,~으로 결정하다
+20,flat,"일률적인, 바람이 빠진, 아파트"
+20,flawless,결점없는
+20,handbook,안내서
+20,handwritten,손으로 쓴
+20,phenomenon,현상
+20,record high,최고 기록
+20,reset,다시 맞추다
+20,see if,~인지 여부를 확인하다
+20,sequel,"속편, 결과"
+20,set up a date,날짜를 잡다
+20,sharpen,"날카롭게 만들다, 향상시키다"
+20,side by side,나란히
+20,A and B alike,A와 B 모두 마찬가지로
+20,accountant,회계사
+20,by contrast,그와 대조적으로
+20,chief financial officer,최고 재무 책임자
+20,corrective,바로잡는
+20,displace,"대신하다, 옮겨놓다"
+20,far from,결코 ~이 아닌
+20,frequency,빈도
+20,keep to oneself,"비밀로 하다, 독차지 하다"
+20,overly,"지나치게, 몹시"
+20,take after,~를 닮다
+20,unfamiliar,"익숙치 않은, 낯선"
+20,A be followed by B,A 다음에 B가 오다
+20,a string of,일련의
+20,activate,"활성화하다, 작동시키다"
+20,add up to,합계가 ~이 되다
+20,annual budget,연간 예산
+20,annual report,연례 보고서
+20,badly,"심하게, 불친절하게"
+20,barely,"가까스로, 거의 ~하지 않는"
+20,be owned by,~의 소유이다
+20,be suited for,~에 적합하다
+20,bookkeeper,경리
+20,bound for,~행인
+20,cancellation,취소
+20,capital,자본
+20,claim refund,환불을 요구하다
+20,collectively,"집합적으로, 총괄하여"
+20,combine A with B,A를 B와 결합시키다
+20,commercial use,상업적 이용
+20,common interest,"공동의 이익, 공동 관심사"
+20,compose,작성하다
+20,consulting firm,자문회사
+20,conversion,전환
+20,monetary,"금전의, 재정적인"
+20,outlay,"지출, 경비"
+20,place of origin,원산지
+20,purchase order,구입 주문
+20,rigorously,엄격히
+20,shipping and handling fee,배송 취급 요금
+20,unplug device,기계의 플러그를 뽑다
+20,well in advance,훨씬 앞서서
+20,cut one's losses,손을 떼다
+20,in place,제자리에
+20,whereabout,"소재, 행방"
+20,inconsistency,불일치
+20,relevance,"적절성, 타당성, 관련성"
+20,reliably,"신뢰할 수 있게, 확실하게"
+20,substantively,"사실상, 실제로"
+20,vary from A to B,상황에 따라 다르다
+20,adjournment,"연기, 휴회"
+20,amply,"풍부하게, 충분히"
+20,back order,이월 주문
+20,be in the black,흑자 상태에 있다
+20,be in the red,적자 상태에 있다
+20,by a considerable margin,큰 차이로
+20,cash reserves,현금 보유고
+20,classification,"분류, 등급"
+20,incrementally,증가하여
+20,ledger,회계 장부
+20,operation budget,운영 예산
+20,plus tax,세금 별도
+20,precedent,전례
+20,preclude,막다
+20,pretax,세전
+20,pros and cons,찬반양론
+20,statistics,통계학
+20,stringently,"엄격히, 엄중하게"
+20,year-end,연말의
+21,announce,발표하다
+21,inform 사람 of 내용,~에게 ~을 알리다
+21,interested,"관련있는, 관심이 있는, 이해관계가 있는"
+21,interest,"관심, 권리, 이자"
+21,interesting,흥미로운
+21,be interested in,~에 관심이 있다
+21,active,"적극적인, 활발한"
+21,accept,"수락하다, 승낙하다"
+21,acceptance,수락
+21,accepting,"흔쾌히 받아들이는, 솔직한"
+21,acceptably,받아들일 수 있게
+21,accept responsibility for,~에 대한 책임을 인정하다
+21,foresee,예견하다
+21,foreseeable,예견할 수 있는
+21,unforeseen,"예측하지 못한, 뜻밖의"
+21,predict,예측하다
+21,expansion project,확장 계획
+21,building expansion,건물 확장
+21,refinery expansion,제련소 확장
+21,relocate,이전하다 
+21,relocation,"재배치, 이전"
+21,asset,자산
+21,property,"속성, 자산, 재산"
+21,estate,"재산, 자산"
+21,dedicated,"전념하는, 헌신하는"
+21,a dedicated and talented team,헌신적이고 유능한 팀
+21,misplace,"잃어버리다, 위치를 잘못잡다"
+21,considerate,"사려깊은, 신중한"
+21,insignificant,사소한
+21,last,"지속되다, 지난, 최근의, 마지막의"
+21,emerge,나타나다
+21,emergence,출현
+21,emergent,신생의
+21,emerge as,~로서 두각을 나타내다
+21,select,"선발하다, 선택하다"
+21,nominate,"지명하다, 추천하다"
+21,merge,병합하다
+21,merger,합병
+21,amalgamate,합병하다
+21,mergers and acquisitions,인수합병
+21,imply,"암시하다, 넌지시 나타내다, 의미하다"
+21,suggest,"제안하다, 암시하다, 추천하다"
+21,vital,필수적인
+21,persist,"계속하다, 지속되다"
+21,persistence,"끈기, 고집, 지속성"
+21,force,"세력, 강요하다"
+21,establish,설립하다
+21,establishment,설립
+21,established,확립된
+21,commence,착수하다
+21,enhance,"향상시키다, 높이다, 강화하다"
+21,reinforce,강화하다
+21,renowned,"저명한, 유명한"
+21,informed decision,정보에 근거한 결정
+21,informed choice,정보에 근거산 선택
+21,minute,"시간, 잠깐, 순간의, 회의록, 사소한"
+21,waive,"적용하지 않다, 포기하다"
+21,rechable,"닿을 수 있는, 도달 가능한"
+21,authority,"권한, 당국"
+21,authorship,저자
+21,acquire,"매입하다, 취득하다"
+21,acquired,"획득한, 후천적인"
+21,run,"~을 운영하다, 경영하다, 계속되다"
+21,improbable,"사실이라고 생각할 수 없는, 일어날 것 같지 않은"
+21,edge,"우위, 유리함, 가장자리, 끝"
+21,advantage,유리함
+21,simultaneously,동시에
+21,simultaneous,동시의
+21,revelation,폭로
+21,productive,"생산하는, 결실 있는"
+21,uncertain,"확신이 없는, 불확실한"
+21,be uncertain about,~에 대해 확신을 갖지 못하다
+21,uncertainly,불확실하게
+21,premier,"으뜸의, 첫째의"
+21,branch,"분점, 나뭇가지"
+21,end up,결국 ~이 되다
+21,in the past,과거에
+21,indoors,실내에서
+21,inward,안으로 
+21,lean,"기울이다, 기대다"
+21,partnership,"제휴, 협력"
+21,plaza,광장
+21,relax,긴장을 풀다
+21,staff,"직원, 직원을 배치하다"
+21,stretch,"펴다, 잡아당기다, 기간"
+21,as long as,하는 한
+21,correctly,정확하게
+21,expressly,"분명히, 명확히"
+21,fever,열
+21,in spite of,~에도 불구하고
+21,individual,"개인, 개인의"
+21,ironing,다림질
+21,minor,사소한
+21,poorly,"저조하게, 형편없이"
+21,sharply,날카롭게
+21,unit,단위
+21,bankrupt,파산한
+21,bankruptcy,파산
+21,be in a position to do,~할 입장에 있다
+21,celebratory,"기념하는, 축하하는"
+21,converse,대화하다
+21,crack,"금이 가게 하다, 틈"
+21,gathering space,모임장소
+21,have a good view,전망이 좋다
+21,last minute,막바지의
+21,look into,~을 조사하다
+21,look out,조심하다
+21,luxury goods,사치품
+21,newsletter,회보
+21,renown,명성
+21,reputation,평판
+21,set a record,기록을 세우다
+21,side effect,부작용
+21,spokesperson,대변인
+21,spread the word,말을 퍼뜨리다
+21,anticipated,"기대하던, 대망의"
+21,disguise,"가장하다, 숨기다"
+21,go through,겪다
+21,incline,"기울다, 기울이다"
+21,indefinitely,불명확하게
+21,innovation,혁신
+21,outdated,"구식의, 진부한"
+21,perspective,관점
+21,progressive,진보적인
+21,public hearing,공청회
+21,pursue,"추구하다, 쫓다"
+21,sensible,"분별있는, 합리적인"
+21,turn over,"~을 뒤집다, 방향을 바꾸다"
+21,bump into,~을 우연히 만나다
+21,commemorative,기념하는
+21,correlation,상호 관계
+21,corruption,"부정, 부패"
+21,era,시대
+21,exaggerate,과장하다
+21,fast growing,급성장하는
+21,inhabitant,거주자
+21,inhabitation,거주
+21,instinctive,본능적인
+21,isolated,"고립된, 격리된"
+21,landfill,쓰레기 매립지
+21,market share,시장 점유율 
+21,meditate,숙고하다
+21,on strike,파업중인
+21,outreach,봉사 활동
+21,oversized,너무 큰
+21,overstaffed,필요 이상의 직원을 둔
+21,rashly,경솔하게
+21,regional,지역의
+21,rule out,배제하다
+21,scholar,학자
+21,spotless,"아주 깨끗한, 흠잡을 데 없는"
+21,stand for,"~을 상징하다, ~을 대표하다"
+21,strike,"동맹파업, 노동쟁의"
+21,struggle,"애쓰다, 분투하다"
+21,succession,연속
+21,takeover,"인수하다, 인수"
+21,make the first move,"개시하다, 발단을 만들다"
+21,take a turn for the better,호전되다
+21,warm up,"준비 운동, 예행 연습"
+21,be contingent upon,"~에 따라 결정되다, ~에 달려있다"
+21,front runner,가장 유력한 우승 후보
+21,intermittently,간헐적으로
+21,momentarily,잠깐
+21,narrative,"기술, 묘사"
+21,retreat,"후퇴하다, 물러가다"
+21,stance,"태도, 입장"
+21,allegedly,주장하는 바에 따르면
+21,be oriented to,~에 중점을 두다
+21,beware,조심하다
+21,clout,"영향력, 권력"
+21,craftsmanship,솜씨
+21,detector,"탐지기, 측정기"
+21,exemplify,"예증하다, ~좋은 예가 되다"
+21,exert pressure on,~에 압력을 행사하다
+21,interfere with,~을 방해하다
+21,keep on top of,~의 선두를 유지하다
+21,latent,"잠재된, 잠복성의"
+21,liquidate,"(회사를) 정리하다, 해산하다"
+21,lucid,"명쾌한, 명료한"
+21,makeshift,임시방편의
+21,roll out,출시하다
+21,shrink,"줄어들다, 오그라들다"
+21,subsidize,~에 보조금을 지급하다
+21,succumb to,"~에 굴복하다, ~에 지다"
+22,agenda,안건
+22,printed agenda,인쇄된 회의 안건
+22,on the agenda,안건에 기재된
+22,convene,"모이다, 개최되다"
+22,refute,"부인하다, 반박하다"
+22,refutation,반박
+22,coordination,조정
+22,unanimous,"만장일치의, 동의하는"
+22,unanimously,만장일치로
+22,express unanimous support,만장일치의 지지를 표명하다
+22,convince A of B,A에게 B를 납득시키다
+22,convince A that ~,A에게 ~를 납득시키다
+22,consensus,"여론, 일치된 의견"
+22,consent,"동의하다, 동의, 승낙"
+22,general consensus,전반적인 여론
+22,reach a consensus on,"~에 합의를 보다, 합의에 도달하다"
+22,defer,"미루다, 연기하다"
+22,usually,"보통, 일반적으로"
+22,usual,"보통의, 평상시의"
+22,usually + V,보통 ~ 하다
+22,reschedule,일정을 바꾸다
+22,meeting,회의
+22,determine,"알아내다, 결정하다, 확정하다"
+22,determination,"결심, 결정"
+22,determined,"단호한, 확정된"
+22,determine the cause of,~의 원인을 알아내다
+22,report,"보고하다, 출두하다, 알리다"
+22,reportable,"보고할 수 있는, 보고 가치가 있는"
+22,reportedly,"전하는 바에 따르면, 소문에 의하면"
+22,report A to B,A를 B에게 보고하다
+22,comment,"논평하다, 언급하다, 의견"
+22,comment about ~,~에 대해 말하다
+22,comment on ~,~에 대해 말하다
+22,approve,"승인하다, 찬성하다"
+22,approve the request,요청을 승인하다
+22,approve the plan,계획에 찬성하다
+22,enclosed,동봉된
+22,approved,승인받은
+22,confirmed,승인받은
+22,easy to do,~하기 쉽다
+22,record,"기록, 경력, 기록하다"
+22,register,기록하다
+22,transaction records,거래 내역
+22,suggestion,제안
+22,attention,"주의, 경청"
+22,attentive,"경청하는, 주의 깊은, 세심한"
+22,pay attention to,~에 주의를 기울이다
+22,call attention to,~에 대해 타인의 주의를 환기시키다
+22,catch one's attention,~의 주의를 끌다
+22,attentive to,~을 경청하는
+22,object,반대하다
+22,object to ~ing,~에 반대하다
+22,objective,"객관적인, 목표, 목적"
+22,coincidentally,"우연히, 일치하게"
+22,crowded,"붐비는, 복잡한"
+22,undergo,"겪다, 경험하다"
+22,undergo construction,공사를 치르다
+22,undergo renovations,보수를 치르다
+22,undergo extensive training,폭 넓은 훈련을 받다
+22,undergo improvement,개선을 거치다
+22,outcome,결과
+22,narrowly,"주의 깊게, 좁게, 가까스로, 간신히"
+22,be narrowly focused on,~에 주의깊게 집중하다
+22,differ,"의견을 달리하다, 다르다"
+22,differ in,~면에서 다르다
+22,differ from,~와 다르다
+22,differentiate A from B,A와 B를 구별하다
+22,discuss + A,A를 논의하다
+22,give a speech,연설하다
+22,give a presentation,발표하다
+22,give A one's support,A를 지지하다
+22,given,"주어진, 특정한, ~를 고려해볼 때"
+22,brief,"간단히 설명하다, 간결한"
+22,brief A on B,A에게 B에 대해 간단히 설명하다
+22,briefly,"간결하게, 짧게"
+22,distract,"산만하게 하다, 빗기게 하다"
+22,emphasis,"강조, 중점"
+22,emphasize,강조하다
+22,emphatic,"강조하는, 단호한"
+22,stress,강조
+22,place on emphasis on,~을 강조하다
+22,with emphasis,"강조하여, 힘주어"
+22,press,"언론, 보도기관, 누르다"
+22,pressure,"압박, 곤경"
+22,press conference,기자 회견
+22,organize,"준비하다, 조직하다, 정리하다"
+22,organization,"조직, 구성, 단체"
+22,organizer,"주최자, 조직자"
+22,organize a committee,위원회를 조직하다
+22,organize one's thoughts,생각을 정리하다
+22,mention,"언급하다, 언급"
+22,persuasive,설득력 있는
+22,persuassion,설득
+22,persuasively,설득력 있게
+22,unconvincing,설득력 없는
+22,persuasive argument,설득력 있는 주장
+22,persuasive evidence,설득력 있는 증거
+22,persuade A to do,A가 ~하도록 설득하다
+22,understanding,이해심 있는
+22,adjourn,휴회하다
+22,constructive,건설적인
+22,constructively,"건설적으로, 구조상으로"
+22,destructive,파괴적인
+22,preside,사회를 보다
+22,preside over,"~의 사회를 보다, 통솔하다"
+22,presidency,회장직
+22,irrelevant,"관계가 없는, 무관한"
+22,irrelevant to,~와 관계없는
+22,irrespective of,~와 상관없이
+22,constraint,제한
+22,constrain,제한하다
+22,condensed,"요약한, 압축한"
+22,condensation,"요약, 압축"
+22,endorse,"지지하다, 보증하다"
+22,endorsement,지지
+22,endoresr,양도인
+22,punctually,"제시간에, 늦지 않게"
+22,punctual,시간을 엄수하는
+22,punctuality,시간 엄수
+22,annual meeting,연례 회의
+22,conference room,회의실
+22,guest speaker,초청 연사
+22,hand out,~을 나누어주다
+22,let's end,끝냅시다
+22,meeting time,회의 시간
+22,shake hand,악수하다
+22,teammate,동료
+22,write down,적다
+22,advise A of B,A에게 B를 알리다
+22,be held,열리다
+22,be scheduled for,~로 예정되어있다
+22,business talk,사업 이야기
+22,conversation,대화
+22,debate,토론하다
+22,express,표현하다
+22,gathering,모임
+22,judge,"판단하다, 평가하다"
+22,local time,현지시간
+22,result in,"~을 야기하다, ~로 끝나다"
+22,seating chart,좌석 배치도
+22,seminar,세미나
+22,vote,투표하다
+22,weekly,매주
+22,a large attendance,많은 참석자들
+22,attend a conference,학술 발표회에 참석하다
+22,business attire,비즈니스 정장
+22,conference call,전화 회담
+22,face to face,직면해서
+22,film footage,자료 화면
+22,get an appointment,약속을 잡다
+22,get back in touch,다시 연락이 되다
+22,get in touch with,~와 연락을 취하다
+22,have a discussion,토론하다
+22,keynote address,기조연설
+22,keynote speaker,기조연설자
+22,make a speech,연설하다
+22,make adjustments,조정하다
+22,pass around,~을 차례로 돌리다
+22,pass out,~을 나누어주다
+22,put in an offer,제안하다
+22,run a meeting,회의를 진행하다
+22,schedule an appointment,약속을 잡다
+22,speak up,말하다
+22,stare into,~을 응시하다
+22,take down,"~을 적다, 내리다"
+22,take notes,기록하다
+22,take part in,~에 참가하다
+22,visual aid,시각 보조 자료
+22,conventional,"흔히 있는, 전통적인"
+22,hold back,"자제하다, 억제하다"
+22,misprint,잘못 인쇄된 것
+22,occupied,"바쁜, 사용중인, 사람이 있는, 거주하는, 사용되는"
+22,participate in,~에 참가하다
+22,to start with,"우선, 첫째로"
+22,arrange a conference,회의를 준비하다
+22,be supposed to do,~하기로 되어있다
+22,biweekly,격주로
+22,bring up,(문제를) 제기하다
+22,clash,"충돌, 불일치"
+22,come to decision,결정을 내리다
+22,controversial,논쟁의 여지가 있는
+22,develop into,~으로 발전하다
+22,get the point,요점을 이해하다
+22,in conclusion,결론적으로
+22,in support of,~을 지지하여
+22,in the middle of,~도중에
+22,insist,주장하다
+22,insult,모욕하다
+22,inviting,"매력적인, 솔깃한"
+22,luncheon,점심
+22,make a conclusion,결론을 내리다
+22,offer an apology to A,A에게 사과하다
+22,official arrangement,공식적 합의
+22,OJT,사내 교육
+22,opponent,반대자
+22,postpone until,~까지 연기하다
+22,public speaking,"강연, 연설"
+22,reach a conclusion,결론에 이르다
+22,reach unanimous agreement,만장일치로 합의하다
+22,reassure,안심시키다
+22,recess,"휴식, 휴식 기간"
+22,slot,"시간, 틈"
+22,to the point,"적절한, 핵심을 찌르는"
+22,without the consent of,~의 동의없이
+22,chair,사회를 맡다
+22,conflict of interest,이해관계의 충돌
+22,excerpt,"발췌, 인용구"
+22,prop against,~에 받쳐 놓다
+22,run late,"늦게하다, 늦게 도착하다"
+22,sit through,끝까지 자리를 지키다
+22,stand on,"~에 기초하다, ~에 의거하다"
+22,symposium,토론회
+22,consenting,동의하는
+22,conversationally,담화로
+22,eloquent,"웅변을 잘 하는, 감명을 주는"
+22,faction,파벌
+22,illegible,읽기 어려운
+22,presumably,"아마, 추정컨데"
+22,abbreviate,"요약하다, 단축하다"
+22,abridgement,"요약본, 요약"
+22,coherent,"조리있는, 일관성있는"
+22,confine,"제한하다, ~에 한정시키다"
+22,counteroffer,"수정 제안, 대안"
+22,disperse,흩어지다
+22,distinguished,"뛰어난, 저명한"
+22,elaborate,"상세하게 설명하다, 공들인, 정교한"
+22,enthuse,열변을 토하다
+22,moderate a meeting,회의의 사회를 보다
+22,off chance,"요행, 희박한 가능성"
+22,presiding,주재하는
+22,put off,"연기하다, 미루다"
+22,stand up for,~을 옹호하다
+22,succinct,간결한
+22,summit meetting,정상 회담
+22,summon,소환하다
+22,uphold,지지하다
+23,host,"주최하다, 주최자, 사회자"
+23,host a display,전시 행사를 주최하다
+23,host a lecture,강의 행사를 주최하다
+23,host a celebration,축하 행사를 주최하다
+23,annual,매년의
+23,annual growth rate,연간 성장률
+23,annual conference,연례 회의
+23,annual safety inspection,연례 안전 검사
+23,biannual,반년마다의
+23,biennial,2년마다의
+23,annually,"매년, 해마다"
+23,purpose,"목적, 의도"
+23,purposely,"고의로, 일부로"
+23,enroll,등록하다
+23,enrollment,등록
+23,regiester,등록하다
+23,sign up,"등록하다, 참가하다"
+23,enroll in,~에 등록하다
+23,lecture,"강의, 강연"
+23,participant,참가자
+23,participate,참가하다
+23,participation,"참여, 참가, 가입"
+23,attendee,참자가
+23,attend,"참석하다, 출석하다, 주의를 기울이다"
+23,attendant,"시중드는 사람, 안내원"
+23,attend to,"~을 처리하다, ~를 돌보다 "
+23,promote,"증진하다, 촉진하다, 승진시키다"
+23,encourage A to do,A에게 ~ 하도록 장려하다
+23,be encouraged to do,~하도록 장려되다
+23,on leave,휴가로
+23,leave for~,~를 향해 떠나다
+23,leave A for B,A를 남기다 B에게 말이다
+23,recommendation,"추천 사항, 추천"
+23,schedule,~을 예정하다
+23,be scheduled for ~,~로 예정되어 있다
+23,be scheduled to do,~할 예정이다
+23,include,포함하다
+23,inclusion,"포함, 함유"
+23,inclusive,포괄적인
+23,result,"결과, ~의 결과로 되다"
+23,as a result of,~의 결과로
+23,as a result,결과적으로
+23,result from,~에서 유래하다
+23,registration,등록
+23,reauire A to do,A에게 ~하라고 요구하다
+23,required documents,구비서류
+23,grateful,"고마워하는, 감사하는"
+23,overtime,"초과근무, 야근, 규정 시간 외의"
+23,responsibility,"부담, 책임, 의무"
+23,environmental and social responsibility,환경과 사회에 대한 책임
+23,assent,"찬성하다, 승인, 동의"
+23,regard,"~을 ~으로 간주하다, 관심,배려"
+23,regarding,~에 관하여
+23,view,"관점, ~라고 여기다"
+23,show little regard for,~에 대해 거의 관심을 보이지 않다
+23,send one's regard,안부를 전하다
+23,tentative,"임시적인, 잠정적인"
+23,tentatively,"잠정적으로, 임시로"
+23,indefinite,정해지지 않은
+23,be tentatively scheduled for,잠정적으로 ~로 예정되다
+23,welcome,"반가운, 기꺼이 받아들여지는, 환영하다, 맞이하다"
+23,welcoming,"반갑게 맞이하는, 안락해보이는"
+23,a welcome addition to,~에 환영받는 물건/사람
+23,be welcome to do,~을 자유로이 할 수 있다
+23,functional,"기능성의, 편리한"
+23,functionality,"목적, 기능성"
+23,commencement,시작
+23,object to,~에 반대하다
+23,objectivity,객관성
+23,excited,신이난
+23,excite,흥분시키다
+23,exciting,"신나는, 흥미진진한"
+23,treatment,대우
+23,treat,"대하다, 처리하다, 논의하다, 대접, 치료하다"
+23,honor,"존경, 명예, 존경하다, 명예를 주다"
+23,in hornor of,"~을 기념하여, ~에게 경의를 표하여"
+23,entry,"참가자, 출품물"
+23,enterance,"입구, 입장"
+23,earn,"벌다, 받다, 얻다"
+23,earnings,"소득, 수입"
+23,arise,"발생하다, 일어나다"
+23,labor,"노동, 일하다"
+23,existing,"기존의, 현행의"
+23,existence,존재
+23,existing equipment,기존 설비
+23,existing product,기존 제품
+23,exploit,"착취하다, 부당하게 이용하다"
+23,exploitation,착취
+23,award ceremony,시상식
+23,chat,"담소, 담소를 나누다"
+23,get paid,급여를 받다
+23,group,나누다
+23,hook,"걸이, ~에 걸다"
+23,introduction,"도입, 소개"
+23,learning center,교육 센터
+23,loudspeaker,확성기
+23,lounge,대합실
+23,management seminar,경영 세미나
+23,smoking section,흡연 구역
+23,take a vacation,휴가를 얻다
+23,wallpaper,벽지
+23,finely,"곱게, 정교하게"
+23,friendly,친절한
+23,gentle,"온화한, 점잖은"
+23,pharmacy,약국
+23,precise,"정확한, 정밀한"
+23,prize,"상품, 소중하게 여기다"
+23,a letter of gratitude,감사 편지
+23,childcare,"육아, 보육"
+23,don't have the nerve to do,~할 용기가 없다
+23,give a raise,임금을 인상해주다
+23,going away party,송별회
+23,it;s about time,~할 때이다
+23,it's no use ~ing,~해 봤자 소용없다
+23,job satisfaction,업무 만족도
+23,just in case,"~할 경우를 대비해, 만일을 위해서"
+23,keep A up to date,A에게 최근 소식을 계속 알려주다
+23,know A like the back of one's hand,A를 아주 잘 알고 있다
+23,miserable,"비참한, 슬픈"
+23,paid leave,유급 휴가
+23,pick up one's paycheck,급여를 수령하다
+23,pity,"유감, 동정"
+23,privately,개인적으로
+23,psychological,정신적인
+23,put in some overtime,초과 근무를 하다
+23,safety drill,안전훈련
+23,sensitivity,감수성
+23,show around,안내하다
+23,stacks of books,책 무더기
+23,surprisingly,놀랍게도
+23,take place,"일어나다, 발생하다"
+23,take some time off,"휴식을 취하다, 일을 쉬다"
+23,terribly,"몹시, 형편없이"
+23,terrific,훌륭한
+23,the next best,차선
+23,thrilling,"짜릿한, 흥분되는"
+23,credit A with B,B를 A의 공으로 믿다
+23,credit B to A,B를 A의 공으로 믿다
+23,intentionally,"고의로, 의도적으로"
+23,meanwhile,"그동안에, 한편에"
+23,unused,사용하지 않은
+23,be tired of,~에 싫증이 나다
+23,charitable,자선의
+23,course of study,교육과정
+23,depressed,낙담한
+23,extra pay,추가 급여
+23,featured speaker,특별 연사
+23,generous,관대한
+23,laugh away,~을 웃음으로 넘기다
+23,merit,장점
+23,night shift,야간 근무
+23,occupational safety and health,직장 안전 및 건강
+23,overtime allowance,초과 근무 수당
+23,overtime rate,초과 근무 수당
+23,paid vacation,유급 휴가
+23,pay increase,임금 인상
+23,pension,연금
+23,poorly paid,박봉의
+23,preservation area,보호구역
+23,reference number,조회번호
+23,regional allowance,특별 근무지 수당
+23,regular working hours,정규 근무 시간
+23,retirement party,은퇴 기념 파티
+23,retirement plan,퇴직 연금 제도
+23,salary and benefits,급여와 복리 후생
+23,sheltered housing,보호 시설
+23,sick leave,병가
+23,strong-willed,"의지가 강한, 완고한"
+23,time-off,"결석, 휴가"
+23,welfare,복지
+23,work environment,작업 환경
+23,working condition,근무 조건
+23,get reimbursed for,~을 환급받다
+23,hearty,"마음에서 우러난, 풍부한"
+23,kindhearted,친절한
+23,knock off,업무를 마치다
+23,maternity leave,출산 휴가
+23,misuse,오용
+23,nursery,"유아원, 놀이방, 보육"
+23,nursing,"간호, 간호학"
+23,chronological,"시간 순의, 연대 순의"
+23,exhibitor,출품자
+23,flatter,아첨하다
+23,give in,"굴복하다, 양보하다"
+23,second,"찬성하다, 지지하다"
+23,citation,"인용구, 인용"
+23,commemorate,기념하다
+23,conjunction,"연합, 공동"
+23,cut benefits,"복리 후생을 줄이다, 수당을 줄이다"
+23,discriminate,차별하다
+23,distort,왜곡하다
+23,flextime,자율 근무 시간제
+23,fringe benefits,부가 급부
+23,goodwill,호의
+23,labor costs,인건비
+23,labor dispute,노동 쟁의
+23,off-peak,"한산할 떄의, 비수기의"
+23,pique,"화, 불쾌"
+23,sabotage,방해 행위
+23,salary review,연봉 심사
+23,severance pay,퇴직금
+23,spry,"기운찬, 활발한"
+23,straightforward,"정직한, 간단한"
+23,yearn,열망하다
+24,appoint,"임명하다, 지명하다"
+24,appraisal,평가
+24,appriase,~을 평가하다
+24,performance appraisals,"실적 평가, 고과"
+24,promotion,"승진, 진급, 판촉"
+24,promotional,"홍보의, 판촉의"
+24,demote,"감동시키다, 강등시키다"
+24,skilled,"숙련된, 노련한"
+24,be skilled at,"~에 노련하다, 능숙하다"
+24,radically,"완전히, 철저히"
+24,radical,"철저한, 근본적인"
+24,meal preference,선호 메뉴
+24,transfer,"보내다, 전근시키다, 전근, 이전"
+24,transfer A to B,A를 B로 보내다
+24,award,"상, 수여하다"
+24,mandatory,의무적인
+24,performance,"실적, 성과, 공연, 연주"
+24,performer,연주자
+24,execution,"연주, 연기"
+24,performance review,실적 평가
+24,search,"찾다, 수색"
+24,inexperienced,"경험없는, 미숙한"
+24,early,"시기상조의, 조기의, 일찍"
+24,previous,"앞의, 이전의"
+24,designate,"지명하다, 지정하다"
+24,designation,"지명, 지정"
+24,executive,"경영의 ,관리의"
+24,dedication to,~에 대한 헌신
+24,congratulate,축하하다
+24,congratulate A on B,A에게 B에 대해 축하하다
+24,dismiss,"해임하다, 해고하다"
+24,dismissal,해고
+24,independence,독립성
+24,praise,"칭찬, 칭찬하다"
+24,deliberation,"토의, 심의"
+24,leadership,"리더십, 지도력"
+24,retire,"퇴직하다, 은퇴하다"
+24,retirement,"퇴직, 은퇴"
+24,nomination,"임명, 지명"
+24,nominee,지명된 사람
+24,reorganize,"재편성하다, 재조직하다"
+24,reorganization,재편성
+24,restructuring,재편성
+24,serve,"일하다, 근무하다"
+24,serve as,~로서 일하다
+24,resignation,"사임, 사직, 사직서"
+24,strictly,엄격히
+24,serverly,"심하게, 엄하게"
+24,strictly limited,엄격히 제한된
+24,strictly prohibited,엄격히 금지된
+24,accept an award,상을 받다
+24,anniversary celebration,기념일 축하 행사
+24,fire,해고하다
+24,flash,번쩍임
+24,go downstairs,아래층으로 내려가다
+24,greenhouse,온실
+24,gymnasium,체육관
+24,job title,직함
+24,knob,손잡이
+24,ladder,사다리
+24,lengthy,"긴, 오랜"
+24,move around,돌아다니다
+24,point at,~을 가리키다
+24,scatter,흩뿌리다
+24,send out,배부하다
+24,yell,소리치다
+24,helping,도움의
+24,hopeful,"희망에 찬, 기대하는"
+24,level,"지위, 수준"
+24,resign,"사직하다, 물러나다"
+24,role,역할
+24,safeguard,"예방 수단, 안전장치"
+24,throughout the day,하루 종일
+24,arm in arm,"팔짱을 끼고, 제휴하여"
+24,experienced employee,경력직원
+24,face away from,~으로부터 고개를 돌리다
+24,fill in for,"~를 대신하다, ~의 일을 대신 봐주다"
+24,get a promotion,승진하다
+24,give A an advance,A에게 가불해주다
+24,kneel,무릎을 꿇다
+24,language acquisition,언어 습득
+24,move over one seat,자리를 한 칸 옮기다
+24,move up,승진하다
+24,newly arrived,새로 부임한
+24,obviously qualified,명백히 자격을 갖춘
+24,pavilion,전시관
+24,personnel management,인사관리
+24,rear,뒤
+24,regional director,지사장
+24,reposition,~의 위치를 바꾸다
+24,retiree,퇴직자
+24,senior executive,고위 간부
+24,spare key,여분의 열쇠
+24,take early retirement,조기 퇴직하다
+24,take note,주목하다
+24,take one's place,~의 자리를 차지하다
+24,take over,인수하다
+24,admired,존경받는
+24,elect,선출하다
+24,incompetent,무능한
+24,knowledgeable,아는 것이 많은
+24,namely,"즉, 다시말해"
+24,nearby,인근의
+24,put in for,~을 신청하다
+24,recommendable,추천할 수 있는
+24,specially,특별히
+24,stand in for,"~의 대리를 맡다, ~를 대신하다"
+24,tech-savvy,최신 기술을 잘 아는
+24,undoubtedly,"의심할 여지 없이, 틀림없이"
+24,aspire to,~을 갈망하다
+24,empower,~에게 권한을 부여하다
+24,go forward,앞으로 나아가다
+24,heighten,높이다
+24,immigrant,이주자
+24,initiative,"계획, 진취성"
+24,inter-department,부서 간의
+24,job cutback,인력 감축
+24,lay off,해고하다
+24,named representative,지명된 대표자
+24,new appointment,새로 임명함
+24,official title,공식 직함
+24,on the recommendation of,~의 추천으로
+24,pass up,"거절하다, 포기하다"
+24,preach,"설교하다, 충고하다"
+24,predecessor,전임자
+24,provincial,지방의
+24,push back,연기하다
+24,ritual,"행사, 반드시 지키는 일"
+24,run for,~에 입후보하다
+24,speck,작은 얼룩
+24,turn away,내쫓다
+24,underestimate,과소평가하다
+24,understaffed,인원부족의
+24,plunge,떨어지다
+24,salute,"경례하다, 인사하다"
+24,scheme,계획
+24,cordially,"진심으로, 성심성의껏"
+24,delicate,"민감한, 세심한 주의가 필요한"
+24,irreversible,되돌릴 수 없는
+24,lingering,"오래끄는, 오래가는"
+24,lose oneself in,~에 몰두하다
+24,perpetual,끊임없이 계속되는
+24,tolerant,"관대한, 아량 있는"
+24,degrade,떨어뜨리다
+24,deploy,배치하다
+24,dignitary,고위인사
+24,disorient,혼란스럽게하다
+24,extraordinary feat,놀랄만한 업적
+24,forage,찾아다니다
+24,gratis,무료로
+24,hurdle,"곤란한 문제, 장애"
+24,immensity,"광대함, 엄청난 크기"
+24,in defiance of,~에 반항하여
+24,in one's grasp,~의 수중에
+24,incumbent,현직의
+24,miscellaneous,다양한
+24,reinstate,복직시키다
+24,scuff,마모시키다
+24,shred,갈기갈기 찢다
+24,underpass,지하도
+24,unwind,풀다
+24,upbeat,낙관적인
+25,congestion,"체증, 혼잡"
+25,congest,혼잡하게 하다
+25,traffic jam,교통 체증
+25,alleviate,완화하다
+25,alleviation,"경감, 완화"
+25,exacerbate,악화시키다
+25,alleviate congestion,교통 체증을 완화하다
+25,alleviate concern,고민을 완화하다
+25,divert,"우회시키다, 다른 곳으로 돌리다"
+25,diversion,전환
+25,detour,우회
+25,fuel,연료
+25,malfunction,"오작동, 기능 불량, 제대로 작동하지 않다"
+25,permit,"허락하다, 허가증"
+25,permissive,허가하는
+25,permissibly,"허용되어, 무방하여"
+25,transportation,"교통, 운송수단"
+25,opportunity,기회
+25,opportunity to do,~할 기회
+25,clearly,명확히
+25,clear,"명백한, 완전히, 치우다, 비우다, 내보내다, 통과하다"
+25,evidently,"분명히, 명백히"
+25,be clearly displayed,명확히 제시되다
+25,speak clearly,명확하게 말하다
+25,ongoing,계속 진행 중인
+25,detailed,상세한
+25,detailed information,상세한 정보
+25,explain in detail,상세히 설명하다
+25,know in detail,상세히 알다
+25,alternative,"대안, 대체, 다른, 대신의"
+25,alternatively,"그 대신에, 그렇지 않으면"
+25,alternate,번갈아 일어나다
+25,alternation,교대
+25,a feasible alternative to,~에 대한 현실성 있는 대안
+25,obtain,"획득하다, 얻다"
+25,obtainable,입수할 수 있는
+25,secure,"확보하다, 얻어내다, 지키다, 고정시키다, 안전한, 튼튼한"
+25,designated,지정된
+25,appointed,"지정된, 정해진"
+25,designated spots,지정된 장소
+25,designated hotels,지정된 호텔
+25,intersection,"교차로, 교차지점"
+25,equip A with B,A에게 B를 갖추어 주다
+25,be equipped with,~이 갖추어져 있다
+25,commute,"통근하다, 통근"
+25,downtown,"시내에서, 도심지로, 시내"
+25,automotive,자동차의
+25,closure,폐쇄
+25,vehicle,"차량, 운송수단"
+25,platform,승강장
+25,transit,"교통, 수송"
+25,public transit,대중교통
+25,fare,교통 요금
+25,at one's expense,"~의 부담으로, ~의 비용으로"
+25,travel expenses,여행 경비
+25,expense receipts,지출 영수증
+25,outstanding expenses,미결제 비용
+25,trust,"신뢰, 믿다"
+25,trusting,잘 믿는
+25,trustful,믿음직하게 여기는
+25,head,"나아가다, 향하게 하다"
+25,tariff,관세
+25,pass,"지나가다, 통과하다"
+25,passable,"쓸 만한, 통행할 수 있는"
+25,passage,"통로, 통행"
+25,securely,단단하게
+25,insecurely,"불안하게, 위태롭게"
+25,securely fastened,단단하게 조여진
+25,securely attached,단단하게 부착된
+25,securely anchored,단단하게 정박된
+25,prominently,"눈에 잘 띄게, 두드러지게"
+25,prominent,현저한
+25,noticeably,두드러지게
+25,explicitly,"명백히, 명시적으로"
+25,reserved parking,지정 주차
+25,preserved,보존된
+25,average,"평균치, 평균"
+25,collision,충돌
+25,tow,견인하다
+25,reverse,"뒤의, 반대의, 반대, 반대로하다, 번복하다"
+25,obstruct,"가리다, 차단하다, 막다"
+25,obstruction,"방해, 방해물"
+25,obstructive,방해하는
+25,bus stop,버스 정류장
+25,busy street,붐비는 거리
+25,cab,택시
+25,car rental,자동차 대여
+25,crosswalk,횡단보도
+25,free parking,무료 주차
+25,gas station,주유소
+25,hang,"걸다, 걸리다"
+25,heavy traffic,교통 혼잡
+25,highway,고속도로
+25,on foot,"걸어서, 도보로"
+25,path,"통행료, 경로"
+25,subway station,지하철역
+25,tour bus,관광버스
+25,traffic light,교통 신호
+25,wash the car,세차하다
+25,wheel,바퀴
+25,access to,~에의 접근
+25,cite,언급하다
+25,hood,"보닛, 덮개"
+25,inside,"~의 안에, 이내에"
+25,route,노선
+25,sharp,"뾰족한, 예리한"
+25,across the street,길을 가로질러
+25,around the corner,"길모퉁이에, 임박한, 매우 가까이에 있는"
+25,be closed to traffic,왕래를 금하다
+25,be held up in traffic,교통 체증에 걸리다
+25,be lined with,줄지어 있다
+25,broadcast,"방송하다, 방송"
+25,bypass,우회로
+25,carpool,승용차 함께 타기를 하다
+25,come to a standstill,"멈추다, 정지하다"
+25,commuter,통근자
+25,cross the street,길을 건너다
+25,direct traffic,교통정리를 하다
+25,driveway,"차도, 진입로"
+25,driving direction,주행 방향
+25,footrest,발받침
+25,footstool,발받침
+25,get a ride,차를 얻어 타다
+25,get lost,길을 잃다
+25,get to,~에 도착하다
+25,give A a ride,A를 태워주다
+25,have a flat tire,타이어에 바람이 빠지다
+25,headlight,전조등
+25,land at the dock,부두에 정박하다
+25,lane,차선
+25,lean over the railing,난간 위로 기대다
+25,license plate number,차량 번호
+25,lock the key in the car,열쇠를 차 안에 두고 잠그다
+25,make a stop,정지하다
+25,make a transfer,"갈아타다, 바꾸다"
+25,march,행진하다
+25,mileage,주행 거리
+25,navigation,"항해, 운항"
+25,one-way ticket,편도 차표
+25,parking garage,차고
+25,pathway,통행료
+25,push one's way through,~을 뚫고 지나가다
+25,ride away,타고가다
+25,road sign,도로 표지
+25,roadwork,도로 공사
+25,road construction,도로 공사
+25,shortcut,"지름길, 단축키"
+25,stop at a light,신호등에서 정지하다
+25,storage compartment,짐 싣는 곳
+25,street sign,도로 표지판
+25,toll price,통행료
+25,walk through,~을 통과해 걷다
+25,walking distance,걸어서 갈 수 있는 거리
+25,walkway,통로
+25,windshield,바람막이 창
+25,creation,창조
+25,motivate,"동기부여하다, 자극하다"
+25,normal,"정상, 표준"
+25,still,"조용한, 정지한, 여전히"
+25,traffic signal,교통 신호
+25,valuable,"소중한, 귀중한"
+25,at full speed,전속력으로
+25,clear A from B,A를 B에서 치우다
+25,collide,충돌하다
+25,congested,"붐비는, 혼잡한"
+25,encounter,"만나다, 부닥치다"
+25,move forward,앞으로 나아가다
+25,principal,"주요한, 주된"
+25,public transportation,대중교통
+25,standing room,입석
+25,steering wheel,핸들
+25,be towed away,견인되다
+25,bicycle rack,자전거 보관대
+25,carriage,"차량, 객차"
+25,fuel-efficient,"연료, 효율이 높은"
+25,navigate,길을 찾다
+25,overnight express,심야 고속
+25,pass by,지나가다
+25,passerby,행인
+25,pave,포장하다
+25,pedestrian,보행자
+25,pull into,서다
+25,sidewalk,보도
+25,specialist,"전문가, 전공자"
+25,spoke,바퀴살 (바퀴의 림과 허브 연결 부품)
+25,streetcar,전차
+25,towing service,견인 서비스
+25,wagon,화물 기차
+25,bear,~을 몸에 지니다
+25,inconveniently,불편하게
+25,opposition,"반대, 대항"
+25,ridership,"이용자 수, 승객 수"
+25,surround,"둘러싸다, 에워싸다"
+25,compact car,소형차
+25,conform to,"부합하다, 따르다"
+25,drawbridge,도개교
+25,give off,방출하다
+25,gratuity,"팁, 봉사료"
+25,ramp,경사로
+25,refurbish,개조하다
+26,delinquent,"연체된, 미불의"
+26,delinquency,"체납, 미불"
+26,delinquently,지불 기일이 넘어서
+26,overdue,기한이 지난
+26,overdated,구식의
+26,regrettably,유감스럽게도
+26,regret,"후회하다, 유감이다"
+26,regrettable,유감스러운
+26,regretfullyt,"애석한 듯, 유감스럽게도"
+26,deposit,"입금하다, 예금하다, 예금"
+26,withdraw,인출하다
+26,investigation,조사
+26,investigative,조사의
+26,conduct an investigation,조사하다
+26,under investigation,조사 중인
+26,take ~into account,~을 고려하다
+26,on account of,~때문에
+26,account for,"밝히다, 차지하다"
+26,back account,은행 예금 계좌
+26,account number,계좌 번호
+26,checking account,당좌 예금 계좌
+26,savings account,보통 예금 계좌
+26,statement,"명세서, 설명서"
+26,amount,"액수, 양, 총계가 ~에 이르다"
+26,withdrawal,인출
+26,previously,이전에
+26,earlier,이전에
+26,due,"만기가 된, ~에게 마땅히 지급되어야 할"
+26,due to,"~때문에, ~로 인해"
+26,receive,"받다, 수취하다"
+26,expected,예상되는
+26,expectedly,예상한 바와 같이
+26,expect A to do,A가 ~할 것을 예상하다
+26,be expected to do,~할 것으로 예상되다
+26,certificate,"증명서, 증서"
+26,certify,"증명하다, 보증하다"
+26,document,"서류, 문서, 기록하다, 문서를 작성하다"
+26,documentary,기록물
+26,documentation,증거 자료
+26,spending,"소비, 지출"
+26,spend,소비하다
+26,successfully,성공적으로
+26,bill,"~에게 청구서를 보내다, 청구서, 계산서"
+26,check,계산서
+26,pleasure,"즐거움, 기쁨, 영광"
+26,please,"즐겁게 하다, 기쁘게 하다"
+26,pleasant,"싹싹한, 즐거운"
+26,study,"연구, 연구하다"
+26,some studies indicate that~,연구 결과는 ~을 나타내고 있다
+26,some studies suggest that~,연구 결과는 ~을 나타내고 있다
+26,lower,줄이다
+26,lower the price,가격을 낮추다
+26,the lower price,더 낮은 가격
+26,transaction,"거래, 업무"
+26,transact,행하다
+26,double,"두 배로 만들다, 두 배의"
+26,identity,"신원, 정체"
+26,dissatisfaction,"불만, 불평"
+26,dissatisfy,불만을 느끼게 하다
+26,in common,"공통으로, 공동으로"
+26,commonly,"흔히, 보통"
+26,interest in,~에 대한 관심/흥미
+26,in one's best interest,~의 최대 이익을 도모하여
+26,in the interest of,~을 위하여
+26,a vested interest,기득권
+26,rejection,"거절, 거부"
+26,relation,관계
+26,related,관련된
+26,in attentive,"주의를 기울이지 않는, 신경쓰지 않는"
+26,convert,"전환하다, 변환하다"
+26,convert A into B,A를 B로 전환하다
+26,heavily,"몹시, 상하게"
+26,heavy,"무거운, 격렬한"
+26,heavily rely on,~에 지나치게 의존하다
+26,rain heavily,비가 매우 많이 오다
+26,loan,"대출, 대출금"
+26,unexpected,예기치 않은
+26,unexpectedly,뜻밖에
+26,cash,"현금으로 바꾸다, 현금"
+26,mortgage,대출
+26,payable,지불해야 하는
+26,payable to ~,~에게 지불해야 하는
+26,account payable,"지급 계정, 외상 매입금"
+26,personal,개인의
+26,personality,"성격, 개성"
+26,personify,"의인화하다, ~을 전형적으로 보여주다"
+26,personally,"친히, 몸소"
+26,personal check,개인 수표
+26,personal belongings,개인 물품
+26,personally welcome,친히 환영하다
+26,practice,"관행, 관례, 연습하다, 실습하다"
+26,at the earliest,아무리 빨라도
+26,at the same time,동시에
+26,at this point,이 시점에서
+26,audition,심사
+26,automatic payment,자동 납부
+26,banker,은행원
+26,banking,"은행 업무, 은행업"
+26,be used to ~ing,~에 익숙하다
+26,by the end of the year,연말까지
+26,by this time,지금쯤
+26,clerk,"사원, 점원"
+26,cozy,아늑한
+26,credit card number,신용 카드 번호
+26,float,물에 뜨다
+26,for a short time,잠깐 동안
+26,gesture,몸짓
+26,next to,~의 옆에
+26,password,비밀번호
+26,evening news,저녁 뉴스
+26,generously,관대하게
+26,in addition,게다가
+26,in addition to,~에 더하여
+26,in short,요컨데
+26,thankful,"고맙게 생각하는, 감사하는"
+26,unnecessary,불필요한
+26,useful,유용한
+26,awfully,"대단히, 정말"
+26,bank loan,은행 대출금
+26,bank teller,은행 출납원
+26,be amazed at,~에 놀라다
+26,be caught in,"~에 붙잡히다, ~에 걸리다"
+26,be spread out,펼쳐져 있다
+26,every other day,"격일로, 이틀에 한 번"
+26,flawed,결함이 있는
+26,foreign currency,외화
+26,gaze into,~을 뚫어지게 보다
+26,get a loan,대출을 받다
+26,give out,나눠주다
+26,glance at,~을 힐끗 보다
+26,go wrong with,~이 잘못되다
+26,hang out,시간을 보내다
+26,have around,~을 가지고 다니다
+26,if possible,가능하다면
+26,if you insist,굳이 원하신다면
+26,I'll bet,장담하건대
+26,pay off,"빚을 다 갚다, 이익이 되다"
+26,perhaps,"아마, 어쩌면"
+26,put in,"예금하다, 투자하다"
+26,savings,저축
+26,short term deposit,단기 예금
+26,the following day,그 다음날
+26,until the first of next month,다음 달 1일까지
+26,across form,~의 바로 맞은편에
+26,alarming,"걱정스러운, 두려운"
+26,anymore,"이제는, 더 이상은"
+26,at a time,"한 번에, 동시에"
+26,indeed,"실로, 정말"
+26,otherwise,"다르게, 달리, 만약 그렇지 않으면"
+26,owing to,~로 인하여
+26,partial,"부분적인, 편파적인"
+26,pay out,"지불하다, 치르다"
+26,receptive,수용적인
+26,simplify,간소화하다
+26,someday,"언젠가, 머지 않아"
+26,twofold,"두 배로, 이중으로, 두 배의 "
+26,bank account,계좌
+26,be highly regarded,높이 평가되다
+26,be of particular interest to,~가 특별히 관심을 가질만 하다
+26,billing information,청구서 정보
+26,credit,신용
+26,creditor,채권자
+26,currency,통화
+26,debit card,직불카드
+26,debt,빚
+26,expiration date,만기일
+26,financial history,신용 거래 실적
+26,for the sake of,~을 위하여
+26,forge,위조하다
+26,forgery,위조
+26,forthcoming,다가오는
+26,midtown,중간 지대
+26,owe,빚지고 있다
+26,paid with,지불된
+26,PIN,개인 식별 번호
+26,pop up,불쑥 나타나다
+26,public holiday,공휴일
+26,reluctant,마음이 내키지 않는
+26,requisition,"요구, 요구서"
+26,scrutinize,세밀히 조사하다
+26,sustain,지속하다
+26,be held up,"잡히다, 지연되다"
+26,crash,"폭락, 추락, 충돌"
+26,make a withdrawal,돈을 인출하다
+26,on loan,대부하여
+26,overdrawn,잔액이 부족한
+26,take out a loan,융자를 받다
+26,take out insurance on,~에 보험을 들다
+26,accrue,"축적하다, 모으다"
+26,credible,"신용할 수 있는, 확실한"
+26,curb,"억제하다, 억제, 구속"
+26,redemption,구원
+26,remit,"송금하다, 면제해주다"
+26,secured,보증된
+26,belatedly,뒤늦게
+26,bounce,부도가 나 되돌아오다
+26,cluster,"무리, 집단"
+26,collateral,"담보, 저당물"
+26,confiscate,"압수하다, 몰수하다"
+26,contender,"도전자, 경쟁자"
+26,counterfeit,"가짜, 모조품"
+26,credit money to one's account,~의 계좌에 돈을 입금하다
+26,deposit slip,예금 전표
+26,deterrent,"제지하는 것, 방해물"
+26,direct deposit,은행 자동 이체
+26,draw a check,수표를 발행하다
+26,fortnight,2주간
+26,on standby,대기 중인
+26,spurious,"허위의, 잘못된"
+26,trust company,"신탁 회사, 신탁 은행"
+26,trustee,"피 신탁인, 수탁자"
+26,wire money to,~에게 송금하다
+26,wire transfer,전신 송금
+27,investment,"투자, 투자금"
+27,investor,투자자
+27,inherently,본질적으로
+27,inherent,"고유의, 타고난"
+27,essentially,본질적으로
+27,predictable,예견할 수 있는
+27,in the foreseeable future,"당분간, 가까운 장래에"
+27,innate,타고난
+27,innately,선천적으로
+27,on behalf of,~을 대신해서
+27,lease,"임대차 (계약), 임대하다, 임차하다"
+27,sponsor,"후원하다, 후원자"
+27,sponsorship,"후원, 협찬"
+27,support,"후원, 원조, 지지, 지원하다, 후원하다, 유지하다"
+27,supporter,지지자
+27,supportive,"도와주는, 힘을 주는"
+27,aid,"원조, 도움, 돕다"
+27,oppose,반대하다
+27,for one's continued support,~의 지속적으로 성원에 대해
+27,distribution,"분배, 배급"
+27,consider,고려하다
+27,nearly,"거의, 대략"
+27,near,"가까이, 가까운"
+27,almost,거의
+27,consent of,~의 동의
+27,dissent,"이의, 반대"
+27,gratitude,"고마움, 감사"
+27,consult the manual,설명서를 참조하다
+27,advice,"조언, 충고"
+27,evident,"분명한, 명백한"
+27,cautiously,조심스럽게
+27,cautiously optimistic,조심스럽게 낙관하는
+27,reenter the market cautiously,조심스럽게 시장에 재진출하다
+27,insight,"식견, 통찰력"
+27,possible,"가능한, 있음 직한"
+27,possibly,"혹시, 아마"
+27,in any way possible,가능한 어떻게든
+27,speculation,추측
+27,speculate,추측하다
+27,widespread speculation,널리 퍼져있는
+27,growing speculation,증가하는 추측
+27,sole,하나뿐인
+27,entrepreneur,사업가
+27,eventually,"결국, 마침내"
+27,eventual,최후의
+27,finally,"결국, 마침내"
+27,ultimately,"결국, 마침내"
+27,shareholder,주주
+27,stability,"안정, 안전성"
+27,stable,안정된
+27,stabilize,안정시키다
+27,bond,채권
+27,depreciation,"가치 하락, 화폐가치 하락"
+27,depreciate,가치를 떨어뜨리다
+27,increasing amount of information,증가하는 정보량
+27,increasing market pressure,증가하는 시장 압력
+27,prevalent,"유행하고 있는, 널리 펀진"
+27,prevalence,널리 퍼짐
+27,widespread,널리 보급된
+27,popular,"인기있는, 대중적인"
+27,rapid,"빠른, 신속한"
+27,rapidity,"급속, 신속"
+27,rapid rate,빠른 속도
+27,rapid increase/decline,빠른 증가/감소
+27,unprecedented,전례 없는
+27,yield,"(이윤을) 가져오다, 산출하다, 생산량, 이윤"
+27,challenge,"도전, 도전하다"
+27,compact,소형의
+27,data,자료
+27,distance,거리
+27,elementary,"기본이 되는, 초보의"
+27,extra,추가의
+27,joint,공동의
+27,listen to,~을 듣다
+27,mentor,조언자
+27,relaxing,긴장을 풀어주는
+27,rental car,임대 자동차
+27,soon,곧
+27,biased,편향된
+27,goal,목표
+27,lose,분실하다
+27,owner,"주인, 소유주"
+27,risky,위험한
+27,somewhat,"다소, 얼마간"
+27,tight,"단단한, 꽉 조여 있는"
+27,truly,"정말로, 진심으로"
+27,wait,"기다리다, 기다림"
+27,worry,걱정하다
+27,at one's disposal,"~의 마음대로, ~뜻대로"
+27,be reluctant to do,~하기를 꺼리다
+27,believe it or not,믿거나 말거나
+27,blame A on B,A를 B의 탓으로 돌리다
+27,call an urgent meeting,비상 회의를 소집하다
+27,call for some assistance,도움을 청하다
+27,circumstances,"상황, 환경"
+27,cutback,삭감
+27,emergency evacuation,비상 대피
+27,festive,축제의
+27,frustrate,좌절시키다
+27,get rid of,~을 제거하다
+27,get it a try,시도하다
+27,have reason to do,~할 이유가 있다
+27,hazardous,위험한
+27,in private,비밀리에
+27,in the distant past,훨씬 이전에
+27,intake,섭취
+27,leaky,새는
+27,look for,~을 찾다
+27,organize a picnic,소품을 준비하다
+27,pair up with,~와 짝이 되다
+27,reflection,"(이미지) 상, 반영"
+27,self esteem,자부심
+27,show off,과시하다
+27,sponsored by,~의 후원을 받은
+27,stock market,주식 시장
+27,supporting,"지지하는, 후원하는"
+27,tear,찢다
+27,unconditionally,무조건적으로
+27,abundantly,"풍부하게, 많이"
+27,additionally,게다가
+27,ambitious,야심 있는
+27,consultation,"상담, 협의"
+27,impractical,"비현실적인, 비실용적인"
+27,improper,"부당한, 부도덕한"
+27,insecure,"불안한, 확신이 안가는"
+27,justify,정당화하다
+27,reduced,"축소한, 감소한"
+27,reluctance,마지못해 함
+27,reviewer,"논평가, 비평가"
+27,take pride in,~을 자랑하다
+27,threaten,"위협하다, ~할 우려가 있다"
+27,venture,"모험, 무릅쓰고 ~가다"
+27,branch office,"지점, 지사"
+27,stellite office,"지점, 지사"
+27,confusion,혼란
+27,controversy,논란
+27,cost analysis,비용 분석
+27,faintly,희미하게
+27,legacy,"유산, 유물"
+27,meet the expenses,경비를 대다
+27,on a regular basis,정기적으로
+27,on one's own account,"혼자서, 자신의 이익을 위해서"
+27,pioneer,"개척자, 선구자"
+27,projected,예상된
+27,reexamine,재검사하다
+27,repetitive,반복적인
+27,set up a business,사업을 시작하다
+27,strength,"힘, 장점"
+27,take precautions,조심하다
+27,throw out,버리다
+27,throw away,버리다
+27,cost estimate,원가 견적
+27,dispatch,발송하다
+27,faithfully,"충실하게, 정확히"
+27,impair,손상시키다
+27,in the vincinity of,~의 부근에 
+27,outlying,"외진, 변경의"
+27,play a role in,~에 한몫하다
+27,approximation,근사치
+27,attainable,이룰 수 있는
+27,courteousness,"예의 바름, 공손함"
+27,devalued,평가 절하된
+27,devidend,배당금
+27,fictitious,"허구의, 지어낸"
+27,overhaul,"점검, 정비, 철저히 조사하다"
+27,spectulate,추측하다
+27,unbeatable,더 이상 좋을 수 없는
+27,unbiased,"선입견 없는, 편견 없는"
+27,untimely,"때 이른, 시기상조의"
+27,accredit,승인하다
+27,deflate,"끌어내리다, 수축시키다"
+27,deliberately,고의로
+27,devastate,황폐시키다
+27,disparately,본질적으로 다르게
+27,evoke,일깨우다
+27,manipulation,"조작, 시장 조작"
+27,outweigh,~보다 크다
+27,property line,토지 경계선
+27,set aside,챙겨 두다
+27,start up cost,착수 비용
+27,well balanced,균형 잡힌
+27,wipe off,~을 없애다
+28,furnished,가구가 비치된
+28,furniture,가구
+28,furnishing,"가구, 비품"
+28,unfurnished,가구가 비치되지 않은
+28,residence,"거주지, 주택"
+28,reside,거주하다
+28,resident,거주자
+28,residential,"거주의, 거주에 관한"
+28,an official residence,공식적인 주거지
+28,spacious,넓은
+28,spaciously,넓게
+28,roomy,"넓은, 널찍한"
+28,drape,"장식하다, 커튼"
+28,drape A with B,A를 B로 장식하다
+28,unoccupied,"비어있는, 사람이 살지 않는"
+28,vacant,사람이 살지 않는
+28,renovation,"수리, 개조, 개조하다, 혁신"
+28,community,"지역 사회, 공동체"
+28,construction,"건설, 건축"
+28,construct,건설하다
+28,demolition,파괴
+28,under construction,"건설 중인, 모호한, 애매한"
+28,repair,수리하다
+28,repairable,수리 가능한
+28,repairman,수리공
+28,currently available,현재 이용 가능한
+28,currently closed,현재 폐쇄중인
+28,regularly,정기적으로
+28,arrange,"배열하다, 정돈하다"
+28,strategic location,전략적인 위치
+28,perfect location,완벽한 위치
+28,convenient location,편리한 위치
+28,restore,"복구하다, 회복시키다"
+28,restoration,복구
+28,restore A to B,A를 B의 상태로 복구시키다
+28,numerous,많은
+28,numerously,수없이 많이
+28,numerically,숫자상으로
+28,countless,무수한
+28,abandon,"그만두다, 버리다"
+28,densely,"빽빽이, 밀집하여"
+28,dense,밀집한
+28,density,"밀도, 조밀도"
+28,prepare,"준비하다, 채비를 갖추다"
+28,final,최종의
+28,district,"지역, 지구"
+28,renewal,재개발
+28,a renewal of urban towns,도시의 재개발
+28,compel,강요하다
+28,compulsion,강제
+28,obilgatory,의무적인
+28,interfere,"방해하다, 해치다"
+28,interference,"간섭, 방해"
+28,totally,"완전히, 전적으로"
+28,actually,"실제로, 사실은"
+28,architect,건축가
+28,architecture,건축물
+28,install,"설치하다, 장치하다"
+28,suppose,"생각하다, 추측하다"
+28,permanent,영구적인
+28,adjacent,인접한
+28,adjacent to,~에 인접한
+28,consist,"구성되다, 이루어지다"
+28,utility,"공공시설, 공공요금"
+28,utility company,공공기업
+28,no utilities included,공과금 별도
+28,armchair,안락의자
+28,ceiling,천장
+28,cleanup,"대청소, 청소하다"
+28,decoration,"장식, 장식물"
+28,fence,울타리
+28,floor,바닥
+28,frame,"틀, 액자"
+28,garage,차고
+28,heating system,난방 시스템 
+28,lobby,로비
+28,remodeling,주택 개조
+28,rooftop,"지붕, 옥상"
+28,rope,밧줄
+28,stick,"막대기, 지팡이"
+28,veranda,베란다
+28,dwell,거주하다
+28,fireplace,난로
+28,heat,"열기, 뜨겁게 만들다"
+28,homemade,집에서 만든
+28,homeowner,주택 소유자
+28,inhabit,거주하다
+28,lighten,밝게하다
+28,neighbor,이웃
+28,urban,도시의
+28,washing machine,세탁기
+28,canopy,덮개
+28,cast a shadow,그림자를 드리우다
+28,courtyard,안뜰
+28,cupboard,찬장
+28,cut the grass,잔디를 깎다
+28,dedication ceremony,준공식
+28,doorway,문간
+28,dresser,"화장대, 서랍장"
+28,emergency exit,비상구
+28,erect,"똑바로 선, 세우다"
+28,every hour on the hour,매 정시에
+28,faucet,수도꼭지
+28,floor plan,평면도
+28,flooring,바닥재
+28,front door,정문
+28,hallway,복도
+28,hammering,쿵쾅거리는
+28,handrail,난간
+28,home-improvement,주거 개선용의
+28,lamppost,가로등 기둥
+28,lean against the fence,울타리에 기대다
+28,light bulb,백열 전구
+28,make repairs,수리하다
+28,make the bed,잠자리를 준비하다
+28,multistory,"다층의, 고층의"
+28,outdoor wall,"외벽, 바깥벽"
+28,plug in,~의 플러그를 꽂다
+28,pole,기둥
+28,private residence,개인 주택
+28,put away,"집어넣다, 치우다"
+28,rebuild,재건하다
+28,repairperson,수리공
+28,spread on,~위에 펴 바르다
+28,staircase,계단
+28,stairway,계단
+28,storage cabinet,보관용 수납장
+28,switch on,~의 스위치를 켜다
+28,turn on its side,"뒤집다, 옆으로 돌리다"
+28,undergo renovation,개조 중이다
+28,windowsill,창턱
+28,describe,"말로 설명하다, 묘사하다"
+28,desirable,"바람직한, 이상적인"
+28,structure,구조물
+28,access road,진입로
+28,arrange the furniture,가구를 배치하다
+28,be arranged on the patio,테라스에 정돈되어 있다
+28,built in,붙박이의
+28,carpentry,목수일
+28,fire alarm,화재경보기
+28,fire extinguisher,소화기
+28,fitting room,탈의실
+28,fixture,붙박이 가구
+28,homebuilder,주택 건설업자
+28,housekeeping,가사
+28,housewares,가정용품
+28,housing development,주택 개발
+28,in error,"실수로, 잘못한"
+28,overprice,과하게 값을 매기다
+28,scrubbing,문지르기
+28,skyscraper,고층 빌딩
+28,space saving,공간 절약의
+28,tenant,임차인
+28,archway,아치 길
+28,be mounted on,"~에 설치되어 있다, 고정되어 있다"
+28,dig with a shovel,삽으로 땅을 파다
+28,drain,배수하다
+28,hedge,"울타리, 담"
+28,landlord,집주인
+28,ledge,선반
+28,lock oneself out of one's house,열쇠를 집 안에 두고 문을 잠그다
+28,plumber,배관공
+28,porch,현관
+28,run the tap,수도꼭지를 틀다
+28,saw,"톱, 톱질하다"
+28,scaffolding,"비계, 발판"
+28,screw,"나사, 죄다, 고정시키다"
+28,symmetrically,대칭적으로
+28,tear down,(건물을) 헐다
+28,uninhabited,사람이 살지 않는
+28,woodwork,목조 부분
+28,complex,"집합체, 복잡한"
+28,locale,"현장, 무대"
+28,maintenance,유지보수
+28,reconfiguration,구조 변경
+28,startle,깜짝 놀라게 하다
+28,annex,"별관, 증축 건물"
+28,demolish,파괴하다
+28,for lease,내놓은
+28,insulation,단열재
+28,premises,토지가 딸린 건물
+28,rack,선반
+28,shockproof,충격에 견디게 만든
+29,conserve,"보존하다, 유지하다"
+29,conservation,"보존, 보호"
+29,conservative,보수적인
+29,preserve,"보존하다, 보호하다"
+29,chance,"가능성, 기회"
+29,forecast,"예보, 예측하다"
+29,weather forecast,일기 예보
+29,market forecast,시장 전망
+29,waste,"쓰레기, 폐기물, 낭비하다"
+29,wasteful,낭비하는
+29,garbage,쓰레기
+29,rubbish,쓰레기
+29,dispose,"처분하다, 처리하다"
+29,disposable,"일회용의, 처분할 수 있는"
+29,disposal,"폐기, 처분"
+29,disposable income,가처분 소득
+29,idsposable towel,일회용 타월
+29,recycling,재활용
+29,clearable,깨끗이 할 수 있는
+29,damage,"피해, 손해, 손상시키다"
+29,damaging,손해를 끼치는
+29,cause damage to the machine,기계에 손상을 주다
+29,damage the machine,기계를 손상시키다
+29,significant,"상당한, 중대한, 중요한"
+29,solution,해결책
+29,solution to,~에 대한 해결책
+29,occur,"발생하다, 생기다"
+29,ideal,"이상적인, 이상적인 것"
+29,ideal venue,이상적인 개최지
+29,ideal place,이상적인 장소
+29,be ideal for,~에 이상적이다
+29,intensively,집중적으로
+29,variation,"변형, 변화, 차이"
+29,pleasing,"즐거운, 기분좋은, 만족스러운"
+29,mark,"점수, 평점, 표시, 기념하다, 축하하다"
+29,inaccessible,"접근이 불가능한, 이용이 불가능한"
+29,currently inaccessible,현재 접근/이용이 불가능한
+29,disturb,방해하다
+29,pollutant,오염 물질
+29,pollute,오염시키다
+29,pollution,오염
+29,emission,"배기가스, 방출"
+29,emit,배출하다
+29,environmental,환경적인
+29,environmentalist,환경 운동가
+29,environmentally,환경적으로
+29,consistent,"일치하는, 지속적인, 환결같은"
+29,leak,"누출, 누출량, 새게하다"
+29,association,단체
+29,continually,계속해서
+29,continue,계속되다
+29,continual,"반복되는, 끊임 없는"
+29,continuous,계속적인
+29,continuation,"지속, 연속되는 것"
+29,lastingly,"지속적으로, 영속적으로"
+29,contaminate,오염시키다
+29,contamination,오염
+29,disaster,재난
+29,discharge,"방출하다, 방출"
+29,resource,자원
+29,natural resources,천연자원
+29,prominence,두드러짐
+29,deplete,고갈시키다
+29,depletion,"고갈, 파괴"
+29,exhaust,고갈시키다
+29,purify,정화시키다
+29,endangered,멸종 위기에 처한
+29,purification,정화
+29,threatened,멸종 위기에 처한
+29,extinction,멸종
+29,extinct,멸종된
+29,drought,가뭄
+29,inflict,"입히다, 가하다"
+29,infliction,가함
+29,migration,"이동, 이주"
+29,migrate,이주하다
+29,ecology,"생태, 자연환경"
+29,habitat,서식지
+29,habitation,거주
+29,cave,동굴
+29,Celsius,섭씨
+29,chilly,쌀쌀한
+29,clean up,"치우다, 청소하다"
+29,cleaning supply,청소 용품
+29,dirt,먼지
+29,empty a trash can,휴지통을 비우다
+29,factory,공장
+29,humid,습한
+29,landscape,풍경
+29,point,"의견, 가리키다"
+29,seed,"씨, ~에 씨를 뿌리다"
+29,shade,그늘
+29,sunny,화창한
+29,sunset,일몰
+29,windy,바람 부는
+29,dust,"먼지, 먼지를 털다"
+29,general,일반적인
+29,shower,소나기
+29,source,원천
+29,southern,남쪽의
+29,temperature,온도
+29,along the shore,해변을 따라
+29,bay,(바다) 만
+29,body of water,물줄기
+29,bush,관목
+29,cliff,절벽
+29,countryside,"시골, 지방"
+29,eco-friendly,환경친화적인
+29,footpath,"보도, 오솔길"
+29,fountain,분수
+29,feezing,몹시 추운
+29,gardening tool,원예 도구
+29,grasp,"꽉 잡다, 움켜잡다"
+29,hail,우박
+29,lakefront,호숫가
+29,landscaping,조경
+29,lighthouse,등대
+29,nightfall,해 질 녘
+29,off the shore,해안에
+29,overlook the water,호수를 굽어보다
+29,pull weeds,잡초를 뽑다
+29,rain forest,열대우림
+29,rain or shine,"날씨에 상관없이, 어떤 일이 있어도"
+29,rain shower,소나기
+29,rainstorm,폭풍우
+29,ranger,공원 관리인
+29,riverbank,강둑
+29,riverside,강변
+29,scenery,풍경
+29,scenic,경치의
+29,slope,"비탈, 경사지다"
+29,stream,"시냇물, 흐르다"
+29,suburb,교외
+29,sweep the leaves,낙엽을 쓸다
+29,thunderstorm,뇌우
+29,trail,"길, 자취"
+29,trap,"가두다, 함정에 빠뜨리다"
+29,tree trunk,나무줄기
+29,twilight,해 질 녘
+29,weather report,일기 예보
+29,windstorm,폭풍
+29,affirmative,"긍정하는, 동의하는"
+29,dislike,싫어하다
+29,fertile,"비옥한, 기름진"
+29,quietly,조용히
+29,revolve,"회전하다, 초점을 맞추다"
+29,setting,"환경, 장소"
+29,sheer,"순전한, 얇은"
+29,solid,단단한
+29,tangible,"만져서 알 수 있는, 명백한"
+29,thoughtfully,생각이 깊게
+29,atmospheric,"대기의, 분위기 있는"
+29,environmental regulations,환경 규제
+29,ground,"지면, 근거"
+29,inclement,"궂은, 혹독한"
+29,mining,채굴
+29,natural habitat,자연 서식지
+29,noise and air pollution,소음공해와 대기오염
+29,nourishment,영양분
+29,nurture,"양육하다, 기르다"
+29,overflow,"범람하다, 넘치다"
+29,react to,~에 반응하다
+29,recyclable,재활용이 가능한
+29,water level,수위
+29,botanical,식물의
+29,irrigation system,관개 시설
+29,mow the lawn,잔디를 깎다
+29,overpass,육교
+29,potted,화분에 심은
+29,pull up,"뽑다, (차가) 서다"
+29,shrub,관목
+29,vacant site,공터
+29,outwardly,"겉으로는, 표면상으로"
+29,precipitation,"강수량, 강우량"
+29,promptness,"재빠름, 신속"
+29,revert,되돌아가다
+29,sustainable,지속 가능한
+29,tranquility,평온
+29,trimming,"정돈, 장식"
+29,downpour,호우
+29,drench,흠뻑 물에 적시다
+29,fade,"바래다, 희미해지다"
+29,fuel emission,연료 배기
+29,fumes,"가스, 연기"
+29,grazing,"방목, 목초지"
+29,logging,벌목
+29,outskirts,"교외, 변두리"
+29,residue,잔여물
+29,rugged,울퉁불퉁한
+29,sewage,"하수, 오수"
+29,splendor,장엄한
+29,terrestrial,지구상의
+29,timber,목재
+29,toxication,중독
+30,fatigue,피로
+30,checkup,건강 진단
+30,symptom,증상
+30,physician,내과 의사
+30,diagnosis,진단
+30,diagnose,진단하다
+30,prescribe,처방하다
+30,prescription,처방전
+30,prescribe medicine,약을 처방하다
+30,fill a prescription,처방전을 조제하다
+30,recovery,"회복, 쾌유"
+30,recover,"회복하다, 되찾다"
+30,get back,되찾다
+30,recognize,"인정하다, 알아보다"
+30,realize,"인식하다, 확실히 이해하다"
+30,join,~에 가입하다
+30,jointly,"공동으로, 연대적으로"
+30,join a club,클럽에 가입하다
+30,join a company,입사하다
+30,comprehend,포함하다
+30,comprehension,이해력
+30,comprehensively,"완전히, 철저히"
+30,paricipate,"참여하다, 참가하다"
+30,recommend,"권고하다, 추천하다"
+30,be strongly recommended,강력히 추천되다
+30,cleanliness,청결
+30,duration,"지속 기간, 지속"
+30,eliminate,제거하다
+30,elimination,제거
+30,dental,치과의
+30,dietary,"식이요법의, 규정식의"
+30,transmit,전염시키다
+30,transmission,"전송, 전달"
+30,periodically,주기적으로
+30,periodic,"주기적인, 정기의"
+30,allergic reactions,알레르기 반응
+30,reaction to,~에 대한 반응
+30,exposure,노출
+30,exposure to,~에 대한 노출
+30,be exposed to,~에 노출되다
+30,pharmaceutical,"제약의, 약학의"
+30,premium,"보험료, 상급의, 고급의"
+30,relieve,완화시키다
+30,relief,"완화, 경감"
+30,in combination with,"~과 더불어, ~과 결합하여"
+30,conscious,"알고있는, 자각하고 있는"
+30,consciousness,"의식, 자각"
+30,consciously,의식적으로
+30,deprivation,"박탈, 상실"
+30,deprive A of B,A에게서 B를 빼앗다
+30,health insurance,건강보험
+30,health benefits of exercise,운동이 주는 건강 상 이점들
+30,financial health,재정적 안정
+30,induce,유발하다
+30,inducement,유발
+30,insurance,보험
+30,insurance company,보험 회사
+30,insurance policy,보험 증서
+30,nutrition,영양
+30,nutritious,영양분이 많은
+30,nutritionist,영양사
+30,preventable,예방할 수 있는
+30,susceptible,"~에 감염되기 쉬운, 영향 받기 쉬운"
+30,susceptibility,감염되기 쉬움
+30,susceptible to,~에 걸리기 쉬운
+30,uncomfortably,"불쾌하게, 불편하게"
+30,allergic,"알레르기가 있는, 알레르기의"
+30,blind,눈이 먼
+30,cavity,충치
+30,cold,"감기, 추운"
+30,cosmetic,"미용의, 화장의"
+30,feel sick,"몸이 찌뿌드드 하다, 메스껍다"
+30,fitness,건강 상태
+30,gym,체육관
+30,have an injection,주사를 맞다
+30,medical facility,의료 시설
+30,raincoat,비옷
+30,surgery,수술
+30,toothache,치통
+30,vision,시력
+30,workout,운동
+30,beat,뛰다
+30,blink,눈을 깜빡이다
+30,cure,"치료, 치료하다"
+30,disease,질병
+30,healing,치료의
+30,internal,내부의
+30,lung,폐
+30,organ,기관
+30,remedy,"치료법, 의약"
+30,stomachache,복통
+30,well being,행복
+30,aging,나이 들어가는
+30,ankle sprain,발목 접질림
+30,back injury,허리 부상
+30,be on a special diet,특수 식이 요법 중이다
+30,blood pressure,혈압
+30,blood supply,혈액 옥읍
+30,buzzing,"위윙 소리내는, 와글거리는"
+30,doctor's appointment,진료 예약
+30,emergency room,응급실
+30,get some exercise,운동하다
+30,heart ailment,심장병
+30,heart attack,심장 마비
+30,heart disease,심장 질환
+30,injection,주사
+30,insomnia,불면증
+30,lean back,뒤로 기대다
+30,lose weight,살이 빠지다
+30,maternity ward,산부인과 병동
+30,patient's record,환자 의료기록
+30,physical examination,신체검사
+30,physical therapy,물리 치료
+30,resist,"참다, 견디다, 저항하다"
+30,sneeze,재채기하다
+30,surgical instrument,수술도구
+30,tablet,알약
+30,take medication,약을 복용하다
+30,take some medicine,약을 먹다
+30,vaccination,"백신, 예방 접종"
+30,watch over,"보호하다, 지키다"
+30,consequently,"그 결과, 따라서"
+30,harmful,해로운
+30,maximize,극대화하다
+30,medicinal,"약용의, 치유력이 있는"
+30,patiently,"끈기있게, 참을성 있게"
+30,resemble,~와 닮다
+30,visualize,시각화하다
+30,antibiotic,항생재
+30,asthma,천식
+30,athletic skill,운동 능력
+30,chronic,만성의
+30,contagious,전염성의
+30,diabetes,당뇨병
+30,dosage,1회분 복용량
+30,dose,1회 복용량
+30,eradicate,"근절하다, 뿌리뽑다"
+30,exhale,숨을 내쉬다
+30,first aid,응급 처치
+30,food poisoning,식중독
+30,forbid,금지하다
+30,genetic research,유전학 연구
+30,germ,세균
+30,hiccup,딸꾹질
+30,hygiene,위생
+30,immune,면역의
+30,infection,감염
+30,infectious disease,전염병
+30,inhale,숨을 들이마시다
+30,overdose,과다 복용
+30,painkiller,진통제
+30,paralysis,마비
+30,pulse,맥박
+30,robust,"튼튼한, 강건한"
+30,be on medication,약물치료 중이다
+30,blurry,흐릿한
+30,compressed,"압축된, 압착된, 간결한"
+30,get a prescription filled,처방전을 조제받다
+30,have one's vision tested,시력을 측정하다
+30,milestone,"획기적인 사건, 중요한 단계"
+30,on a empty stomach,공복에
+30,outpatient clinic,외래 환자 진료소
+30,practitioner,전문의
+30,recurring,되풀이하여 반복하는
+30,refill,"재조제하다, 재조제"
+30,wing,"별관, 부속 건물"
+30,elderly,나이 든
+30,insistent,"끈질긴, 강요하는"
+30,intuitively,직관적으로
+30,plausible,그럴듯한
+30,acute,심한
+30,prolonged,"장기의, 오래끄는"
+30,vocation,"직업, 천직, 사명감"
+30,deter,"단념시키다, 막다"
+30,dehydration,탈수
+30,life expectancy,평균 수명
+30,life span,수명
+30,over the counter medicine,처방전 없이 살 수 있는 약
+30,palpitations,비정상적으로 빠른 심장 박동
+30,perspire,땀을 흘리다
+30,quarantine,"격리, 격리시키다"
+30,recuperate,"회복하다, 건강을 되찾다"
+30,respiratory system,호흡기관
+30,respire,호흡하다
+30,sterilize,살균하다
