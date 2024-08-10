@@ -8,7 +8,7 @@ st.set_page_config(page_title="Select Range", page_icon="✎")
 
 # PATH
 #PATH = '~/Python/WordProgram/DB/CSV/'
-PATH = '~/DB/CSV/'
+PATH = 'DB/CSV/'
 file_name = 'updatedWordMaster.csv'
 
 # Create DF
