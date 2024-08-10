@@ -320,7 +320,7 @@ if condition_btn(btn_list, 0, 'btn_list'):
     st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}")
     st.divider()
     edited_df = printDataframe(
-        st.session_state.selected_df, 1, 
+        st.session_state.selected_df, 0, 
         is_err_input(input_list), 
         input_list, 
         btn_list, 
@@ -349,7 +349,7 @@ if condition_btn(btn_list, 1, 'btn_list'):
     st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
     st.divider()
     edited_df = printDataframe(
-        st.session_state.edited_df, 1, 
+        st.session_state.edited_df, 0, 
         is_err_input(input_list), 
         input_list, 
         btn_list, 
