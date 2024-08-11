@@ -447,3 +447,4 @@ if condition_btn(btn_list, 3, 'btn_list'):
         )
     else:
         st.error('Data Frame is not hidden State')
+    st.session_state.is_stat = [is_in_session(0, 'is_stat'), 0]
