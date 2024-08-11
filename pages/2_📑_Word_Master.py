@@ -353,7 +353,9 @@ if condition_btn(btn_list, 1, 'btn_list'):
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
         elif is_in_session(1, 'is_stat'):
             st.header('Hidden Sorted')
+            st.write(st.session_state.restored_df)
             restored_df = sorting(st.session_state.restored_df, 0) # OK
+            st.write(restored)
             # Check if the edited dataframe is different from the original dataframe
             if check_session_update(restored_df, 'restored_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
@@ -376,7 +378,7 @@ if condition_btn(btn_list, 1, 'btn_list'):
     elif is_in_session(1, 'is_stat'):
         hidden_df = st.session_state.restored_df.copy()
         hidden_df['Mean'] = ''
-        restored_df = printDataframe(
+        edited_df = printDataframe(
             hidden_df, 0, 
             is_err_input(input_list), 
             input_list, 
