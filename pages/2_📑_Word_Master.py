@@ -355,7 +355,7 @@ if condition_btn(btn_list, 1, 'btn_list'):
             st.header('Hidden Sorted')
             #st.write(st.session_state.restored_df)
             restored_df = sorting(st.session_state.restored_df, 0) # OK
-            #st.write(restored_df)
+            st.write(restored_df)
             # Check if the edited dataframe is different from the original dataframe
             if check_session_update(restored_df, 'restored_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
