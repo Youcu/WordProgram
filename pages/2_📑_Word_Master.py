@@ -16,7 +16,7 @@ df = pd.read_csv(PATH+file_name) # col_list = [ Day, Word, Mean, Rand ]
 df['Day'] = df['Day'].astype(float)
 df = pd.DataFrame(df) # CSV to DataFrame
 
-#clean_df(df)
+clean_df(df)
 df = count_df(df)
 
 # Define Dictionary
@@ -322,6 +322,9 @@ if 'rand_list' not in st.session_state :
 # --------- Optional Print Data Frame --------- #
 
 print(f"\tbefore condition\nsession : {st.session_state.btn_list}\nbutton : {btn_list}")
+
+clean_df(df)
+df = count_df(df)
 
 # Select Button
 if condition_btn(btn_list, 0, 'btn_list'):
