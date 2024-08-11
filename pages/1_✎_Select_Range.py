@@ -420,9 +420,9 @@ if condition_btn(btn_list, 2, 'btn_list'):
             btn_list, 
             day_value_list
         )   
-else :
-    st.error("Already Hidden")
-    st.error("If you want hide, Press 'Show' Button or 'Select Range' Button ")
+    else :
+        st.error("Already Hidden")
+        st.error("If you want hide, Press 'Show' Button or 'Select Range' Button ")
     
 
 # Show Button
