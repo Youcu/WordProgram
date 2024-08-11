@@ -395,29 +395,35 @@ if condition_btn(btn_list, 2, 'btn_list'):
 
     # Session Init 
     st.session_state.btn_list = dict_list['Hide']
+
+    if not is_in_session(1, 'is_stat') : # If, already hidden State -> Then Error 
     
-    # Check Session_State : is_stat for Sorted / Selected Session
-    hidden_df = st.session_state.edited_df.copy()
-
-    # Set Restored Dataframe
-    st.session_state.restored_df = hidden_df.copy()
-
-    # Hide Values -> Remove
-    hidden_df['Mean'] = ''
-
-    # Session State.is_stat Update : Hidden -> True & Sorted -> False
-    st.session_state.is_stat = [0, 1]
-
-    # Print Dataframe 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
-    st.divider()
-    st.session_state.edited_df = printDataframe(
-        hidden_df, 0,
-        is_err_input(input_list), 
-        input_list, 
-        btn_list, 
-        day_value_list
-    )   
+        # Check Session_State : is_stat for Sorted / Selected Session
+        hidden_df = st.session_state.edited_df.copy()
+    
+        # Set Restored Dataframe
+        st.session_state.restored_df = hidden_df.copy()
+    
+        # Hide Values -> Remove
+        hidden_df['Mean'] = ''
+    
+        # Session State.is_stat Update : Hidden -> True & Sorted -> False
+        st.session_state.is_stat = [0, 1]
+    
+        # Print Dataframe 
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
+        st.divider()
+        st.session_state.edited_df = printDataframe(
+            hidden_df, 0,
+            is_err_input(input_list), 
+            input_list, 
+            btn_list, 
+            day_value_list
+        )   
+else :
+    st.error("Already Hidden")
+    st.error("If you want hide, Press 'Show' Button or 'Select Range' Button ")")
+    
 
 # Show Button
 if condition_btn(btn_list, 3, 'btn_list'):
