@@ -352,7 +352,7 @@ if condition_btn(btn_list, 1, 'btn_list'):
             if check_session_update(edited_df, 'edited_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
         elif is_in_session(1, 'is_stat'):
-            restored_df = sorting(st.session_state.restored, 0) # OK
+            restored_df = sorting(st.session_state.restored_df, 0) # OK
             # Check if the edited dataframe is different from the original dataframe
             if check_session_update(restored_df, 'restored_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
