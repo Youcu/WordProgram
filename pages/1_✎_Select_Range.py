@@ -398,7 +398,10 @@ if condition_btn(btn_list, 3, 'btn_list'):
     if is_in_session(1, 'is_stat') : # hidden Case 만 처리
         st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Showed")
         st.divider()
-        edited_df = sorting(st.session_state.restored_df, 1)
+        if is_in_session(0, 'is_stat'):
+            edited_df = sorting(st.session_state.restored_df, 1)
+        else :
+            edited_df = st.session_state.restored_df
         st.session_state.edited_df = printDataframe(
             edited_df, 0,
             is_err_input(input_list), 
