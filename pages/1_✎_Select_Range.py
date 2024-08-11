@@ -375,8 +375,8 @@ if condition_btn(btn_list, 2, 'btn_list'):
     # Hide Values -> Remove
     hidden_df['Mean'] = ''
 
-    # Session State.is_stat Update : Hidden -> True
-    st.session_state.is_stat = [is_in_session(0, 'is_stat'), 1]
+    # Session State.is_stat Update : Hidden -> True & Sorted -> False
+    st.session_state.is_stat = [0, 1]
 
     # Print Dataframe 
     st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
