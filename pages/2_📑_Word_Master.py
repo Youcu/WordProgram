@@ -342,29 +342,51 @@ if condition_btn(btn_list, 1, 'btn_list'):
     st.session_state.btn_list = dict_list['Sorting']
     #st.subheader(len(df))
 
+    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
+    st.divider()
+    
     if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
-        edited_df = sorting(st.session_state.edited_df, 0) # OK
-        
-        # Check if the edited dataframe is different from the original dataframe
-        if check_session_update(edited_df, 'edited_df') : 
-            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+        if not is_in_session(1, 'is_stat'):
+            edited_df = sorting(st.session_state.edited_df, 0) # OK
+            # Check if the edited dataframe is different from the original dataframe
+            if check_session_update(edited_df, 'edited_df') : 
+                st.rerun()  # Use st.rerun instead of st.experimental_rerun
+        elif is_in_session(1, 'is_stat'):
+            restored_df = sorting(st.session_state.restored, 0) # OK
+            # Check if the edited dataframe is different from the original dataframe
+            if check_session_update(restored_df, 'restored_df') : 
+                st.rerun()  # Use st.rerun instead of st.experimental_rerun
             
     st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
-    st.divider()
-    edited_df = printDataframe(
-        st.session_state.edited_df, 0, 
-        is_err_input(input_list), 
-        input_list, 
-        btn_list, 
-        day_value_list
-    )
+    if not is_in_session(1, 'is_stat'):
+        edited_df = printDataframe(
+            st.session_state.edited_df, 0, 
+            is_err_input(input_list), 
+            input_list, 
+            btn_list, 
+            day_value_list
+        )
+    
+        # Check if the edited dataframe is different from the original dataframe
+        if check_session_update(edited_df, 'edited_df') : 
+            st.rerun()  # Use st.rerun instead of st.experimental_rerun
 
-    # Check if the edited dataframe is different from the original dataframe
-    if check_session_update(edited_df, 'edited_df') : 
-        st.rerun()  # Use st.rerun instead of st.experimental_rerun
-
+    elif is_in_session(1, 'is_stat'):
+        hidden_df = st.session_state.restored_df.copy()
+        hidden_df['Mean'] = ''
+        restored_df = printDataframe(
+            hidden_df, 0, 
+            is_err_input(input_list), 
+            input_list, 
+            btn_list, 
+            day_value_list
+        )
+    
+        # Check if the edited dataframe is different from the original dataframe
+        if check_session_update(restored_df, 'restored_df') : 
+            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+    
 # Hide Button
 if condition_btn(btn_list, 2, 'btn_list'):
 
