@@ -16,9 +16,6 @@ df = pd.read_csv(PATH+file_name) # col_list = [ Day, Word, Mean, Rand ]
 df['Day'] = df['Day'].astype(float)
 df = pd.DataFrame(df) # CSV to DataFrame
 
-clean_df(df)
-df = count_df(df)
-
 # Define Dictionary
 dict_list = {
     'Select' : [1, 0, 0, 0, 0],
