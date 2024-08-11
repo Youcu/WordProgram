@@ -16,6 +16,9 @@ df = pd.read_csv(PATH+file_name) # col_list = [ Day, Word, Mean, Rand ]
 df['Day'] = df['Day'].astype(float)
 df = pd.DataFrame(df) # CSV to DataFrame
 
+clean_df(df)
+df = count_df(df)
+
 # Define Dictionary
 dict_list = {
     'Select' : [1, 0, 0, 0, 0],
@@ -215,14 +218,14 @@ def printDataframe(df, opt, is_err_input, input_list, btn_list, day_value_list):
     edited_df = pd.DataFrame()        
 
     if not is_err_input :  # Condition -> not err & btn Click
-        try:
-            clean_df(df)
-            df = count_df(df)
-        except KeyError as e:
-            st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
-            # DataFrame을 초기화하거나, 에러를 처리합니다
-            df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
-        # clean_df(df)
+        # try:
+        #     clean_df(df)
+        #     df = count_df(df)
+        # except KeyError as e:
+        #     st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
+        #     # DataFrame을 초기화하거나, 에러를 처리합니다
+        #     df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
+        # # clean_df(df)
         # df = count_df(df) # Update Format 
         
         #df = sorting(df) # Sorted DataFrame
