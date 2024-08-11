@@ -155,7 +155,7 @@ def sorting(df, opt): # opt : 0 -> default, opt : 1 -> use session rnd seed
 
     df = df.sort_values(by='Rand')
 
-    return df
+    return df, rand_list
 
 # Sesstion State Check 
 def is_in_session(idx, key):
@@ -187,6 +187,16 @@ def check_session_update(edited_df, key) :
             return 1
         else : 
             return 0
+    elif key == 'rand_list' :
+        if not rand_list.equals(st.session_state.rand_list):
+            # If they are different, update the session state and trigger a rerun
+            st.session_state.rand_list = rand_list
+            return 1
+        else : 
+            return 0
+
+
+
 def condition_btn(btn_list, idx, key) :
     if btn_list[idx] or (is_other_btn(btn_list, idx) == -1 and is_in_session(idx, key)):
         return 1
@@ -339,10 +349,12 @@ if condition_btn(btn_list, 1, 'btn_list'):
     #st.subheader(len(df))
 
     if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
-        edited_df = sorting(st.session_state.edited_df, 0) # OK
+        edited_df, rand_list  = sorting(st.session_state.edited_df, 0) # OK
         
         # Check if the edited dataframe is different from the original dataframe
         if check_session_update(edited_df, 'edited_df') : 
+            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+        if check_session_update(rand_list, 'rand_list') : 
             st.rerun()  # Use st.rerun instead of st.experimental_rerun
     st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
 
