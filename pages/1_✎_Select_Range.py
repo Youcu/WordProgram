@@ -187,6 +187,7 @@ def check_session_update(edited_df, key) :
             return 1
         else : 
             return 0
+
 def condition_btn(btn_list, idx, key) :
     if btn_list[idx] or (is_other_btn(btn_list, idx) == -1 and is_in_session(idx, key)):
         return 1
@@ -205,14 +206,14 @@ def printDataframe(df, opt, is_err_input, input_list, btn_list, day_value_list):
     edited_df = pd.DataFrame()        
 
     if not is_err_input :  # Condition -> not err & btn Click
-        try:
-            clean_df(df)
-            df = count_df(df)
-        except KeyError as e:
-            st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
-            # DataFrame을 초기화하거나, 에러를 처리합니다
-            df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
-        # clean_df(df)
+        # try:
+        #     clean_df(df)
+        #     df = count_df(df)
+        # except KeyError as e:
+        #     st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
+        #     # DataFrame을 초기화하거나, 에러를 처리합니다
+        #     df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
+        # # clean_df(df)
         # df = count_df(df) # Update Format 
         
         #df = sorting(df) # Sorted DataFrame
@@ -310,6 +311,9 @@ if 'rand_list' not in st.session_state :
 
 print(f"\tbefore condition\nsession : {st.session_state.btn_list}\nbutton : {btn_list}")
 
+clean_df(df)
+df = count_df(df)
+
 # Select Button
 if condition_btn(btn_list, 0, 'btn_list'):
     # 버튼을 눌렀거나, 버튼을 누르진 않았지만 데이터 변경으로 세션은 남아있을 때
@@ -338,28 +342,54 @@ if condition_btn(btn_list, 1, 'btn_list'):
     st.session_state.btn_list = dict_list['Sorting']
     #st.subheader(len(df))
 
+    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
+    st.divider()
+    
     if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
-        edited_df = sorting(st.session_state.edited_df, 0) # OK
-        
+        if not is_in_session(1, 'is_stat'):
+            edited_df = sorting(st.session_state.edited_df, 0) # OK
+            # Check if the edited dataframe is different from the original dataframe
+            if check_session_update(edited_df, 'edited_df') : 
+                st.rerun()  # Use st.rerun instead of st.experimental_rerun
+        elif is_in_session(1, 'is_stat'):
+            #st.header('Hidden Sorted')
+            #st.write(st.session_state.restored_df)
+            restored_df = sorting(st.session_state.restored_df, 0) # OK
+            #st.write(restored_df)
+            # Check if the edited dataframe is different from the original dataframe
+            if check_session_update(restored_df, 'restored_df') : 
+                st.rerun()  # Use st.rerun instead of st.experimental_rerun
+            
+    st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
+
+    if not is_in_session(1, 'is_stat'):
+        edited_df = printDataframe(
+            st.session_state.edited_df, 0, 
+            is_err_input(input_list), 
+            input_list, 
+            btn_list, 
+            day_value_list
+        )
+    
         # Check if the edited dataframe is different from the original dataframe
         if check_session_update(edited_df, 'edited_df') : 
             st.rerun()  # Use st.rerun instead of st.experimental_rerun
-    st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
-    st.divider()
-    edited_df = printDataframe(
-        st.session_state.edited_df, 0, 
-        is_err_input(input_list), 
-        input_list, 
-        btn_list, 
-        day_value_list
-    )
-
-    # Check if the edited dataframe is different from the original dataframe
-    if check_session_update(edited_df, 'edited_df') : 
-        st.rerun()  # Use st.rerun instead of st.experimental_rerun
-
+    elif is_in_session(1, 'is_stat') and btn_list[1]:
+        hidden_df = restored_df
+        hidden_df['Mean'] = ''
+        edited_df = printDataframe(
+            hidden_df, 0, 
+            is_err_input(input_list), 
+            input_list, 
+            btn_list, 
+            day_value_list
+        )
+    
+        # Check if the edited dataframe is different from the original dataframe
+        if check_session_update(restored_df, 'restored_df') : 
+            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+    
 # Hide Button
 if condition_btn(btn_list, 2, 'btn_list'):
 
