@@ -375,7 +375,7 @@ if condition_btn(btn_list, 1, 'btn_list'):
         if check_session_update(edited_df, 'edited_df') : 
             st.rerun()  # Use st.rerun instead of st.experimental_rerun
 
-    elif is_in_session(1, 'is_stat'):
+    elif is_in_session(1, 'is_stat') and btn_list[1]:
         hidden_df = restored_df
         hidden_df['Mean'] = ''
         edited_df = printDataframe(
