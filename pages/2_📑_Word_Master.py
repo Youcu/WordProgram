@@ -7,8 +7,8 @@ import re
 st.set_page_config(page_title="Select Range", page_icon="✎")
 
 # PATH
-#PATH = '~/Python/WordProgram/DB/CSV/'
-PATH = 'DB/CSV/'
+PATH = '~/Python/WordProgram/DB/CSV/'
+#PATH = 'DB/CSV/'
 file_name = 'updatedWordMaster.csv'
 
 # Create DF
@@ -196,37 +196,37 @@ def condition_btn(btn_list, idx, key) :
 
 
 # Print Data Frame
-def printDataframe(df, opt, is_err_input, input_list, btn_list, day_value_list):
+# def printDataframe(df, opt, is_err_input, input_list, btn_list, day_value_list):
 
-    # # Params => 
-    # btn_list = [btn_select, btn_resorting]
-    # input_list = [input_start, input_end]
-    # day_value_list = [ minDay, maxDay ]
+#     # # Params => 
+#     # btn_list = [btn_select, btn_resorting]
+#     # input_list = [input_start, input_end]
+#     # day_value_list = [ minDay, maxDay ]
     
-    edited_df = pd.DataFrame()        
+#     edited_df = pd.DataFrame()        
 
-    if not is_err_input :  # Condition -> not err & btn Click
-        # try:
-        #     clean_df(df)
-        #     df = count_df(df)
-        # except KeyError as e:
-        #     st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
-        #     # DataFrame을 초기화하거나, 에러를 처리합니다
-        #     df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
-        # # clean_df(df)
-        # df = count_df(df) # Update Format 
+#     if not is_err_input :  # Condition -> not err & btn Click
+#         # try:
+#         #     clean_df(df)
+#         #     df = count_df(df)
+#         # except KeyError as e:
+#         #     st.error(f"DataFrame 처리 중 에러 발생: {str(e)}")
+#         #     # DataFrame을 초기화하거나, 에러를 처리합니다
+#         #     df = pd.read_csv(PATH+file_name)  # DataFrame을 다시 로드합니다
+#         # # clean_df(df)
+#         # df = count_df(df) # Update Format 
         
-        #df = sorting(df) # Sorted DataFrame
-        temp_df = df[(input_list[0] <= df['Day']) & (df['Day'] <= input_list[1])] # Then, Column's Value Filtering
-        temp_df = temp_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)  # Column Filtering and resetting index
+#         #df = sorting(df) # Sorted DataFrame
+#         temp_df = df[(input_list[0] <= df['Day']) & (df['Day'] <= input_list[1])] # Then, Column's Value Filtering
+#         temp_df = temp_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)  # Column Filtering and resetting index
         
-        edited_df = option_dataframe(temp_df, opt, day_value_list)
+#         edited_df = option_dataframe(temp_df, opt, day_value_list)
 
-    else:
-        print(is_err_input,input_list, btn_list)
-        st.info('Input Values Correctly and Press Button, and Data Frame will be displayed')
+#     else:
+#         print(is_err_input,input_list, btn_list)
+#         st.info('Input Values Correctly and Press Button, and Data Frame will be displayed')
 
-    return edited_df
+#     return edited_df
 def option_dataframe(df, opt, day_value_list):
 
     if opt :
@@ -314,131 +314,143 @@ print(f"\tbefore condition\nsession : {st.session_state.btn_list}\nbutton : {btn
 clean_df(df)
 df = count_df(df)
 
-# Select Button
-if condition_btn(btn_list, 0, 'btn_list'):
-    # 버튼을 눌렀거나, 버튼을 누르진 않았지만 데이터 변경으로 세션은 남아있을 때
-    
-    # First, Update btn session
-    st.session_state.btn_list = dict_list['Select']
-    #st.session_state.is_stat = [0, 0] # Input value 가 사라지는 문제점 포착
+if is_err_input(input_list) : 
+    st.error('Input Values Correctly and Press Button, and Data Frame will be displayed')
+    st.write(is_err_input,input_list, btn_list)
 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}")
-    st.divider()
-    edited_df = printDataframe(
-        st.session_state.selected_df, 0, 
-        is_err_input(input_list), 
-        input_list, 
-        btn_list, 
-        day_value_list
-    )
+else : # Not Error Case
+    st.success('Well')
+    edited_df = pd.DataFrame()
+    temp_df = df[(input_list[0] <= df['Day']) & (df['Day'] <= input_list[1])] # Then, Column's Value Filtering
+    st.session_state.selected_df = temp_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)  # Column Filtering and resetting index
+    #edited_df = option_dataframe(temp_df, opt, day_value_list)
 
-    # Check if the edited dataframe is different from the original dataframe
-    if check_session_update(edited_df, 'selected_df') :
-        st.rerun()  # Use st.rerun instead of st.experimental_rerun
+    # Select Button
+    if condition_btn(btn_list, 0, 'btn_list'):
+        # 버튼을 눌렀거나, 버튼을 누르진 않았지만 데이터 변경으로 세션은 남아있을 때
+        
+        # First, Update btn session
+        st.session_state.btn_list = dict_list['Select']
+        st.session_state.is_stat = [0, 0] 
 
-    st.session_state.edited_df = edited_df
-    
-# Sorting Button
-if condition_btn(btn_list, 1, 'btn_list'): 
-    st.session_state.btn_list = dict_list['Sorting']
-    #st.subheader(len(df))
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}")
+        st.divider()
+        edited_df = option_dataframe(
+            st.session_state.selected_df, 0, 
+            day_value_list
+        )
 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
-    st.divider()
-    
-    if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
+        # Check if the edited dataframe is different from the original dataframe
+        if check_session_update(edited_df, 'selected_df') :
+            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+
+        st.session_state.edited_df = edited_df
+        
+    # Sorting Button
+    if condition_btn(btn_list, 1, 'btn_list'): 
+        st.session_state.btn_list = dict_list['Sorting']
+        filtered_df = pd.DataFrame()
+        #st.subheader(len(df))
+
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
+        st.divider()
+        
+        if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
+            if not is_in_session(1, 'is_stat'):
+                edited_df = sorting(st.session_state.edited_df, 0) # OK
+                # Check if the edited dataframe is different from the original dataframe
+                if check_session_update(edited_df, 'edited_df') : 
+                    st.rerun()  # Use st.rerun instead of st.experimental_rerun
+            elif is_in_session(1, 'is_stat'):
+                restored_df = sorting(st.session_state.restored_df, 0) # OK
+                if check_session_update(restored_df, 'restored_df') : 
+                    st.rerun()  # Use st.rerun instead of st.experimental_rerun
+                
+        st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
+
         if not is_in_session(1, 'is_stat'):
-            edited_df = sorting(st.session_state.edited_df, 0) # OK
+            filtered_df = st.session_state.edited_df
+            st.session_state.edited_df = filtered_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)
+
+            edited_df = option_dataframe(
+                st.session_state.edited_df, 0, 
+                day_value_list
+            )
+        
             # Check if the edited dataframe is different from the original dataframe
             if check_session_update(edited_df, 'edited_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
-        elif is_in_session(1, 'is_stat'):
-            #st.header('Hidden Sorted')
-            #st.write(st.session_state.restored_df)
-            restored_df = sorting(st.session_state.restored_df, 0) # OK
-            #st.write(restored_df)
+
+        elif is_in_session(1, 'is_stat') and btn_list[1]:
+            st.write('Hidden Case')
+            hidden_df = restored_df
+            hidden_df = hidden_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)       
+            hidden_df['Mean'] = ''
+            edited_df = option_dataframe(
+                hidden_df, 0, 
+                day_value_list
+            )
+        
             # Check if the edited dataframe is different from the original dataframe
             if check_session_update(restored_df, 'restored_df') : 
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
-            
-    st.session_state.is_stat = [1, is_in_session(1, 'is_stat')]
+        
+    # Hide Button
+    if condition_btn(btn_list, 2, 'btn_list'):
 
-    if not is_in_session(1, 'is_stat'):
-        edited_df = printDataframe(
-            st.session_state.edited_df, 0, 
-            is_err_input(input_list), 
-            input_list, 
-            btn_list, 
-            day_value_list
-        )
-    
-        # Check if the edited dataframe is different from the original dataframe
-        if check_session_update(edited_df, 'edited_df') : 
-            st.rerun()  # Use st.rerun instead of st.experimental_rerun
+        # Session Init 
+        st.session_state.btn_list = dict_list['Hide']
+        
+        if not is_in_session(1, 'is_stat') : # Not Already Hidden Case :
+            # Check Session_State : is_stat for Sorted / Selected Session
+            hidden_df = st.session_state.edited_df.copy()
+        else : 
+            hidden_df = st.session_state.restored_df.copy()
 
-    elif is_in_session(1, 'is_stat') and btn_list[1]:
-        hidden_df = restored_df
+        # Set Restored Dataframe
+        st.session_state.restored_df = hidden_df.copy()
+
+        # Hide Values -> Remove
         hidden_df['Mean'] = ''
-        edited_df = printDataframe(
-            hidden_df, 0, 
-            is_err_input(input_list), 
-            input_list, 
-            btn_list, 
-            day_value_list
-        )
-    
-        # Check if the edited dataframe is different from the original dataframe
-        if check_session_update(restored_df, 'restored_df') : 
-            st.rerun()  # Use st.rerun instead of st.experimental_rerun
-    
-# Hide Button
-if condition_btn(btn_list, 2, 'btn_list'):
 
-    # Session Init 
-    st.session_state.btn_list = dict_list['Hide']
-    
-    # Check Session_State : is_stat for Sorted / Selected Session
-    hidden_df = st.session_state.edited_df.copy()
-
-    # Set Restored Dataframe
-    st.session_state.restored_df = hidden_df.copy()
-
-    # Hide Values -> Remove
-    hidden_df['Mean'] = ''
-
-    # Session State.is_stat Update : Hidden -> True & Sorted -> False
-    st.session_state.is_stat = [0, 1]
-
-    # Print Dataframe 
-    st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
-    st.divider()
-    st.session_state.edited_df = printDataframe(
-        hidden_df, 0,
-        is_err_input(input_list), 
-        input_list, 
-        btn_list, 
-        day_value_list
-    )   
-
-# Show Button
-if condition_btn(btn_list, 3, 'btn_list'):
-    # 버튼을 눌렀거나, 버튼을 누르진 않았지만 데이터 변경으로 세션은 남아있을 때
-    st.session_state.btn_list = dict_list['Show']
-
-    # Check Session Stat
-    if is_in_session(1, 'is_stat') : # hidden Case 만 처리
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Showed")
+        # ------- Print Dataframe ------- # 
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
         st.divider()
-        if is_in_session(0, 'is_stat'):
-            edited_df = sorting(st.session_state.restored_df, 1)
-        else :
-            edited_df = st.session_state.restored_df
-        st.session_state.edited_df = printDataframe(
-            edited_df, 0,
-            is_err_input(input_list), 
-            input_list, 
-            btn_list, 
+        if is_in_session(1, 'is_stat') : # Already Hidden Case :
+            st.info('Already Hidden Case. Print Prior Data frame') 
+        
+        # Session State.is_stat Update : Hidden -> True & Sorted -> False
+        st.session_state.is_stat = [0, 1]
+        st.session_state.edited_df = option_dataframe(
+            hidden_df, 0,
             day_value_list
-        )
-    else:
-        st.error('Data Frame is not hidden State')
+        )   
+
+    # Show Button
+    if condition_btn(btn_list, 3, 'btn_list'):
+        # 버튼을 눌렀거나, 버튼을 누르진 않았지만 데이터 변경으로 세션은 남아있을 때
+        st.session_state.btn_list = dict_list['Show']
+
+        # Check Session Stat
+        if is_in_session(1, 'is_stat') : # hidden Case 만 처리
+            st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Showed")
+            st.divider()
+
+            # Check isSorted? 
+            if is_in_session(0, 'is_stat'): # Sorted Case 
+                edited_df = sorting(st.session_state.restored_df, 1)
+
+            else : # Not Sorted Case
+                edited_df = st.session_state.restored_df
+
+            # Update is_stat -> Hidden State (X)
+            st.session_state.is_stat = [is_in_session(0, 'is_stat'), 0]
+
+            edited_df = edited_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)
+            
+            st.session_state.edited_df = option_dataframe(
+                edited_df, 0,
+                day_value_list
+            )
+        else:
+            st.error('Data Frame is not hidden State')
