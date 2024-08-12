@@ -334,6 +334,7 @@ if condition_btn(btn_list, 0, 'btn_list'):
     # Check if the edited dataframe is different from the original dataframe
     if check_session_update(edited_df, 'selected_df') :
         st.rerun()  # Use st.rerun instead of st.experimental_rerun
+    st.session_state.is_stat = [0, 0]
 
     st.session_state.edited_df = edited_df
     
