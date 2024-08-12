@@ -233,7 +233,7 @@ def option_dataframe(df, opt, day_value_list):
         edited_df = st.data_editor( # Print
             data=df, 
             num_rows="dynamic", # available to add rows
-            height=700, 
+            height=600, 
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
@@ -257,7 +257,7 @@ def option_dataframe(df, opt, day_value_list):
     else : 
         edited_df = st.data_editor(
             data=df,
-            height=700, 
+            height=600, 
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
