@@ -1,6 +1,13 @@
 import time
 import streamlit as st
 
+if 'display' not in st.session_state :
+    st.session_state.display = 0
+
+if st.session_state.display :
+    st.session_state.display = 0 
+    st.rerun()
+
 def display_home():
     GREETING = "## Welcome to Vocabulary Learning"
 
@@ -55,3 +62,4 @@ st.set_page_config(
 st.sidebar.success("Select a Page above.")
 st.empty()
 display_home()
+st.session_state.display = 1 
