@@ -252,7 +252,7 @@ def option_dataframe(df, opt, day_value_list):
                 )
             },  
             use_container_width=True, # width match to main frame
-            hide_index=True
+            hide_index=False
         )  # Editable Data Frame
     else : 
         edited_df = st.data_editor(
@@ -276,7 +276,7 @@ def option_dataframe(df, opt, day_value_list):
                 )
             },  
             use_container_width=True, # width match to main frame
-            hide_index=True,
+            hide_index=False,
             disabled=True
         )
     return edited_df
