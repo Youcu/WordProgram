@@ -316,10 +316,10 @@ df = count_df(df)
 
 if is_err_input(input_list) : 
     st.error('Input Values Correctly and Press Button, and Data Frame will be displayed')
-    st.write(is_err_input,input_list, btn_list)
+    #st.write(is_err_input,input_list, btn_list)
 
 else : # Not Error Case
-    st.success('Well')
+    #st.success('Well')
     edited_df = pd.DataFrame()
     temp_df = df[(input_list[0] <= df['Day']) & (df['Day'] <= input_list[1])] # Then, Column's Value Filtering
     st.session_state.selected_df = temp_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)  # Column Filtering and resetting index
@@ -382,7 +382,7 @@ else : # Not Error Case
                 st.rerun()  # Use st.rerun instead of st.experimental_rerun
 
         elif is_in_session(1, 'is_stat') and btn_list[1]:
-            st.write('Hidden Case')
+            #st.write('Hidden Case')
             hidden_df = restored_df
             hidden_df = hidden_df.filter(items=['Day', 'Word', 'Mean']).reset_index(drop=True)       
             hidden_df['Mean'] = ''
