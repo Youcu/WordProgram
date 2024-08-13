@@ -237,7 +237,7 @@ def option_dataframe(df, opt, day_value_list):
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
-                    width="Middle",
+                    width="large",
                 ),
                 "Mean" : st.column_config.TextColumn(
                     width="large",
@@ -246,7 +246,7 @@ def option_dataframe(df, opt, day_value_list):
                     help="Must Input [ {:.0f} ~ {:.0f} ] Value".format(day_value_list[0], day_value_list[1]),
                     min_value=day_value_list[0],
                     max_value=day_value_list[1],
-                    width=None,
+                    width="small",
                     step=1,
                     format="%.0f"
                 )
@@ -261,7 +261,7 @@ def option_dataframe(df, opt, day_value_list):
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
-                    width="Middle",
+                    width="large",
                 ),
                 "Mean" : st.column_config.TextColumn(
                     width="large",
@@ -270,7 +270,7 @@ def option_dataframe(df, opt, day_value_list):
                     help="Must Input [ {:.0f} ~ {:.0f} ] Value".format(day_value_list[0], day_value_list[1]),
                     min_value=day_value_list[0],
                     max_value=day_value_list[1],
-                    width=None,
+                    width="small",
                     step=1,
                     format="%.0f"
                 )
