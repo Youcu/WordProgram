@@ -334,7 +334,7 @@ else : # Not Error Case
         st.session_state.is_stat = [0, 0] 
 
         # DataFrame's LastIdx
-        lastIdx = df.tail(1).index[0]
+        lastIdx = st.session_state.selected_df.tail(1).index[0]
 
         # Theme
         st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
@@ -357,7 +357,7 @@ else : # Not Error Case
         #st.subheader(len(df))
 
         # DataFrame's LastIdx
-        lastIdx = df.tail(1).index[0]
+        lastIdx = st.session_state.edited_df.tail(1).index[0]
 
         # Theme
         st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
@@ -424,7 +424,7 @@ else : # Not Error Case
         # ------- Print Dataframe ------- # 
 
         # DataFrame's LastIdx
-        lastIdx = df.tail(1).index[0]
+        lastIdx = st.session_state.edited_df.tail(1).index[0]
 
         # Theme
         st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
@@ -448,7 +448,7 @@ else : # Not Error Case
         # Check Session Stat
         if is_in_session(1, 'is_stat') : # hidden Case 만 처리
             # DataFrame's LastIdx
-            lastIdx = df.tail(1).index[0]
+            lastIdx = st.session_state.restored_df.tail(1).index[0]
     
             # Theme
             st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
