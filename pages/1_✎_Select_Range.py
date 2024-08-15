@@ -337,7 +337,7 @@ else : # Not Error Case
         lastIdx = st.session_state.selected_df.tail(1).index[0]
 
         # Theme
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx+1} Words")
         st.divider()
         edited_df = option_dataframe(
             st.session_state.selected_df, 0, 
@@ -360,7 +360,7 @@ else : # Not Error Case
         lastIdx = st.session_state.edited_df.tail(1).index[0]
 
         # Theme
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx+1} Words")
         st.divider()
         
         if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
@@ -427,7 +427,7 @@ else : # Not Error Case
         lastIdx = st.session_state.edited_df.tail(1).index[0]
 
         # Theme
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx+1} Words")
         st.divider()
         
         if is_in_session(1, 'is_stat') : # Already Hidden Case :
@@ -451,7 +451,7 @@ else : # Not Error Case
             lastIdx = st.session_state.restored_df.tail(1).index[0]
     
             # Theme
-            st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
+            st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx+1} Words")
             st.divider()
 
             # Check isSorted? 
