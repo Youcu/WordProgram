@@ -333,7 +333,11 @@ else : # Not Error Case
         st.session_state.btn_list = dict_list['Select']
         st.session_state.is_stat = [0, 0] 
 
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}")
+        # DataFrame's LastIdx
+        lastIdx = df.tail(1).index[0]
+
+        # Theme
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
         st.divider()
         edited_df = option_dataframe(
             st.session_state.selected_df, 0, 
@@ -352,7 +356,11 @@ else : # Not Error Case
         filtered_df = pd.DataFrame()
         #st.subheader(len(df))
 
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted")
+        # DataFrame's LastIdx
+        lastIdx = df.tail(1).index[0]
+
+        # Theme
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
         st.divider()
         
         if btn_list[1]: # 다른 버튼 눌렀어. 세션 데이터 업데이트 해 
@@ -414,8 +422,14 @@ else : # Not Error Case
         hidden_df['Mean'] = ''
 
         # ------- Print Dataframe ------- # 
-        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Hidden")
+
+        # DataFrame's LastIdx
+        lastIdx = df.tail(1).index[0]
+
+        # Theme
+        st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
         st.divider()
+        
         if is_in_session(1, 'is_stat') : # Already Hidden Case :
             st.info('Already Hidden Case. Print Prior Data frame') 
         
@@ -433,7 +447,11 @@ else : # Not Error Case
 
         # Check Session Stat
         if is_in_session(1, 'is_stat') : # hidden Case 만 처리
-            st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Showed")
+            # DataFrame's LastIdx
+            lastIdx = df.tail(1).index[0]
+    
+            # Theme
+            st.subheader(f"Day : {input_list[0]} ~ {input_list[1]}, Sorted | {lastIdx} Words")
             st.divider()
 
             # Check isSorted? 
