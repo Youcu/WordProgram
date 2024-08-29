@@ -237,7 +237,7 @@ def option_dataframe(df, opt, day_value_list):
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
-                    width="large",
+                    width=None,
                 ),
                 "Mean" : st.column_config.TextColumn(
                     width="large",
@@ -261,7 +261,7 @@ def option_dataframe(df, opt, day_value_list):
             # Columns Width Customize
             column_config={
                 "Word" : st.column_config.Column(
-                    width="large",
+                    width=None,
                 ),
                 "Mean" : st.column_config.TextColumn(
                     width="large",
